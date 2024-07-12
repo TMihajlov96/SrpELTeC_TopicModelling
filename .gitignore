@@ -1,4 +1,4 @@
 # mac .DS_store file
-.DS_store
+*.DS_store
 # virtual environment file
-.env
+*.env
