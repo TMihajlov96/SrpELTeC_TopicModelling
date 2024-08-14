@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "clib-topicvisualization"
+version = "0.1.0"
+description = ""
+authors = ["Teodora Mihajlov <teodoramihajlov@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+jupyter = "^1.0.0"
+pandas = "^2.2.2"
+numpy = "^2.0.1"
+nltk = "^3.8.2"
+spacy = "^3.7.5"
+plotly = "^5.23.0"
+matplotlib = "^3.9.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
