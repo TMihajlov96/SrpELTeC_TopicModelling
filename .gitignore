@@ -1,4 +1,7 @@
 # default macOS files
 *.DS_Store
 # virtual environment
-env
+.env
+.venv
+# vsc
+.vscode
