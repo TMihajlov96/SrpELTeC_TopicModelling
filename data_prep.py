@@ -75,8 +75,20 @@ def clean_text(text, save_path): #stops
     
     return cleaned_text
 
-import os
-import json
+
+
+def get_filenames(path):
+    filenames = []
+
+    for filepath in glob.glob(os.path.join(path, "*.tt")):
+        filename = os.path.basename(filepath)
+        
+        name_part = filename.split('.xml-out.tt')[0]
+        
+        filenames.append(name_part)
+    
+    return filenames
+
 
 def save_strings_as_jsonl(strings, folder_path):
   
@@ -92,14 +104,35 @@ def save_strings_as_jsonl(strings, folder_path):
         with open(file_path, 'w', encoding='utf-8') as f:
             f.write(json.dumps(data, ensure_ascii=False) + "\n")
 
+def save_strings_as_jsonl(strings, folder_path, filenames):
+    # Ensure the output folder exists
+    os.makedirs(folder_path, exist_ok=True)
+
+    # Check if the number of strings matches the number of filenames
+    if len(strings) != len(filenames):
+        raise ValueError("The number of strings does not match the number of filenames.")
+
+    for i, text in enumerate(strings):
+        data = {"text": text}
+        
+        file_name = f"{filenames[i]}.jsonl"
+        file_path = os.path.join(folder_path, file_name)
+        
+        with open(file_path, 'w', encoding='utf-8') as f:
+            f.write(json.dumps(data, ensure_ascii=False) + "\n")
+
+
 if __name__ in "__main__":
     data_path = "data_lema_pos"
-    texts = load_data(data_path)
     stopwords_path = "stopwordsSRB.txt"
     stops_add_path = "stops_extra.txt"
     save_path = "final_stopwords_lat.txt"
-    stopwords = get_stopwords(stopwords_path, stops_add_path, save_path)
     cleaned_texts_path = "cleaned_texts/"
+
+    texts = load_data(data_path)
+    stopwords = get_stopwords(stopwords_path, stops_add_path, save_path)
     cleaned_texts = clean_text(texts, cleaned_texts_path)
     print(len(cleaned_texts))
-    save_strings_as_jsonl(cleaned_texts, cleaned_texts_path)
+
+    filenames = get_filenames(data_path)
+    save_strings_as_jsonl(cleaned_texts, cleaned_texts_path, filenames)
