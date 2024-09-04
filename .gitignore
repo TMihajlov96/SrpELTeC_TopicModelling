@@ -1,7 +1,9 @@
-# default macOS files
+# Default macOS files
 *.DS_Store
-# virtual environment
+# Virtual environment
 .env
 .venv
-# vsc
+# Vsc
 .vscode
+# Folders
+cleaned_texts

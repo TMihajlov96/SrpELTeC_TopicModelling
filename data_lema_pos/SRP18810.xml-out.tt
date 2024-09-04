@@ -1,0 +1,13974 @@
+DESET	NUM	deset
+PARA	NOUN	para
+PRIČA	NOUN	PRIČA
+IZ	ADP	iz
+ŽIVOTA	PROPN	Života
+U	ADP	u
+VAROŠI	PROPN	VAROŠI
+<s>
+NAPISAO	VERB	napisati
+</s>
+<s>
+M	X	m
+.	PUNCT	.
+Đ	PROPN	Đ
+.	PUNCT	.
+Milićević	PROPN	Milićević
+</s>
+<s>
+U	ADP	u
+BEOGRADU	PROPN	Beograd
+</s>
+<s>
+DRŽAVNA	ADJ	DRŽAVNA
+ŠTAMPARIJA	PROPN	ŠTAMPARIJA
+</s>
+<s>
+1881	NUM	@card@
+</s>
+<s>
+«	PUNCT	«
+Ti	PRON	ti
+si	AUX	jesam
+uvek	ADV	uvek
+bila	AUX	biti
+,	PUNCT	,
+dobra	NOUN	dobra
+kao	CCONJ	kao
+anđeo	NOUN	anđeo
+,	PUNCT	,
+a	CCONJ	a
+ja	PRON	ja
+uvek	ADV	uvek
+slab	ADJ	slab
+kao	CCONJ	kao
+maloumnik	NOUN	maloumnik
+.	PUNCT	.
+</s>
+<s>
+«	PUNCT	«
+Ti	PRON	ti
+veliš	VERB	velim
+:	PUNCT	:
+«	PUNCT	«
+</s>
+<s>
+Deset	NUM	deset
+je	AUX	jesam
+para	NOUN	para
+,	PUNCT	,
+samo	PART	samo
+deset	NUM	deset
+para	NOUN	para
+;	PUNCT	;
+a	CCONJ	a
+cigara	NOUN	cigara
+je	AUX	jesam
+samo	PART	samo
+nekoliko	ADV	nekoliko
+mrva	NOUN	mrva
+duvana	NOUN	duvan
+.	PUNCT	.
+</s>
+<s>
+Mali	ADJ	mali
+je	AUX	jesam
+to	DET	taj
+greh	NOUN	greh
+da	SCONJ	da
+upropasti	VERB	upropastiti
+jednoga	NUM	jedan
+mladića	NOUN	mladić
+za	ADP	za
+sav	DET	sav
+njegov	DET	njegov
+potonji	ADJ	potonji
+život	NOUN	život
+»	PUNCT	»
+!	PUNCT	!
+</s>
+<s>
+«	PUNCT	«
+Da	INTJ	da
+!	PUNCT	!
+i	CCONJ	i
+ja	PRON	ja
+sam	AUX	jesam
+mislio	VERB	misliti
+tako	ADV	tako
+,	PUNCT	,
+a	CCONJ	a
+izašlo	VERB	izaći
+je	AUX	jesam
+inako	ADV	inako
+.	PUNCT	.
+</s>
+<s>
+«	PUNCT	«
+Moja	PROPN	Mojo
+želja	NOUN	želja
+za	ADP	za
+deset	NUM	deset
+para	NOUN	para
+beše	AUX	biti
+želja	NOUN	želja
+mala	ADJ	mali
+,	PUNCT	,
+ali	CCONJ	ali
+želja	NOUN	želja
+nepotrebna	ADJ	nepotreban
+,	PUNCT	,
+želja	NOUN	želja
+besputna	ADJ	besputan
+.	PUNCT	.
+</s>
+<s>
+I	CCONJ	i
+ja	PRON	ja
+,	PUNCT	,
+kad	SCONJ	kad
+god	PART	god
+mogah	VERB	moći
+tu	DET	taj
+želju	NOUN	želja
+zadovoljiti	VERB	zadovoljiti
+,	PUNCT	,
+osećah	VERB	osećati
+se	PART	se
+ne	PART	ne
+kao	CCONJ	kao
+slabotinja	NOUN	slabotinja
+,	PUNCT	,
+ne	PART	ne
+kao	CCONJ	kao
+pobeđenik	NOUN	pobeđenik
+,	PUNCT	,
+nego	CCONJ	nego
+kao	CCONJ	kao
+junak	NOUN	junak
+,	PUNCT	,
+kao	CCONJ	kao
+pobeditelj	NOUN	pobeditelj
+!	PUNCT	!
+</s>
+<s>
+«	PUNCT	«
+Ta	DET	taj
+me	PRON	ja
+je	AUX	jesam
+vajna	ADJ	vajni
+pobeda	NOUN	pobeda
+hrabrila	VERB	hrabriti
+da	SCONJ	da
+se	PART	se
+upinjem	VERB	upinjati
+podmiriti	VERB	podmiriti
+i	CCONJ	i
+druge	ADJ	drugi
+svoje	DET	svoj
+požude	NOUN	požuda
+,	PUNCT	,
+tako	ADV	tako
+isto	ADV	isto
+male	ADJ	mali
+,	PUNCT	,
+i	CCONJ	i
+tako	ADV	tako
+isto	ADV	isto
+besputne	ADJ	besputan
+.	PUNCT	.
+</s>
+<s>
+«	PUNCT	«
+I	CCONJ	i
+cigara	NOUN	cigara
+sama	DET	sam
+malena	ADJ	malen
+je	AUX	jesam
+stvar	NOUN	stvar
+,	PUNCT	,
+ali	CCONJ	ali
+je	AUX	jesam
+velika	ADJ	velik
+s	ADP	s
+onom	DET	onaj
+družinom	NOUN	družina
+koju	DET	koji
+za	ADP	za
+sobom	PRON	sebe
+vuče	VERB	vući
+.	PUNCT	.
+</s>
+<s>
+«	PUNCT	«
+Sve	DET	sav
+one	DET	onaj
+male	ADJ	mali
+dimopije	NOUN	dimopije
+koje	DET	koji
+mi	PRON	ja
+,	PUNCT	,
+na	ADP	na
+bruku	NOUN	bruka
+svoju	DET	svoj
+a	CCONJ	a
+na	ADP	na
+štetu	NOUN	šteta
+njihovu	DET	njihov
+,	PUNCT	,
+svaki	DET	svaki
+dan	NOUN	dan
+sretamo	VERB	sretati
+po	ADP	po
+ulicama	NOUN	ulica
+prestonice	NOUN	prestonica
+,	PUNCT	,
+ne	PART	ne
+moraju	VERB	morati
+postati	VERB	postati
+rđavi	ADJ	rđav
+ljudi	NOUN	ljudi
+,	PUNCT	,
+ali	CCONJ	ali
+oni	PRON	oni
+već	PART	već
+jesu	AUX	jesam
+slabi	ADJ	slab
+mladići	NOUN	mladić
+!	PUNCT	!
+</s>
+<s>
+Oni	PRON	oni
+su	AUX	jesam
+već	PART	već
+toliko	ADV	toliko
+slabi	VERB	slabiti
+da	SCONJ	da
+ne	PART	ne
+mogu	VERB	moći
+sami	DET	sam
+sebi	PRON	sebe
+da	SCONJ	da
+gospodare	VERB	gospodariti
+!	PUNCT	!
+</s>
+<s>
+Eto	PART	eto
+,	PUNCT	,
+kaži	VERB	kazati
+mi	PRON	ja
+,	PUNCT	,
+ti	PRON	ti
+koja	DET	koji
+si	AUX	jesam
+tako	ADV	tako
+anđeoski	ADJ	anđeoski
+dobra	NOUN	dobra
+,	PUNCT	,
+kako	SCONJ	kako
+će	AUX	hteti
+onaj	DET	onaj
+koji	DET	koji
+još	ADV	još
+sada	ADV	sada
+,	PUNCT	,
+sa	ADP	sa
+mlečnim	ADJ	mlečan
+usnicama	NOUN	usnica
+svojim	DET	svoj
+,	PUNCT	,
+važno	ADV	važno
+izgovara	VERB	izgovarati
+:	PUNCT	:
+</s>
+<s>
+—	PUNCT	—
+Bez	ADP	bez
+hleba	NOUN	hleb
+mogu	VERB	moći
+,	PUNCT	,
+a	CCONJ	a
+bez	ADP	bez
+duvana	NOUN	duvan
+ne	PART	ne
+mogu	VERB	moći
+!	PUNCT	!
+kako	SCONJ	kako
+će	AUX	hteti
+,	PUNCT	,
+velim	VERB	velim
+,	PUNCT	,
+taj	DET	taj
+sutra	ADV	sutra
+odbiti	VERB	odbiti
+od	ADP	od
+očiju	NOUN	oči
+svojih	DET	svoj
+teški	ADJ	težak
+san	NOUN	san
+,	PUNCT	,
+i	CCONJ	i
+ostati	VERB	ostati
+da	SCONJ	da
+provodi	VERB	provoditi
+nesane	ADJ	nesan
+noći	NOUN	noć
+nad	ADP	nad
+knjigom	NOUN	knjiga
+?	PUNCT	?
+kako	SCONJ	kako
+će	AUX	hteti
+ostaviti	VERB	ostaviti
+svoje	DET	svoj
+slatko	ADJ	sladak
+spokojstvo	NOUN	spokojstvo
+—	PUNCT	—
+da	SCONJ	da
+podvori	VERB	podvoriti
+bona	ADJ	bon
+oca	NOUN	otac
+,	PUNCT	,
+ili	CCONJ	ili
+majku	NOUN	majka
+na	ADP	na
+umoru	NOUN	umor
+?	PUNCT	?
+kako	SCONJ	kako
+će	AUX	hteti
+izdržati	VERB	izdržati
+dugu	ADJ	dug
+tešku	ADJ	težak
+borbu	NOUN	borba
+u	ADP	u
+slavu	NOUN	slava
+napredaka	NOUN	napredak
+u	ADP	u
+društvu	NOUN	društvo
+?	PUNCT	?
+kako	SCONJ	kako
+će	AUX	hteti
+se	PART	se
+odreći	VERB	odreći
+od	ADP	od
+slasti	NOUN	slast
+tuđega	ADJ	tuđ
+zlata	NOUN	zlato
+a	CCONJ	a
+ostati	VERB	ostati
+pod	ADP	pod
+zastavom	NOUN	zastava
+poštene	ADJ	pošten
+siromaštine	NOUN	siromaština
+?	PUNCT	?
+kako	SCONJ	kako
+će	AUX	hteti
+uzeti	VERB	uzeti
+pušku	NOUN	pušak
+i	CCONJ	i
+stati	VERB	stati
+u	ADP	u
+red	NOUN	red
+boraca	NOUN	borac
+za	ADP	za
+svoju	DET	svoj
+otadžbinu	NOUN	otadžbina
+?	PUNCT	?
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+kako	SCONJ	kako
+će	AUX	hteti
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+(	PUNCT	(
+iscepano	VERB	iscepati
+)	PUNCT	)
+.	PUNCT	.
+</s>
+<s>
+«	PUNCT	«
+Hvalim	VERB	hvaliti
+tvoje	DET	tvoj
+dobro	ADJ	dobar
+srce	NOUN	srce
+,	PUNCT	,
+ali	CCONJ	ali
+ostajem	VERB	ostajati
+tvrdo	ADV	tvrdo
+uveren	ADJ	uveren
+da	SCONJ	da
+se	PART	se
+deca	NOUN	deca
+još	ADV	još
+iz	ADP	iz
+malena	ADJ	malen
+moraju	VERB	morati
+navikavati	VERB	navikavati
+na	ADP	na
+savlađivanje	NOUN	savlađivanje
+svojih	DET	svoj
+požuda	NOUN	požuda
+,	PUNCT	,
+na	ADP	na
+savlađivanje	NOUN	savlađivanje
+svojih	DET	svoj
+želja	NOUN	želja
+...	PUNCT	...
+</s>
+<s>
+(	PUNCT	(
+Opet	ADV	opet
+se	PART	se
+ne	PART	ne
+može	VERB	moći
+dalje	ADV	dalje
+da	SCONJ	da
+pročita	VERB	pročitati
+)	PUNCT	)
+.	PUNCT	.
+</s>
+<s>
+«	PUNCT	«
+3a	VERB	3a
+mene	PRON	ja
+je	AUX	jesam
+sad	ADV	sad
+sve	ADV	sve
+svršeno	VERB	svršiti
+.	PUNCT	.
+</s>
+<s>
+Ja	PRON	ja
+govorim	VERB	govoriti
+za	ADP	za
+druge	ADJ	drugi
+.	PUNCT	.
+</s>
+<s>
+«	PUNCT	«
+Ti	PRON	ti
+veliš	VERB	velim
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+»	PUNCT	»
+(	PUNCT	(
+dalje	ADV	dalje
+je	AUX	jesam
+sa	ADP	sa
+svim	DET	sav
+pocepano	VERB	pocepati
+)	PUNCT	)
+.	PUNCT	.
+</s>
+<s>
+(	PUNCT	(
+Ovo	DET	ovaj
+je	AUX	jesam
+nađeno	VERB	naći
+u	ADP	u
+Rijinoj	ADJ	Rijin
+bluzi	NOUN	bluza
+posle	ADP	posle
+njegove	DET	njegov
+smrti	NOUN	smrt
+)	PUNCT	)
+.	PUNCT	.
+</s>
+DESET	NUM	deset
+PARA	NOUN	para
+(	PUNCT	(
+NEŠTO	PROPN	NEŠTO
+IZ	ADP	iz
+ŽIVOTA	PROPN	Života
+U	ADP	u
+VAROŠI	PROPN	VAROŠI
+)	PUNCT	)
+I	CCONJ	i
+Provodadžija	PROPN	Provodadžija
+«	PUNCT	«
+Metni	VERB	metnuti
+drvo	NOUN	drvo
+uz	ADP	uz
+drvo	NOUN	drvo
+da	SCONJ	da
+bolje	ADV	bolje
+gori	VERB	goreti
+!	PUNCT	!
+»	PUNCT	»
+—	PUNCT	—
+<s>
+Provodadž	PROPN	Provodadž
+.	PUNCT	.
+poslovica	NOUN	poslovica
+</s>
+<s>
+Ulicom	NOUN	ulica
+od	ADP	od
+Bele	PROPN	Bela
+Češme	PROPN	Češme
+ka	ADP	ka
+Pravome	ADJ	prav
+Raskršću	PROPN	Raskršću
+,	PUNCT	,
+jednoga	NUM	jedan
+dana	NOUN	dan
+posle	ADV	posle
+po	ADP	po
+dne	NOUN	dan
+,	PUNCT	,
+žuraše	VERB	žuriti
+se	PART	se
+jedna	NUM	jedan
+žena	NOUN	žena
+koja	DET	koji
+na	ADP	na
+desnu	ADJ	desni
+nogu	NOUN	noga
+malko	ADV	malko
+hramaše	VERB	hramati
+.	PUNCT	.
+</s>
+<s>
+Uz	ADP	uz
+put	NOUN	put
+se	PART	se
+nikom	ADV	nikom
+ne	PART	ne
+javljaše	VERB	javljati
+,	PUNCT	,
+i	CCONJ	i
+nešto	PRON	nešto
+se	PART	se
+toliko	ADV	toliko
+bejaše	AUX	biti
+zamislila	VERB	zamisliti
+da	SCONJ	da
+se	PART	se
+sama	DET	sam
+sa	ADP	sa
+sobom	PRON	sebe
+glasno	ADV	glasno
+razgovaraše	VERB	razgovarati
+.	PUNCT	.
+</s>
+<s>
+Dva	NUM	dva
+mlada	ADJ	mlad
+gospodina	NOUN	gospodin
+,	PUNCT	,
+idući	VERB	ići
+joj	PRON	ona
+u	ADP	u
+susret	NOUN	susret
+,	PUNCT	,
+zastaše	VERB	zastati
+,	PUNCT	,
+promotriše	VERB	promotriti
+je	AUX	jesam
+,	PUNCT	,
+osmehnuše	VERB	osmehnuti
+se	PART	se
+,	PUNCT	,
+i	CCONJ	i
+jedan	NUM	jedan
+od	ADP	od
+njih	PRON	ona
+reče	VERB	reći
+:	PUNCT	:
+</s>
+<s>
+—	PUNCT	—
+Jamačno	ADJ	Jamačno
+ima	VERB	imati
+opet	ADV	opet
+neku	DET	neki
+«	PUNCT	«
+dobru	ADJ	dobar
+priliku	NOUN	prilika
+«	PUNCT	«
+,	PUNCT	,
+pa	CCONJ	pa
+trči	VERB	trčati
+da	SCONJ	da
+lovi	VERB	loviti
+mladoženju	NOUN	mladoženja
+,	PUNCT	,
+da	SCONJ	da
+«	PUNCT	«
+ne	PART	ne
+ode	VERB	otići
+u	ADP	u
+drugu	ADJ	drugi
+vamiliju	NOUN	vamilija
+«	PUNCT	«
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Mi	PRON	ja
+se	PART	se
+tome	DET	taj
+smejemo	VERB	smejati
+a	CCONJ	a
+njena	DET	njen
+«	PUNCT	«
+vamilija	NOUN	vamilija
+«	PUNCT	«
+iz	ADP	iz
+toga	DET	taj
+izvlači	VERB	izvlačiti
+dobar	ADJ	dobar
+interes	NOUN	interes
+,	PUNCT	,
+primetiće	VERB	primetiti
+drugi	ADJ	drugi
+gospodin	NOUN	gospodin
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Na	ADP	na
+čast	NOUN	čast
+svakom	DET	svaki
+takav	DET	takav
+interes	NOUN	interes
+,	PUNCT	,
+reče	VERB	reći
+prvi	ADJ	prvi
+gospodin	NOUN	gospodin
+:	PUNCT	:
+—	PUNCT	—
+kad	SCONJ	kad
+je	AUX	jesam
+u	ADP	u
+kući	NOUN	kuća
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+on	PRON	on
+ne	PART	ne
+dovrši	VERB	dovršiti
+ove	DET	ovaj
+rečenice	NOUN	rečenica
+,	PUNCT	,
+nego	CCONJ	nego
+podiže	VERB	podignuti
+ruku	NOUN	ruka
+do	ADP	do
+prema	ADP	prema
+uhu	NOUN	uho
+,	PUNCT	,
+i	CCONJ	i
+zatrese	VERB	zatresti
+šakom	NOUN	šaka
+,	PUNCT	,
+kao	CCONJ	kao
+da	SCONJ	da
+bi	AUX	biti
+hteo	AUX	hteti
+kazati	VERB	kazati
+«	PUNCT	«
+kad	SCONJ	kad
+je	AUX	jesam
+u	ADP	u
+kući	NOUN	kuća
+svakojako	ADV	svakojako
+«	PUNCT	«
+!	PUNCT	!
+</s>
+<s>
+To	DET	taj
+im	PRON	ona
+beše	AUX	biti
+sav	DET	sav
+razgovor	NOUN	razgovor
+.	PUNCT	.
+</s>
+<s>
+Žena	ADV	Žena
+koja	DET	koji
+hramaše	VERB	hramati
+uputi	VERB	uputiti
+se	PART	se
+kući	NOUN	kuća
+br	NOUN	br
+.	PUNCT	.
+39	NUM	@card@
+,	PUNCT	,
+na	ADP	na
+levoj	ADJ	levi
+strani	ADJ	stran
+ulice	NOUN	ulica
+.	PUNCT	.
+</s>
+<s>
+Pred	ADP	pred
+vratima	NOUN	vrata
+otrese	VERB	otresti
+svoje	DET	svoj
+skute	NOUN	skuta
+od	ADP	od
+prašine	NOUN	prašina
+,	PUNCT	,
+poteže	VERB	potegnuti
+niz	ADP	niz
+leđa	NOUN	leđa
+pero	NOUN	pero
+od	ADP	od
+svoje	DET	svoj
+šamije	NOUN	šamija
+zabradače	VERB	zabradače
+,	PUNCT	,
+namesti	VERB	namestiti
+je	AUX	jesam
+prstom	NOUN	prst
+ispod	ADP	ispod
+brade	NOUN	brada
+,	PUNCT	,
+prokašlja	VERB	prokašljati
+se	PART	se
+jedared	ADV	jedared
+ili	CCONJ	ili
+dvared	ADV	dvared
+,	PUNCT	,
+snebivljivo	ADJ	snebivljiv
+kucnu	VERB	kucnuti
+u	ADP	u
+vrata	NOUN	vrata
+,	PUNCT	,
+pa	CCONJ	pa
+za	ADP	za
+tim	DET	taj
+uđe	VERB	ući
+u	ADP	u
+sobu	NOUN	sob
+i	CCONJ	i
+ne	PART	ne
+ščekavši	VERB	ščekati
+iznutra	ADV	iznutra
+dozvole	NOUN	dozvola
+.	PUNCT	.
+</s>
+<s>
+U	ADP	u
+sobi	NOUN	soba
+seđaše	VERB	sediti
+mlada	ADJ	mlad
+jedna	NUM	jedan
+žena	NOUN	žena
+,	PUNCT	,
+s	ADP	s
+pletivom	NOUN	pletivo
+u	ADP	u
+rukama	NOUN	ruka
+,	PUNCT	,
+a	CCONJ	a
+kraj	ADP	kraj
+nje	PRON	ona
+se	PART	se
+igraše	VERB	igrati
+s	ADP	s
+mačkom	NOUN	mačka
+jedno	NUM	jedan
+detence	NOUN	detence
+od	ADP	od
+4—5	NOUN	4—5
+godina	NOUN	godina
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Na	ADP	na
+zdravlje	NOUN	zdravlje
+,	PUNCT	,
+Savka	PROPN	Savka
+!	PUNCT	!
+reče	VERB	reći
+gošća	NOUN	gošća
+još	ADV	još
+s	ADP	s
+vrata	NOUN	vrata
+:	PUNCT	:
+—	PUNCT	—
+šta	PRON	šta
+mi	PRON	ja
+radiš	VERB	raditi
+,	PUNCT	,
+srce	NOUN	srce
+moje	DET	moj
+?	PUNCT	?
+</s>
+<s>
+—	PUNCT	—
+Hvala	NOUN	hvala
+Tetka	PROPN	Tetka
+-Makro	ADV	-Makro
+!	PUNCT	!
+odgovori	VERB	odgovoriti
+domaćica	NOUN	domaćica
+:	PUNCT	:
+</s>
+<s>
+—	PUNCT	—
+O	INTJ	o
+,	PUNCT	,
+nemam	VERB	nemati
+sitne	ADJ	sitan
+proje	NOUN	proja
+da	SCONJ	da
+vas	PRON	vi
+pospem	VERB	posuti
+!	PUNCT	!
+</s>
+<s>
+Toliko	ADV	toliko
+vreme	NOUN	vreme
+vas	PRON	vi
+nema	VERB	nemati
+.	PUNCT	.
+</s>
+<s>
+Baš	ADV	Baš
+me	PRON	ja
+zaboraviste	VERB	zaboraviti
+sa	ADP	sa
+svim	DET	sav
+!	PUNCT	!
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Pravo	ADV	pravo
+veliš	VERB	velim
+,	PUNCT	,
+čedo	NOUN	čedo
+moje	DET	moj
+.	PUNCT	.
+</s>
+<s>
+Ne	PART	ne
+znam	VERB	znati
+ni	PART	ni
+kako	ADV	kako
+da	SCONJ	da
+ti	PRON	ti
+kažem	VERB	kazati
+;	PUNCT	;
+sve	DET	sav
+se	PART	se
+nešto	ADV	nešto
+ne	PART	ne
+može	VERB	moći
+da	SCONJ	da
+dospe	VERB	dospeti
+.	PUNCT	.
+</s>
+<s>
+I	CCONJ	i
+sad	ADV	sad
+sam	AUX	jesam
+pošla	VERB	poći
+Rumeni	PROPN	Rumena
+Zekinoj	ADJ	zekin
+za	ADP	za
+brdo	NOUN	brdo
+:	PUNCT	:
+hoću	AUX	hteti
+da	SCONJ	da
+nagradim	VERB	nagraditi
+neke	DET	neki
+ćerećelije	NOUN	ćerećelija
+;	PUNCT	;
+pa	CCONJ	pa
+kad	SCONJ	kad
+bejah	AUX	biti
+pored	ADP	pored
+tvoje	DET	tvoj
+kuće	NOUN	kuća
+,	PUNCT	,
+setih	VERB	setiti
+se	PART	se
+i	CCONJ	i
+rekoh	VERB	reći
+:	PUNCT	:
+</s>
+<s>
+Baš	ADV	Baš
+da	SCONJ	da
+svratim	VERB	svratiti
+,	PUNCT	,
+da	SCONJ	da
+vidim	VERB	viditi
+Savku	PROPN	Savka
+!	PUNCT	!
+</s>
+<s>
+Što	PROPN	Što
+i	CCONJ	i
+da	SCONJ	da
+se	PART	se
+žurim	VERB	žuriti
+?	PUNCT	?
+</s>
+<s>
+Nije	AUX	jesam
+u	ADP	u
+godini	NOUN	godina
+ovaj	DET	ovaj
+jedan	NUM	jedan
+dan	NOUN	dan
+!	PUNCT	!
+</s>
+<s>
+—	PUNCT	—
+Hvala	NOUN	hvala
+vam	PRON	vi
+tetka	NOUN	tetak
+!	PUNCT	!
+</s>
+<s>
+A	CCONJ	a
+da	SCONJ	da
+nije	AUX	jesam
+bilo	AUX	biti
+toga	DET	taj
+brda	NOUN	brdo
+,	PUNCT	,
+ne	PART	ne
+bi	AUX	biti
+se	PART	se
+vi	PRON	vi
+mene	PRON	ja
+još	ADV	još
+setili	VERB	setiti
+,	PUNCT	,
+reče	VERB	reći
+Savka	PROPN	Savka
+s	ADP	s
+nekim	DET	neki
+malko	ADV	malko
+prekornim	ADJ	prekoran
+pogledom	NOUN	pogled
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Pa	X	Pa
+kako	SCONJ	kako
+mi	PRON	ja
+živiš	VERB	živiti
+ti	PRON	ti
+Savka	PROPN	Savka
+?	PUNCT	?
+</s>
+<s>
+Šta	VERB	Šta
+ti	PRON	ti
+radi	ADP	radi
+Jevrem	PROPN	Jevrem
+?	PUNCT	?
+</s>
+<s>
+On	PRON	on
+već	PART	već
+otišao	VERB	otići
+u	ADP	u
+dućan	NOUN	dućan
+?	PUNCT	?
+</s>
+<s>
+Što	PROPN	Što
+ti	PRON	ti
+je	AUX	jesam
+vredan	ADJ	vredan
+majstor	NOUN	majstor
+!	PUNCT	!
+</s>
+<s>
+Tako	ADV	tako
+i	PART	i
+treba	VERB	trebati
+!	PUNCT	!
+</s>
+<s>
+A	CCONJ	a
+ta	DET	taj
+mala	ADJ	mali
+ciganka	NOUN	ciganka
+?	PUNCT	?
+</s>
+<s>
+Gledaj	VERB	gledati
+ti	PRON	ti
+kolika	DET	kolik
+je	AUX	jesam
+!	PUNCT	!
+</s>
+<s>
+Hodi	VERB	hoditi
+teti	NOUN	teta
+,	PUNCT	,
+srce	NOUN	srce
+moje	DET	moj
+,	PUNCT	,
+hodi	VERB	hoditi
+!	PUNCT	!
+</s>
+<s>
+—	PUNCT	—
+Idi	PROPN	Ida
+poljubi	VERB	poljubiti
+tetu	NOUN	teta
+u	ADP	u
+ruku	NOUN	ruka
+!	PUNCT	!
+veli	VERB	velim
+Savka	PROPN	Savka
+svojoj	DET	svoj
+maloj	ADJ	mali
+ćeri	NOUN	ćera
+,	PUNCT	,
+koja	DET	koji
+ostavi	VERB	ostaviti
+mačku	NOUN	mačka
+,	PUNCT	,
+i	CCONJ	i
+poče	VERB	početi
+da	SCONJ	da
+čeprka	VERB	čeprkati
+svoj	DET	sav
+nosić	NOUN	nosić
+,	PUNCT	,
+nepoverljivo	ADJ	nepoverljiv
+gledajući	VERB	gledati
+u	ADP	u
+gošću	NOUN	gošća
+.	PUNCT	.
+</s>
+<s>
+Savka	PROPN	Savka
+se	PART	se
+uhvati	VERB	uhvatiti
+za	ADP	za
+vrata	NOUN	vrata
+da	SCONJ	da
+izađe	VERB	izaći
+u	ADP	u
+kujnu	NOUN	kujna
+,	PUNCT	,
+da	SCONJ	da
+donese	VERB	doneti
+slatko	NOUN	slatko
+i	CCONJ	i
+vodu	NOUN	voda
+,	PUNCT	,
+a	CCONJ	a
+Makra	PROPN	Makra
+povika	VERB	povikati
+:	PUNCT	:
+</s>
+<s>
+—	PUNCT	—
+Ne	PART	ne
+ću	AUX	hteti
+ništa	PRON	ništa
+!	PUNCT	!
+</s>
+<s>
+Ne	PART	ne
+ću	AUX	hteti
+sreće	NOUN	sreća
+mi	PRON	ja
+moje	DET	moj
+!	PUNCT	!
+</s>
+<s>
+Ništa	ADV	Ništa
+okusiti	VERB	okusiti
+ne	PART	ne
+mogu	VERB	moći
+!	PUNCT	!
+</s>
+<s>
+Samo	PART	samo
+sam	AUX	jesam
+svratila	VERB	svratiti
+da	SCONJ	da
+te	PRON	ti
+vidim	VERB	viditi
+.	PUNCT	.
+</s>
+<s>
+Sedi	VERB	sediti
+da	SCONJ	da
+se	PART	se
+razgovaramo	VERB	razgovarati
+:	PUNCT	:
+željna	ADJ	željan
+sam	AUX	jesam
+da	SCONJ	da
+te	PRON	ti
+se	PART	se
+nagledam	VERB	nagledati
+.	PUNCT	.
+</s>
+<s>
+Ne	PART	ne
+slušajući	VERB	slušati
+to	DET	taj
+,	PUNCT	,
+Savka	PROPN	Savka
+izađe	VERB	izaći
+da	SCONJ	da
+učini	VERB	učiniti
+svoje	DET	svoj
+,	PUNCT	,
+a	CCONJ	a
+u	ADP	u
+sebi	PRON	sebe
+mišljaše	VERB	misliti
+:	PUNCT	:
+</s>
+<s>
+—	PUNCT	—
+Ala	PROPN	Al
+je	AUX	jesam
+slatka	ADJ	sladak
+na	ADP	na
+jeziku	NOUN	jezik
+ova	DET	ovaj
+Tetka	PROPN	Tetka
+Makra	PROPN	Makra
+!	PUNCT	!
+</s>
+<s>
+Znam	VERB	znati
+da	SCONJ	da
+ne	PART	ne
+misli	VERB	misliti
+ovako	ADV	ovako
+kako	SCONJ	kako
+govori	VERB	govoriti
+,	PUNCT	,
+a	CCONJ	a
+opet	ADV	opet
+mi	PRON	ja
+je	AUX	jesam
+milo	ADV	milo
+slušati	VERB	slušati
+je	AUX	jesam
+.	PUNCT	.
+</s>
+<s>
+Tako	ADV	tako
+mi	PRON	ja
+je	AUX	jesam
+žao	ADV	žao
+što	SCONJ	što
+i	PART	i
+sad	ADV	sad
+nismo	AUX	jesam
+susede	NOUN	suseda
+!	PUNCT	!
+...	PUNCT	...
+</s>
+<s>
+Pošto	ADV	Pošto
+se	PART	se
+izvrši	VERB	izvršiti
+«	PUNCT	«
+celo	ADJ	ceo
+posluženje	NOUN	posluženje
+«	PUNCT	«
+,	PUNCT	,
+pošto	SCONJ	pošto
+Savka	PROPN	Savka
+iznese	VERB	izneti
+šolje	NOUN	šolja
+od	ADP	od
+kave	NOUN	kava
+koju	DET	koji
+je	AUX	jesam
+Tetka	PROPN	Tetka
+Makra	PROPN	Makra
+,	PUNCT	,
+preko	ADP	preko
+sve	DET	sav
+kletve	NOUN	kletva
+,	PUNCT	,
+popila	VERB	popiti
+u	ADP	u
+slast	NOUN	slast
+,	PUNCT	,
+vrati	VERB	vratiti
+se	PART	se
+,	PUNCT	,
+uze	VERB	uziti
+pletivo	NOUN	pletivo
+,	PUNCT	,
+i	CCONJ	i
+sede	VERB	sesti
+do	ADP	do
+gošće	NOUN	gošća
+,	PUNCT	,
+reći	VERB	reći
+će	AUX	hteti
+Makra	PROPN	Makra
+:	PUNCT	:
+</s>
+<s>
+—	PUNCT	—
+Pa	X	Pa
+krasna	NOUN	krasna
+ti	PRON	ti
+ova	DET	ovaj
+kućica	NOUN	kućica
+,	PUNCT	,
+Savka	PROPN	Savka
+!	PUNCT	!
+</s>
+<s>
+Tri	NUM	tri
+sobe	NOUN	sob
+imate	VERB	imati
+,	PUNCT	,
+je	AUX	jesam
+li	PART	li
+?	PUNCT	?
+</s>
+<s>
+—	PUNCT	—
+Tri	NUM	tri
+,	PUNCT	,
+tetka	NOUN	tetak
+,	PUNCT	,
+i	CCONJ	i
+kujnu	NOUN	kujna
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Čudo	ADJ	Čudo
+jednu	NUM	jedan
+sobu	NOUN	sob
+ne	PART	ne
+date	VERB	dati
+kom	PRON	ko
+pod	ADP	pod
+kiriju	NOUN	kirija
+?	PUNCT	?
+</s>
+<s>
+Bila	AUX	biti
+bi	AUX	biti
+vam	PRON	vi
+pomoć	NOUN	pomoć
+,	PUNCT	,
+bar	PART	bar
+za	ADP	za
+ovo	DET	ovaj
+prvo	ADJ	prvi
+vreme	NOUN	vreme
+?	PUNCT	?
+</s>
+<s>
+—	PUNCT	—
+Teško	PROPN	Teško
+je	AUX	jesam
+naći	VERB	naći
+ugodna	ADJ	ugodan
+kirajdžiju	NOUN	kirajdžija
+;	PUNCT	;
+pa	CCONJ	pa
+nam	PRON	mi
+je	AUX	jesam
+ona	PRON	ona
+treća	ADJ	treći
+«	PUNCT	«
+nameštena	VERB	namestiti
+soba	NOUN	sob
+»	PUNCT	»
+,	PUNCT	,
+reče	VERB	reći
+Savka	PROPN	Savka
+osmehnuvši	VERB	osmehnuti
+se	PART	se
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+A	X	A
+gde	SCONJ	gde
+je	AUX	jesam
+sad	ADV	sad
+tvoj	DET	tvoj
+dever	NOUN	dever
+,	PUNCT	,
+Savka	PROPN	Savka
+?	PUNCT	?
+</s>
+<s>
+Nešto	PROPN	Nešto
+mi	PRON	ja
+pade	VERB	pasti
+na	ADP	na
+um	NOUN	um
+;	PUNCT	;
+za	ADP	za
+njega	PRON	on
+bi	AUX	biti
+to	DET	taj
+bio	AUX	biti
+dobar	ADJ	dobar
+stan	NOUN	stan
+.	PUNCT	.
+</s>
+<s>
+Je	AUX	jesam
+li	PART	li
+on	PRON	on
+ovde	ADV	ovde
+?	PUNCT	?
+</s>
+<s>
+—	PUNCT	—
+Ovde	ADV	ovde
+je	AUX	jesam
+,	PUNCT	,
+teto	NOUN	teta
+;	PUNCT	;
+činovnik	NOUN	činovnik
+je	AUX	jesam
+u	ADP	u
+nekoj	DET	neki
+kancelarji	NOUN	kancelarji
+,	PUNCT	,
+Boga	NOUN	bog
+mi	PRON	ja
+i	CCONJ	i
+ne	PART	ne
+znam	VERB	znati
+kako	SCONJ	kako
+se	PART	se
+zove	VERB	zvati
+.	PUNCT	.
+</s>
+<s>
+Znam	VERB	znati
+da	SCONJ	da
+rukuje	VERB	rukovati
+nekom	DET	neki
+kasom	NOUN	kasa
+i	CCONJ	i
+računima	NOUN	račun
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+On	PRON	on
+je	AUX	jesam
+.	PUNCT	.
+čini	VERB	činiti
+mi	PRON	ja
+se	PART	se
+,	PUNCT	,
+svršio	VERB	svršiti
+škole	NOUN	škola
+?	PUNCT	?
+</s>
+<s>
+—	PUNCT	—
+Upravo	ADV	upravo
+ni	PART	ni
+ja	PRON	ja
+ne	PART	ne
+znam	VERB	znati
+;	PUNCT	;
+učio	VERB	učiti
+se	PART	se
+dugo	ADV	dugo
+ovde	ADV	ovde
+,	PUNCT	,
+pa	CCONJ	pa
+je	AUX	jesam
+posle	ADV	posle
+išao	VERB	ići
+i	CCONJ	i
+preko	ADV	preko
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+To	PROPN	To
+je	AUX	jesam
+dobro	ADV	dobro
+.	PUNCT	.
+</s>
+<s>
+Danas	ADV	danas
+taki	NOUN	taka
+i	CCONJ	i
+vandžiraju	NOUN	vandžiraju
+.	PUNCT	.
+</s>
+<s>
+Nego	CCONJ	nego
+i	CCONJ	i
+njima	PRON	ona
+valjaju	VERB	valjati
+prijatelji	NOUN	prijatelj
+.	PUNCT	.
+</s>
+<s>
+Bez	ADP	bez
+prijatelja	NOUN	prijatelj
+ni	CCONJ	ni
+nauka	NOUN	nauka
+ne	PART	ne
+pomaže	VERB	pomagati
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Veruj	VERB	verovati
+,	PUNCT	,
+veruj	VERB	verovati
+!	PUNCT	!
+veli	VERB	velim
+Savka	PROPN	Savka
+ne	PART	ne
+znajući	VERB	znati
+kud	CCONJ	kud
+zaošijava	VERB	zaošijavati
+vešta	ADJ	vešt
+Tetka	PROPN	Tetka
+-	PUNCT	-
+Makra	PROPN	Makra
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Da	SCONJ	da
+je	AUX	jesam
+da	SCONJ	da
+se	PART	se
+on	PRON	on
+umeša	VERB	umešati
+u	ADP	u
+«	PUNCT	«
+kakvu	DET	kakav
+dobru	ADJ	dobar
+vamiliju	NOUN	vamilija
+»	PUNCT	»
+,	PUNCT	,
+pa	CCONJ	pa
+—	PUNCT	—
+da	SCONJ	da
+ga	ADV	ga
+vidi	VERB	viditi
+Bog	NOUN	bog
+!	PUNCT	!
+</s>
+<s>
+Makra	PROPN	Makra
+ove	DET	ovaj
+poslednje	ADJ	poslednji
+reči	NOUN	reč
+izgovori	VERB	izgovoriti
+glasnije	ADV	glasnije
+,	PUNCT	,
+i	CCONJ	i
+u	ADP	u
+Savku	PROPN	Savka
+pogleda	VERB	pogledati
+stalnije	ADJ	stalan
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Nema	VERB	nemati
+vam	PRON	vi
+on	PRON	on
+ovde	ADV	ovde
+od	ADP	od
+vamilije	NOUN	vamilija
+nikoga	PRON	niki
+,	PUNCT	,
+osem	ADP	osem
+Tetka	PROPN	Tetka
+-Juce	PROPN	-Juce
+,	PUNCT	,
+reče	VERB	reći
+Savka	PROPN	Savka
+već	PART	već
+ne	PART	ne
+umejući	VERB	umeti
+davati	VERB	davati
+odgovora	NOUN	odgovor
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Dijete	NOUN	dijeta
+,	PUNCT	,
+Bog	NOUN	bog
+s	ADP	s
+tobom	PRON	ti
+!	PUNCT	!
+može	VERB	moći
+se	PART	se
+oženiti	VERB	oženiti
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+To	PROPN	To
+može	VERB	moći
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+reče	VERB	reći
+Savka	PROPN	Savka
+nešto	PRON	nešto
+razvlačeći	VERB	razvlačiti
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Bez	ADP	bez
+šale	NOUN	šala
+,	PUNCT	,
+ako	SCONJ	ako
+hoće	AUX	hteti
+da	SCONJ	da
+se	PART	se
+ženi	NOUN	žena
+,	PUNCT	,
+sad	ADV	sad
+mi	PRON	ja
+pade	VERB	pasti
+na	ADP	na
+um	NOUN	um
+jedna	NUM	jedan
+krasna	ADJ	krasan
+prilika	NOUN	prilika
+.	PUNCT	.
+</s>
+<s>
+Eto	PART	eto
+,	PUNCT	,
+šta	PRON	šta
+vali	VERB	valiti
+našoj	DET	naš
+Zorki	PROPN	Zorka
+?	PUNCT	?
+</s>
+<s>
+Devojka	NOUN	devojka
+mlada	ADJ	mlad
+,	PUNCT	,
+zdrava	ADJ	zdrav
+,	PUNCT	,
+čestita	ADJ	čestit
+,	PUNCT	,
+nije	AUX	jesam
+sirota	ADJ	sirot
+,	PUNCT	,
+a	CCONJ	a
+vamilija	NOUN	vamilija
+jedna	NUM	jedan
+po	ADP	po
+jedna	NUM	jedan
+?	PUNCT	?
+</s>
+<s>
+Nego	CCONJ	nego
+znaš	VERB	znati
+šta	PRON	šta
+!	PUNCT	!
+</s>
+<s>
+Gledaj	VERB	gledati
+ti	PRON	ti
+da	SCONJ	da
+navališ	VERB	navaliti
+na	ADP	na
+njega	PRON	on
+.	PUNCT	.
+</s>
+<s>
+Ne	PART	ne
+će	AUX	hteti
+ti	PRON	ti
+biti	AUX	biti
+za	ADP	za
+praboga	NOUN	praboga
+.	PUNCT	.
+</s>
+<s>
+Takav	DET	takav
+mladić	NOUN	mladić
+što	SCONJ	što
+da	PART	da
+ide	VERB	ići
+u	ADP	u
+drugu	ADJ	drugi
+vamiliju	NOUN	vamilija
+,	PUNCT	,
+kad	SCONJ	kad
+može	VERB	moći
+u	ADP	u
+našu	DET	naš
+?	PUNCT	?
+</s>
+<s>
+Mi	PRON	ja
+smo	AUX	jesam
+svoji	DET	svoj
+;	PUNCT	;
+treba	VERB	trebati
+da	SCONJ	da
+se	PART	se
+nađemo	VERB	naći
+jedno	ADV	jedno
+drugome	ADJ	drugi
+:	PUNCT	:
+danas	ADV	danas
+ti	PRON	ti
+meni	PRON	ja
+—	PUNCT	—
+sutra	ADV	sutra
+ja	PRON	ja
+tebi	PRON	ti
+.	PUNCT	.
+</s>
+<s>
+Evo	PART	evo
+je	AUX	jesam
+,	PUNCT	,
+neka	DET	neki
+ti	PRON	ti
+je	AUX	jesam
+živa	ADJ	živ
+(	PUNCT	(
+govoreći	VERB	govoriti
+ovo	DET	ovaj
+pogleda	NOUN	pogled
+u	ADP	u
+malu	ADJ	mali
+Savkinu	ADJ	Savkin
+ćerku	NOUN	ćerka
+)	PUNCT	)
+;	PUNCT	;
+još	ADV	još
+koju	DET	koji
+godinu	NOUN	godina
+,	PUNCT	,
+pa	CCONJ	pa
+ćeš	AUX	hteti
+i	CCONJ	i
+ti	PRON	ti
+doći	VERB	doći
+da	SCONJ	da
+zatrudiš	VERB	zatruditi
+Teta—	ADJ	Teta—
+Makru	PROPN	Makra
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Daj	PROPN	Daj
+Bože	PROPN	Boža
+,	PUNCT	,
+reče	VERB	reći
+Savka	PROPN	Savka
+kroza	ADP	kroza
+smej	NOUN	smej
+:	PUNCT	:
+—	PUNCT	—
+tek	PART	tek
+dotle	ADV	dotle
+valja	VERB	valjati
+zgrickati	VERB	zgrickati
+mnogo	ADV	mnogo
+korica	NOUN	korica
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Pominje	VERB	pominjati
+li	PART	li
+on	PRON	on
+što	SCONJ	što
+o	ADP	o
+ženidbi	NOUN	ženidba
+?	PUNCT	?
+</s>
+<s>
+—	PUNCT	—
+Ništa	PROPN	Ništa
+,	PUNCT	,
+teto	NOUN	teta
+;	PUNCT	;
+nego	CCONJ	nego
+od	ADP	od
+nekog	DET	neki
+doba	NOUN	doba
+vidim	VERB	viditi
+da	SCONJ	da
+rado	ADV	rado
+i	CCONJ	i
+gleda	VERB	gledati
+i	CCONJ	i
+pominje	VERB	pominjati
+jednu	NUM	jedan
+dobru	ADJ	dobar
+devojku	NOUN	devojka
+ovde	ADV	ovde
+do	ADP	do
+nas	PRON	mi
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Čija	PROPN	Čija
+je	AUX	jesam
+to	DET	taj
+devojka	NOUN	devojka
+?	PUNCT	?
+upita	VERB	upitati
+Makra	PROPN	Makra
+uznemireno	ADV	uznemireno
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Luke	PROPN	Luka
+Lisopoljca	PROPN	Lisopoljac
+,	PUNCT	,
+bakalina	NOUN	bakalin
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Savka	PROPN	Savka
+,	PUNCT	,
+dijete	NOUN	dijeta
+!	PUNCT	!
+</s>
+<s>
+Zar	PART	zar
+nju	PRON	ona
+on	PRON	on
+da	SCONJ	da
+uzme	VERB	uzeti
+?	PUNCT	?
+</s>
+<s>
+—	PUNCT	—
+A	X	A
+što	SCONJ	što
+,	PUNCT	,
+teto	NOUN	teta
+?	PUNCT	?
+</s>
+<s>
+—	PUNCT	—
+Ne	PART	ne
+znam	VERB	znati
+;	PUNCT	;
+nisam	AUX	jesam
+rada	ADJ	rad
+da	SCONJ	da
+se	PART	se
+čuje	VERB	čuti
+od	ADP	od
+mene	PRON	ja
+.	PUNCT	.
+</s>
+<s>
+Nisam	AUX	jesam
+rada	NOUN	rad
+ogovarati	VERB	ogovarati
+;	PUNCT	;
+grehota	NOUN	grehota
+je	AUX	jesam
+kuditi	VERB	kuditi
+devojku	NOUN	devojka
+;	PUNCT	;
+ali	CCONJ	ali
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+dete	NOUN	dete
+moje	DET	moj
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+svoj	DET	sav
+svoga	DET	svoj
+treba	VERB	trebati
+da	SCONJ	da
+čuva	VERB	čuvati
+.	PUNCT	.
+</s>
+<s>
+Ta	DET	taj
+je	AUX	jesam
+devojka	NOUN	devojka
+valična	VERB	valična
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+nezdrava	ADJ	nezdrav
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Nezdrava	ADJ	nezdrav
+?	PUNCT	?
+upita	VERB	upitati
+Savka	PROPN	Savka
+iznenađeno	ADV	iznenađeno
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Ne	PART	ne
+dao	VERB	dati
+Bog	NOUN	bog
+kuditi	VERB	kuditi
+je	AUX	jesam
+;	PUNCT	;
+to	DET	taj
+je	AUX	jesam
+velika	ADJ	velik
+grehota	NOUN	grehota
+.	PUNCT	.
+</s>
+<s>
+Znaš	ADV	Znaš
+kako	ADV	kako
+kažu	VERB	kazati
+«	PUNCT	«
+manja	NOUN	manja
+je	AUX	jesam
+grehota	NOUN	grehota
+oboriti	VERB	oboriti
+crkvu	NOUN	crkva
+,	PUNCT	,
+nego	CCONJ	nego
+skuditi	VERB	skuditi
+devojku	NOUN	devojka
+«	PUNCT	«
+.	PUNCT	.
+</s>
+<s>
+Nisam	AUX	jesam
+to	DET	taj
+rada	NOUN	rad
+.	PUNCT	.
+</s>
+<s>
+Ali	CCONJ	ali
+je	AUX	jesam
+ona	PRON	ona
+imala	VERB	imati
+neku	DET	neki
+tajnu	NOUN	tajna
+boljku	NOUN	boljka
+koju	DET	koji
+kriju	VERB	kriti
+i	CCONJ	i
+ona	PRON	ona
+i	CCONJ	i
+majka	NOUN	majka
+njena	DET	njen
+.	PUNCT	.
+</s>
+<s>
+Manj	CCONJ	manj
+da	SCONJ	da
+je	AUX	jesam
+ozdravila	VERB	ozdraviti
+sada	ADV	sada
+?	PUNCT	?
+</s>
+<s>
+Neka	PART	neka
+se	PART	se
+on	PRON	on
+mane	VERB	manuti
+nje	PRON	ona
+!	PUNCT	!
+</s>
+<s>
+Jer	SCONJ	jer
+,	PUNCT	,
+znaš	INTJ	znaš
+,	PUNCT	,
+baš	PART	baš
+i	CCONJ	i
+da	SCONJ	da
+je	AUX	jesam
+zdrava	ADJ	zdrav
+,	PUNCT	,
+ona	PRON	ona
+je	AUX	jesam
+od	ADP	od
+«	PUNCT	«
+onih	DET	onaj
+»	PUNCT	»
+.	PUNCT	.
+</s>
+<s>
+Ovde	ADV	ovde
+Makrena	PROPN	Makrena
+pogleda	VERB	pogledati
+u	ADP	u
+Savku	PROPN	Savka
+a	CCONJ	a
+namignu	VERB	namignuti
+levim	ADJ	levi
+okom	NOUN	oka
+,	PUNCT	,
+što	SCONJ	što
+hoće	AUX	hteti
+da	PART	da
+kaže	VERB	kazati
+—	PUNCT	—
+od	ADP	od
+protivne	ADJ	protivan
+stranke	NOUN	stranka
+:	PUNCT	:
+—	PUNCT	—
+oni	PRON	oni
+danas	ADV	danas
+ne	PART	ne
+vandžiravaju	VERB	vandžiravaju
+.	PUNCT	.
+</s>
+<s>
+Neka	DET	neki
+on	PRON	on
+digne	VERB	dignuti
+ruke	NOUN	ruka
+od	ADP	od
+nje	PRON	ona
+.	PUNCT	.
+</s>
+<s>
+Evo	PART	evo
+njemu	PRON	on
+naše	DET	naš
+Zorke	PROPN	Zorka
+.	PUNCT	.
+</s>
+<s>
+Uz	ADP	uz
+devojku	NOUN	devojka
+dobiće	VERB	dobiti
+800	NUM	@card@
+dukata	NOUN	dukat
+;	PUNCT	;
+najbolju	ADJ	dobar
+spremu	NOUN	sprema
+,	PUNCT	,
+i	CCONJ	i
+ući	VERB	ući
+će	AUX	hteti
+u	ADP	u
+vamiliju	NOUN	vamilija
+u	ADP	u
+kojoj	DET	koji
+se	PART	se
+ne	PART	ne
+mora	VERB	morati
+bojati	VERB	bojati
+ni	PART	ni
+od	ADP	od
+koga	PRON	ko
+.	PUNCT	.
+</s>
+<s>
+Ti	PRON	ti
+,	PUNCT	,
+kao	CCONJ	kao
+provodadžija	NOUN	provodadžija
+,	PUNCT	,
+dobićeš	VERB	dobiti
+haljinu	NOUN	haljina
+od	ADP	od
+najteže	ADJ	težak
+francuske	ADJ	francuski
+svile	NOUN	svila
+,	PUNCT	,
+a	CCONJ	a
+tvoj	DET	tvoj
+Jevrem	PROPN	Jevrem
+boščaluk	NOUN	boščaluk
+kao	CCONJ	kao
+i	CCONJ	i
+kum	NOUN	kum
+venčani	VERB	venčati
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Ne	PART	ne
+mogu	VERB	moći
+se	PART	se
+podvatiti	VERB	podvatiti
+,	PUNCT	,
+teto	NOUN	teta
+;	PUNCT	;
+ne	PART	ne
+znam	VERB	znati
+šta	PRON	šta
+će	AUX	hteti
+reći	VERB	reći
+Jevrem	PROPN	Jevrem
+?	PUNCT	?
+</s>
+<s>
+—	PUNCT	—
+Jevremu	PROPN	Jevrem
+ti	PRON	ti
+kaži	VERB	kazati
+da	SCONJ	da
+sam	AUX	jesam
+ja	PRON	ja
+bila	AUX	biti
+tu	ADV	tu
+;	PUNCT	;
+da	SCONJ	da
+sam	AUX	jesam
+te	PRON	ti
+ja	PRON	ja
+molila	VERB	moliti
+da	SCONJ	da
+se	PART	se
+potrudiš	VERB	potruditi
+,	PUNCT	,
+znaš	VERB	znati
+!	PUNCT	!
+</s>
+<s>
+Ako	SCONJ	ako
+li	PART	li
+njemu	PRON	on
+bude	AUX	biti
+nešto	PRON	nešto
+prez	ADP	prez
+ruku	NOUN	ruka
+da	SCONJ	da
+njegova	DET	njegov
+žena	NOUN	žena
+,	PUNCT	,
+još	ADV	još
+tako	ADV	tako
+mlada	ADJ	mlad
+,	PUNCT	,
+bude	AUX	biti
+provodadžija	NOUN	provodadžija
+,	PUNCT	,
+pomeni	VERB	pomenuti
+mu	PRON	on
+da	SCONJ	da
+će	AUX	hteti
+mu	PRON	on
+zet	NOUN	zet
+Ivan	PROPN	Ivan
+(	PUNCT	(
+Zorkin	ADJ	Zorkin
+otac	NOUN	otac
+)	PUNCT	)
+dati	VERB	dati
+onih	DET	onaj
+200	NUM	@card@
+dukata	NOUN	dukat
+do	ADP	do
+Sv	X	Sv
+.	PUNCT	.
+Ilije	PROPN	Ilija
+,	PUNCT	,
+što	SCONJ	što
+je	AUX	jesam
+pre	ADV	pre
+iskao	VERB	iskati
+od	ADP	od
+njega	PRON	on
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Ama	PART	ama
+,	PUNCT	,
+teto	NOUN	teta
+,	PUNCT	,
+ima	VERB	imati
+tu	ADV	tu
+još	ADV	još
+nešto	ADV	nešto
+.	PUNCT	.
+</s>
+<s>
+Moj	DET	moj
+je	AUX	jesam
+braca	NOUN	bratac
+malko	ADV	malko
+pošire	ADJ	poširok
+ruke	NOUN	ruka
+;	PUNCT	;
+rado	ADV	rado
+troši	VERB	trošiti
+,	PUNCT	,
+zadužuje	VERB	zaduživati
+se	PART	se
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+E	INTJ	e
+baš	PART	baš
+za	ADP	za
+to	DET	taj
+treba	VERB	trebati
+da	SCONJ	da
+ga	ADV	ga
+odvratiš	VERB	odvratiti
+od	ADP	od
+Julke	PROPN	Julka
+.	PUNCT	.
+</s>
+<s>
+Julka	PROPN	Julka
+je	AUX	jesam
+devojka	NOUN	devojka
+sirota	ADJ	sirot
+.	PUNCT	.
+</s>
+<s>
+A	CCONJ	a
+ako	SCONJ	ako
+uzme	VERB	uzeti
+Zorku	PROPN	Zorka
+imaće	VERB	imati
+odašta	ADV	odašta
+i	CCONJ	i
+trošiti	VERB	trošiti
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Pravo	ADV	pravo
+da	SCONJ	da
+kažem	VERB	kazati
+,	PUNCT	,
+čisto	ADV	čisto
+ne	PART	ne
+smem	VERB	smeti
+da	SCONJ	da
+hvalim	VERB	hvaliti
+momka	NOUN	momak
+rasipača	NOUN	rasipač
+.	PUNCT	.
+</s>
+<s>
+Onomadne	ADV	onomadne
+je	AUX	jesam
+bio	AUX	biti
+tu	ADV	tu
+na	ADP	na
+ručku	NOUN	ručak
+,	PUNCT	,
+pa	CCONJ	pa
+se	PART	se
+razgovara	VERB	razgovarati
+s	ADP	s
+Jevremom	PROPN	Jevrem
+kako	SCONJ	kako
+mu	PRON	on
+njegova	DET	njegov
+plata	NOUN	plata
+ne	PART	ne
+stiže	VERB	stignuti
+za	ADP	za
+trošak	NOUN	trošak
+,	PUNCT	,
+a	CCONJ	a
+Jevrem	PROPN	Jevrem
+mu	PRON	on
+se	PART	se
+čudi	VERB	čuditi
+:	PUNCT	:
+kud	ADV	kud
+deva	VERB	devati
+tolike	DET	toliki
+pare	NOUN	para
+,	PUNCT	,
+dok	SCONJ	dok
+ti	PRON	ti
+on	PRON	on
+,	PUNCT	,
+onako	ADV	onako
+smešeći	VERB	smešiti
+se	PART	se
+,	PUNCT	,
+reče	VERB	reći
+:	PUNCT	:
+</s>
+<s>
+—	PUNCT	—
+More	PROPN	Mor
+,	PUNCT	,
+znaš	VERB	znati
+li	PART	li
+da	SCONJ	da
+će	AUX	hteti
+me	PRON	ja
+deset	NUM	deset
+para	NOUN	para
+odvesti	VERB	odvesti
+na	ADP	na
+vešala	NOUN	vešala
+!	PUNCT	!
+</s>
+<s>
+Jevrem	PROPN	Jevrem
+ga	ADV	ga
+pogleda	VERB	pogledati
+i	CCONJ	i
+htede	AUX	hteti
+da	SCONJ	da
+ga	ADV	ga
+upita	VERB	upitati
+,	PUNCT	,
+a	CCONJ	a
+kalfa	NOUN	kalfa
+Sreta	PROPN	Sreta
+uđe	VERB	ući
+,	PUNCT	,
+i	CCONJ	i
+oni	PRON	oni
+prekidoše	VERB	prekinuti
+taj	DET	taj
+razgovor	NOUN	razgovor
+.	PUNCT	.
+</s>
+<s>
+Ko	PRON	ko
+zna	VERB	znati
+?	PUNCT	?
+</s>
+<s>
+Može	PROPN	Mog
+biti	AUX	biti
+da	SCONJ	da
+je	AUX	jesam
+već	PART	već
+pao	VERB	pasti
+u	ADP	u
+neku	DET	neki
+nevolju	NOUN	nevolja
+!	PUNCT	!
+</s>
+<s>
+—	PUNCT	—
+Ne	PART	ne
+mari	VERB	mariti
+to	DET	taj
+ništa	PRON	ništa
+,	PUNCT	,
+veli	VERB	velim
+Makrena	PROPN	Makrena
+:	PUNCT	:
+—	PUNCT	—
+neka	DET	neki
+on	PRON	on
+uđe	VERB	ući
+u	ADP	u
+ovu	DET	ovaj
+vamiliju	NOUN	vamilija
+,	PUNCT	,
+pa	CCONJ	pa
+će	AUX	hteti
+se	PART	se
+sve	ADV	sve
+popraviti	VERB	popraviti
+i	CCONJ	i
+on	PRON	on
+će	AUX	hteti
+biti	AUX	biti
+uredan	ADJ	uredan
+kao	CCONJ	kao
+najbolji	ADJ	dobar
+mladić	NOUN	mladić
+.	PUNCT	.
+</s>
+<s>
+Skočićemo	VERB	Skočićemo
+mi	PRON	ja
+svi	DET	sav
+,	PUNCT	,
+svak	NOUN	svak
+sa	ADP	sa
+svoje	DET	svoj
+strane	NOUN	strana
+,	PUNCT	,
+pa	CCONJ	pa
+mora	VERB	morati
+u	ADP	u
+red	NOUN	red
+!	PUNCT	!
+.	PUNCT	.
+</s>
+<s>
+Nego	CCONJ	nego
+se	PART	se
+ti	DET	taj
+razgovori	NOUN	razgovor
+s	ADP	s
+Jevremom	PROPN	Jevrem
+;	PUNCT	;
+pomeni	VERB	pomenuti
+mu	PRON	on
+za	ADP	za
+onih	DET	onaj
+200	NUM	@card@
+dukata	NOUN	dukat
+!	PUNCT	!
+</s>
+<s>
+U	ADP	u
+ponedeljnik	NOUN	ponedeljnik
+ja	PRON	ja
+ću	AUX	hteti
+doći	VERB	doći
+opet	ADV	opet
+.	PUNCT	.
+</s>
+<s>
+Ili	CCONJ	ili
+će	AUX	hteti
+biti	AUX	biti
+bolje	ADV	bolje
+da	SCONJ	da
+dođeš	VERB	doći
+ti	PRON	ti
+k	ADP	k
+meni	PRON	ja
+,	PUNCT	,
+da	SCONJ	da
+se	PART	se
+niko	PRON	niki
+ne	PART	ne
+doseti	VERB	dosetiti
+!	PUNCT	!
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Sve	DET	sav
+ću	AUX	hteti
+to	DET	taj
+ja	PRON	ja
+kazati	VERB	kazati
+Jevremu	PROPN	Jevrem
+,	PUNCT	,
+pa	CCONJ	pa
+što	SCONJ	što
+rekne	VERB	reći
+on	PRON	on
+,	PUNCT	,
+javiću	VERB	javiti
+vam	PRON	vi
+.	PUNCT	.
+</s>
+<s>
+Dokle	SCONJ	dokle
+se	PART	se
+Teta-	PROPN	Teta-
+Makra	PROPN	Makra
+i	CCONJ	i
+Savka	PROPN	Savka
+razgovarahu	VERB	razgovarati
+,	PUNCT	,
+dotle	ADV	dotle
+mala	ADJ	mali
+Mica	PROPN	Mica
+,	PUNCT	,
+Savkina	ADJ	Savkin
+ćerka	NOUN	ćerka
+,	PUNCT	,
+miluje	VERB	milovati
+mačku	NOUN	mačka
+po	ADP	po
+repu	NOUN	repa
+i	CCONJ	i
+pita	VERB	pitati
+:	PUNCT	:
+</s>
+<s>
+—	PUNCT	—
+Maco	PROPN	Maca
+!	PUNCT	!
+macice	NOUN	macica
+!	PUNCT	!
+</s>
+<s>
+Laze	VERB	laziti
+li	PART	li
+teta	NOUN	teta
+?	PUNCT	?
+</s>
+<s>
+I	CCONJ	i
+kad	SCONJ	kad
+maca	NOUN	maca
+poče	VERB	početi
+odmahivati	VERB	odmahivati
+repom	NOUN	repa
+,	PUNCT	,
+dete	NOUN	dete
+se	PART	se
+zacenu	VERB	zacenuti
+od	ADP	od
+smeja	NOUN	smej
+.	PUNCT	.
+</s>
+<s>
+I	CCONJ	i
+Savka	PROPN	Savka
+i	CCONJ	i
+Makrena	PROPN	Makrena
+videše	VERB	videti
+šta	PRON	šta
+je	AUX	jesam
+,	PUNCT	,
+ali	CCONJ	ali
+se	PART	se
+činjahu	VERB	činiti
+nevešte	ADJ	nevešt
+svaka	DET	svaki
+iz	ADP	iz
+svoga	DET	svoj
+uzroka	NOUN	uzrok
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+Posle	ADP	posle
+toga	DET	taj
+se	PART	se
+rastaše	VERB	rastati
+ove	DET	ovaj
+dve	NUM	dva
+žene	NOUN	žena
+.	PUNCT	.
+</s>
+<s>
+Makrena	PROPN	Makrena
+,	PUNCT	,
+i	CCONJ	i
+ne	PART	ne
+pominjući	VERB	pominjati
+brda	NOUN	brdo
+,	PUNCT	,
+ode	VERB	otići
+pravo	NOUN	prava
+kući	NOUN	kuća
+Ivana	PROPN	Ivana
+Mimića	PROPN	Mimić
+,	PUNCT	,
+Zorkinoga	ADJ	Zorkin
+oca	NOUN	otac
+,	PUNCT	,
+da	SCONJ	da
+kaže	VERB	kazati
+kako	SCONJ	kako
+je	AUX	jesam
+vešto	ADV	vešto
+zasnovala	VERB	zasnovati
+provodadžisku	ADJ	provodadžiski
+radnju	NOUN	radnja
+,	PUNCT	,
+a	CCONJ	a
+Savka	PROPN	Savka
+spremaše	VERB	spremati
+večeru	NOUN	veče
+i	CCONJ	i
+mišljaše	VERB	misliti
+u	ADP	u
+sebi	PRON	sebe
+:	PUNCT	:
+</s>
+<s>
+—	PUNCT	—
+Novci	NOUN	novac
+dušegupci	NOUN	dušegupka
+!	PUNCT	!
+</s>
+<s>
+Sad	ADV	sad
+će	AUX	hteti
+novcima	NOUN	novac
+preoteti	ADJ	preotet
+priliku	NOUN	prilika
+onoj	DET	onaj
+siroti	ADJ	sirot
+devojci	NOUN	devojka
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+Tek	PART	tek
+,	PUNCT	,
+Boga	NOUN	bog
+mi	PRON	ja
+,	PUNCT	,
+kako	SCONJ	kako
+moj	DET	moj
+braca	NOUN	bratac
+ume	VERB	umeti
+trošiti	VERB	trošiti
+,	PUNCT	,
+nema	VERB	nemati
+Julka	PROPN	Julka
+rašta	ADV	rašta
+ni	PART	ni
+žaliti	VERB	žaliti
+ga	ADV	ga
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+E	INTJ	e
+,	PUNCT	,
+ali	CCONJ	ali
+ako	SCONJ	ako
+ga	VERB	ga
+,	PUNCT	,
+jadnica	NOUN	jadnica
+,	PUNCT	,
+voli	VERB	voliti
+?	PUNCT	?
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+Srce	NOUN	srce
+može	VERB	moći
+ginuti	VERB	ginuti
+za	ADP	za
+rasipačem	NOUN	rasipač
+kao	CCONJ	kao
+i	CCONJ	i
+za	ADP	za
+štedljivcem	NOUN	štedljivac
+!	PUNCT	!
+</s>
+<s>
+Čudna	ADJ	Čudna
+je	AUX	jesam
+to	DET	taj
+stvar	NOUN	stvar
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+Baš	ADV	Baš
+ne	PART	ne
+znam	VERB	znati
+što	SCONJ	što
+ću	AUX	hteti
+?	PUNCT	?
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+Kazaću	VERB	Kazaću
+sve	ADV	sve
+Jevremu	PROPN	Jevrem
+:	PUNCT	:
+on	PRON	on
+će	AUX	hteti
+zar	PART	zar
+znati	VERB	znati
+bolje	ADV	bolje
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+II	NUM	II
+Udavače	PROPN	Udavače
+«	PUNCT	«
+Sina	PROPN	Sin
+ženi	NOUN	žena
+kad	SCONJ	kad
+hoćeš	AUX	hteti
+,	PUNCT	,
+a	CCONJ	a
+ćer	NOUN	ćer
+udaji	NOUN	udaja
+kad	SCONJ	kad
+možeš	VERB	moći
+.	PUNCT	.
+»	PUNCT	»
+<s>
+Varoš	NOUN	Varoš
+.	PUNCT	.
+poslovica	NOUN	poslovica
+</s>
+<s>
+—	PUNCT	—
+More	PROPN	Mor
+Julka	PROPN	Julka
+,	PUNCT	,
+što	SCONJ	što
+ti	PRON	ti
+se	PART	se
+ovaj	DET	ovaj
+Rija	ADV	Rija
+javlja	VERB	javljati
+ovako	ADV	ovako
+umiljato	ADV	umiljato
+?	PUNCT	?
+upita	VERB	upitati
+Cana	PROPN	Cana
+Ilina	PROPN	Ilina
+Julku	PROPN	Julka
+Lisopoljčevu	ADJ	Lisopoljčev
+,	PUNCT	,
+kad	SCONJ	kad
+pored	ADP	pored
+njih	PRON	ona
+prođe	VERB	proći
+Rija	NOUN	Rija
+Svilorunić	PROPN	Svilorunić
+,	PUNCT	,
+i	CCONJ	i
+javi	VERB	javiti
+se	PART	se
+vrlo	ADV	vrlo
+uljudno	ADV	uljudno
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Ja	PRON	ja
+?	PUNCT	?
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+Ne	PART	ne
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+znam	VERB	znati
+,	PUNCT	,
+odgovori	VERB	odgovoriti
+Julka	PROPN	Julka
+nešto	PRON	nešto
+malo	ADV	malo
+zbunjeno	ADV	zbunjeno
+,	PUNCT	,
+kao	CCONJ	kao
+da	SCONJ	da
+bi	AUX	biti
+bila	AUX	biti
+za	ADP	za
+to	DET	taj
+što	SCONJ	što
+kriva	ADJ	kriv
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Nosi	VERB	nositi
+ga	ADV	ga
+beda	NOUN	beda
+daleko	ADV	daleko
+odavde	ADV	odavde
+!	PUNCT	!
+reći	VERB	reći
+će	AUX	hteti
+Vaska	PROPN	Vaska
+Perina	PROPN	Perin
+:	PUNCT	:
+—	PUNCT	—
+svi	DET	sav
+kažu	VERB	kazati
+da	SCONJ	da
+je	AUX	jesam
+to	DET	taj
+najgori	ADJ	najgori
+lumpov	NOUN	lumpov
+i	CCONJ	i
+kartadžija	NOUN	kartadžija
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+To	PROPN	To
+je	AUX	jesam
+vrlo	ADV	vrlo
+neuredan	ADJ	neuredan
+mladić	NOUN	mladić
+,	PUNCT	,
+dodade	VERB	dodati
+Cana	PROPN	Cana
+.	PUNCT	.
+</s>
+<s>
+Julku	PROPN	Julka
+poli	VERB	politi
+rumen	NOUN	rumen
+po	ADP	po
+licu	NOUN	lice
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+I	CCONJ	i
+ja	PRON	ja
+to	DET	taj
+slušam	VERB	slušati
+,	PUNCT	,
+reče	VERB	reći
+ona	PRON	ona
+snebivljivo	ADJ	snebivljiv
+:	PUNCT	:
+—	PUNCT	—
+a	CCONJ	a
+,	PUNCT	,
+istinu	NOUN	istina
+da	SCONJ	da
+vam	PRON	vi
+kažem	VERB	kazati
+,	PUNCT	,
+ipak	PART	ipak
+mi	PRON	ja
+je	AUX	jesam
+milo	ADV	milo
+kad	SCONJ	kad
+mi	PRON	ja
+se	PART	se
+javi	VERB	javiti
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Sreće	PROPN	Sreće
+ti	PRON	ti
+,	PUNCT	,
+zar	PART	zar
+bi	AUX	biti
+ti	PRON	ti
+pošla	VERB	poći
+za	ADP	za
+njega	PRON	on
+,	PUNCT	,
+upitaće	VERB	upitati
+je	AUX	jesam
+Vaska	PROPN	Vaska
+?	PUNCT	?
+</s>
+<s>
+—	PUNCT	—
+Pošla	PROPN	Pošla
+?	PUNCT	?
+</s>
+<s>
+Kako	ADV	kako
+da	SCONJ	da
+ti	PRON	ti
+odgovorim	VERB	odgovoriti
+na	ADP	na
+to	DET	taj
+?	PUNCT	?
+</s>
+<s>
+On	PRON	on
+mene	PRON	ja
+još	ADV	još
+nije	AUX	jesam
+ni	PART	ni
+iskao	VERB	iskati
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+Samo	PART	samo
+mi	PRON	ja
+se	PART	se
+javlja	VERB	javljati
+vrlo	ADV	vrlo
+uljudno	ADV	uljudno
+,	PUNCT	,
+i	CCONJ	i
+razgovara	VERB	razgovarati
+se	PART	se
+vrlo	ADV	vrlo
+pametno	ADV	pametno
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+To	PROPN	To
+već	PART	već
+umeju	VERB	umeti
+svi	DET	sav
+lumpovi	NOUN	lumpov
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+Pravo	ADV	pravo
+da	SCONJ	da
+vam	PRON	vi
+kažem	VERB	kazati
+,	PUNCT	,
+za	ADP	za
+ovog	DET	ovaj
+Riju	PROPN	Ri
+ne	PART	ne
+bih	AUX	biti
+ja	PRON	ja
+pošla	VERB	poći
+—	PUNCT	—
+manj	CCONJ	manj
+da	SCONJ	da
+se	PART	se
+zatre	VERB	zatrti
+muško	ADJ	muški
+uho	NOUN	uho
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Ja	PRON	ja
+druge	ADJ	drugi
+momke	NOUN	momak
+ne	PART	ne
+poznajem	VERB	poznavati
+.	PUNCT	.
+</s>
+<s>
+A	CCONJ	a
+on	PRON	on
+govori	VERB	govoriti
+lepo	ADV	lepo
+.	PUNCT	.
+</s>
+<s>
+I	CCONJ	i
+,	PUNCT	,
+kad	SCONJ	kad
+god	PART	god
+se	PART	se
+sa	ADP	sa
+mnom	PRON	ja
+razgovara	VERB	razgovarati
+,	PUNCT	,
+svakad	ADV	svakad
+su	AUX	jesam
+mu	PRON	on
+reči	NOUN	reč
+nešto	ADV	nešto
+isprekidane	ADJ	isprekidan
+;	PUNCT	;
+nešto	ADV	nešto
+je	AUX	jesam
+kao	ADV	kao
+zbunjen	ADJ	zbunjen
+.	PUNCT	.
+</s>
+<s>
+Nije	AUX	jesam
+kao	CCONJ	kao
+oni	PRON	oni
+što	SCONJ	što
+govore	VERB	govoriti
+kao	CCONJ	kao
+čekalo	VERB	čekati
+,	PUNCT	,
+i	CCONJ	i
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Crna	ADJ	crn
+Julka	PROPN	Julka
+,	PUNCT	,
+on	PRON	on
+je	AUX	jesam
+tebi	PRON	ti
+već	PART	već
+pomerio	VERB	pomeriti
+pamet	NOUN	pamet
+!	PUNCT	!
+</s>
+<s>
+Čuvaj	VERB	Čuvaj
+se	PART	se
+,	PUNCT	,
+nesretnice	NOUN	nesretnica
+!	PUNCT	!
+</s>
+<s>
+Nemo	ADJ	nem
+guja	NOUN	guja
+da	SCONJ	da
+te	PRON	ti
+ujede	VERB	ujesti
+!	PUNCT	!
+</s>
+<s>
+Kako	SCONJ	kako
+bi	AUX	biti
+vekovala	VERB	vekovati
+s	ADP	s
+onakim	DET	onaki
+čovekom	NOUN	čovek
+?	PUNCT	?
+</s>
+<s>
+—	PUNCT	—
+Možda	PROPN	Možda
+vi	PRON	vi
+bolje	ADV	bolje
+znate	VERB	znati
+,	PUNCT	,
+a	CCONJ	a
+meni	PRON	ja
+se	PART	se
+čini	VERB	činiti
+da	SCONJ	da
+on	PRON	on
+nije	AUX	jesam
+sa	ADP	sa
+svim	DET	sav
+rđav	ADJ	rđav
+čovek	NOUN	čovek
+.	PUNCT	.
+</s>
+<s>
+Rđavo	PROPN	Rđavo
+upućen	VERB	uputiti
+jeste	AUX	jesam
+;	PUNCT	;
+ali	CCONJ	ali
+ga	ADV	ga
+jedna	NUM	jedan
+dobra	NOUN	dobra
+,	PUNCT	,
+jedna	NUM	jedan
+pametna	ADJ	pametan
+žena	NOUN	žena
+može	VERB	moći
+vratiti	VERB	vratiti
+da	SCONJ	da
+bude	AUX	biti
+krasni	ADJ	krasan
+čovek	NOUN	čovek
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Prođi	PROPN	Prođi
+se	PART	se
+,	PUNCT	,
+sreće	NOUN	sreća
+ti	PRON	ti
+!	PUNCT	!
+</s>
+<s>
+Kako	SCONJ	kako
+da	PART	da
+ga	ADV	ga
+vratiš	VERB	vratiti
+?	PUNCT	?
+</s>
+<s>
+Zar	PART	zar
+će	AUX	hteti
+onaj	DET	onaj
+slušati	VERB	slušati
+ženu	NOUN	žena
+?	PUNCT	?
+</s>
+<s>
+—	PUNCT	—
+Ženu	ADJ	Ženu
+milu	ADJ	mio
+,	PUNCT	,
+ženu	NOUN	žena
+prijatelja	NOUN	prijatelj
+,	PUNCT	,
+ženu	NOUN	žena
+koja	DET	koji
+bi	AUX	biti
+htela	AUX	hteti
+probuditi	VERB	probuditi
+u	ADP	u
+njegovom	DET	njegov
+srcu	NOUN	srce
+onu	DET	onaj
+zaspalu	ADJ	zaspao
+ljubav	NOUN	ljubav
+k	ADP	k
+urednom	ADJ	uredan
+i	CCONJ	i
+dobrom	ADJ	dobar
+životu	NOUN	život
+,	PUNCT	,
+poslušao	VERB	poslušati
+bi	AUX	biti
+on	PRON	on
+,	PUNCT	,
+ja	PRON	ja
+mislim	VERB	misliti
+,	PUNCT	,
+lako	ADV	lako
+i	CCONJ	i
+rado	ADV	rado
+.	PUNCT	.
+</s>
+<s>
+A	CCONJ	a
+ženi	NOUN	žena
+bi	AUX	biti
+bila	AUX	biti
+i	CCONJ	i
+slava	NOUN	slava
+i	CCONJ	i
+čast	NOUN	čast
+,	PUNCT	,
+kad	SCONJ	kad
+bi	AUX	biti
+mu	PRON	on
+učinila	VERB	učiniti
+tu	DET	taj
+uslugu	NOUN	usluga
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Tebi	PROPN	Teba
+Julka	PROPN	Julka
+,	PUNCT	,
+pada	VERB	padati
+na	ADP	na
+pamet	NOUN	pamet
+sve	DET	sav
+koješta	PRON	koješta
+!	PUNCT	!
+</s>
+<s>
+Govoriš	PROPN	Govoriš
+kao	CCONJ	kao
+neka	DET	neki
+babuskera	NOUN	babuskera
+.	PUNCT	.
+</s>
+<s>
+Kakva	DET	kakav
+je	AUX	jesam
+slast	NOUN	slast
+izvoditi	VERB	izvoditi
+na	ADP	na
+put	NOUN	put
+lumpova	NOUN	lumpov
+?	PUNCT	?
+</s>
+<s>
+Nije	AUX	jesam
+ga	ADV	ga
+mogla	VERB	moći
+usvetovati	VERB	usvetovati
+ni	PART	ni
+majka	NOUN	majka
+,	PUNCT	,
+ni	PART	ni
+otac	NOUN	otac
+,	PUNCT	,
+ni	PART	ni
+škola	NOUN	škola
+,	PUNCT	,
+ni	PART	ni
+nauka	NOUN	nauka
+,	PUNCT	,
+ni	PART	ni
+služba	NOUN	služba
+—	PUNCT	—
+te	DET	taj
+ćeš	AUX	hteti
+ti	PRON	ti
+?	PUNCT	?
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Sve	DET	sav
+je	AUX	jesam
+to	DET	taj
+drugo	ADV	drugo
+,	PUNCT	,
+a	CCONJ	a
+žena	NOUN	žena
+je	AUX	jesam
+drugo	ADJ	drugi
+.	PUNCT	.
+</s>
+<s>
+Što	NOUN	Što
+svi	DET	sav
+ti	PRON	ti
+ne	PART	ne
+mogu	VERB	moći
+,	PUNCT	,
+to	DET	taj
+često	ADV	često
+može	VERB	moći
+dobra	ADJ	dobar
+i	CCONJ	i
+pametna	ADJ	pametan
+žena	NOUN	žena
+.	PUNCT	.
+</s>
+<s>
+A	CCONJ	a
+rašta	ADV	rašta
+se	PART	se
+ono	PRON	ono
+i	PART	i
+govori	VERB	govoriti
+,	PUNCT	,
+da	SCONJ	da
+se	PART	se
+čovek	NOUN	čovek
+u	ADP	u
+ženidbi	NOUN	ženidba
+menja	VERB	menjati
+?	PUNCT	?
+</s>
+<s>
+Čovek	ADJ	Čovek
+ženi	NOUN	žena
+i	CCONJ	i
+žena	NOUN	žena
+čoveku	NOUN	čovek
+najbolji	ADJ	dobar
+su	AUX	jesam
+i	CCONJ	i
+najveći	ADJ	velik
+učitelji	NOUN	učitelj
+.	PUNCT	.
+</s>
+<s>
+I	CCONJ	i
+ti	DET	taj
+učitelji	NOUN	učitelj
+svakad	ADV	svakad
+mogu	VERB	moći
+mnogo	ADV	mnogo
+,	PUNCT	,
+samo	CCONJ	samo
+kad	SCONJ	kad
+umeju	VERB	umeti
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Taman	ADV	taman
+bih	AUX	biti
+ga	ADV	ga
+ja	PRON	ja
+učila	VERB	učiti
+,	PUNCT	,
+veli	VERB	velim
+Cana	PROPN	Cana
+:	PUNCT	:
+—	PUNCT	—
+kad	SCONJ	kad
+se	PART	se
+nije	AUX	jesam
+znao	VERB	znati
+vladati	VERB	vladati
+,	PUNCT	,
+za	ADP	za
+što	PRON	što
+se	PART	se
+ženio	VERB	ženiti
+?	PUNCT	?
+</s>
+<s>
+—	PUNCT	—
+Ama	PART	ama
+i	CCONJ	i
+da	SCONJ	da
+ga	ADV	ga
+učiš	VERB	učiti
+,	PUNCT	,
+zar	PART	zar
+se	PART	se
+lumpov	NOUN	lumpov
+može	VERB	moći
+odučiti	VERB	odučiti
+od	ADP	od
+svoje	DET	svoj
+stare	ADJ	star
+nauke	NOUN	nauka
+,	PUNCT	,
+veli	VERB	velim
+Vaska	PROPN	Vaska
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+More	PROPN	Mor
+deco	NOUN	deca
+!	PUNCT	!
+vi	PRON	vi
+govorite	VERB	govoriti
+tako	ADV	tako
+slobodno	ADV	slobodno
+o	ADP	o
+momcima	NOUN	momak
+,	PUNCT	,
+a	CCONJ	a
+ne	PART	ne
+mislite	VERB	misliti
+kakakva	VERB	kakakva
+vas	PRON	vi
+sreća	NOUN	sreća
+čeka	VERB	čekati
+,	PUNCT	,
+reče	VERB	reći
+iza	ADP	iza
+njihovih	DET	njihov
+leđa	NOUN	leđa
+Lukina	PROPN	Lukin
+Stanica	PROPN	Stanica
+,	PUNCT	,
+koja	DET	koji
+je	AUX	jesam
+tako	ADV	tako
+lagano	ADV	lagano
+prišla	VERB	prići
+da	SCONJ	da
+je	AUX	jesam
+devojke	NOUN	devojka
+nisu	AUX	jesam
+osetile	VERB	osetiti
+.	PUNCT	.
+</s>
+<s>
+One	PRON	one
+se	PART	se
+brže	ADV	brže
+okretoše	VERB	okrenuti
+,	PUNCT	,
+i	CCONJ	i
+udariše	VERB	udariti
+u	ADP	u
+smej	NOUN	smej
+i	CCONJ	i
+upravdanje	NOUN	upravdanje
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+Ovo	DET	ovaj
+se	PART	se
+govorilo	VERB	govoriti
+na	ADP	na
+klupi	NOUN	klupa
+pred	ADP	pred
+vratima	NOUN	vrata
+Luke	PROPN	Luka
+Lisopoljca	PROPN	Lisopoljac
+,	PUNCT	,
+po	ADP	po
+svedodžbi	NOUN	svedodžba
+letopisaca	NOUN	letopisac
+,	PUNCT	,
+dva	NUM	dva
+dana	NOUN	dan
+posle	ADP	posle
+razgovora	NOUN	razgovor
+Makreninog	ADJ	Makrenin
+s	ADP	s
+Jevremovom	ADJ	Jevremov
+Savkom	PROPN	Savka
+.	PUNCT	.
+</s>
+III	NUM	III
+Čestitanje	NOUN	Čestitanje
+«	PUNCT	«
+Što	PROPN	Što
+govoriš	VERB	govoriti
+—	PUNCT	—
+to	DET	taj
+meni	PRON	ja
+,	PUNCT	,
+a	CCONJ	a
+šta	PRON	šta
+misliš	VERB	misliti
+—	PUNCT	—
+to	DET	taj
+tebi	PRON	ti
+.	PUNCT	.
+»	PUNCT	»
+<s>
+Basma	NOUN	basma
+od	ADP	od
+Udvorica	NOUN	udvorica
+.	PUNCT	.
+</s>
+<s>
+Ne	PART	ne
+prođe	VERB	proći
+mnogo	ADV	mnogo
+posle	ADP	posle
+ovoga	DET	ovaj
+devojačkog	ADJ	devojački
+razgovora	NOUN	razgovor
+pred	ADP	pred
+vratima	NOUN	vrata
+Luke	PROPN	Luka
+Lisopoljca	PROPN	Lisopoljac
+,	PUNCT	,
+a	CCONJ	a
+žene	NOUN	žena
+i	CCONJ	i
+devojke	NOUN	devojka
+počeše	VERB	početi
+gomilama	NOUN	gomila
+dolaziti	VERB	dolaziti
+kući	NOUN	kuća
+trgovca	NOUN	trgovac
+Ivana	PROPN	Ivana
+Minića	PROPN	Minić
+.	PUNCT	.
+</s>
+<s>
+Njemu	PRON	on
+i	CCONJ	i
+domaćici	NOUN	domaćica
+njegovoj	DET	njegov
+obično	ADV	obično
+čestitahu	VERB	čestitati
+zeta	NOUN	zet
+,	PUNCT	,
+a	CCONJ	a
+ćeri	NOUN	ćera
+njihovoj	DET	njihov
+Zorki	PROPN	Zorka
+—	PUNCT	—
+mladoženju	NOUN	mladoženja
+!	PUNCT	!
+</s>
+<s>
+Zorka	PROPN	Zorka
+,	PUNCT	,
+obučena	ADJ	obučen
+od	ADP	od
+jutra	NOUN	jutro
+do	ADP	do
+mraka	NOUN	mrak
+,	PUNCT	,
+samo	PART	samo
+prihvata	VERB	prihvatati
+i	CCONJ	i
+ispraća	VERB	ispraćati
+goste	NOUN	gost
+,	PUNCT	,
+glasnike	NOUN	glasnik
+dobrih	ADJ	dobar
+želja	NOUN	želja
+,	PUNCT	,
+i	CCONJ	i
+već	PART	već
+ne	PART	ne
+zna	VERB	znati
+kako	ADV	kako
+da	SCONJ	da
+odgovara	VERB	odgovarati
+na	ADP	na
+sve	DET	sav
+nove	ADJ	nov
+i	CCONJ	i
+nove	ADJ	nov
+vrline	NOUN	vrlina
+koje	DET	koji
+gošće	NOUN	gošća
+nahode	VERB	nahoditi
+u	ADP	u
+njenoga	DET	njen
+mladoženje	NOUN	mladoženja
+.	PUNCT	.
+</s>
+<s>
+I	CCONJ	i
+svaka	DET	svaki
+se	PART	se
+gošća	NOUN	gošća
+mora	VERB	morati
+da	SCONJ	da
+začudi	VERB	začuditi
+:	PUNCT	:
+</s>
+<s>
+Kako	SCONJ	kako
+to	DET	taj
+bi	AUX	biti
+!	PUNCT	!
+</s>
+<s>
+Kad	SCONJ	kad
+to	DET	taj
+bi	AUX	biti
+?	PUNCT	?
+</s>
+<s>
+Ko	PRON	ko
+to	DET	taj
+tako	ADV	tako
+vešto	ADV	vešto
+uradi	VERB	uraditi
+?	PUNCT	?
+itd	NOUN	itd
+.	PUNCT	.
+i	CCONJ	i
+.	PUNCT	.
+t	X	t
+.	PUNCT	.
+d	X	d
+.	PUNCT	.
+itd	NOUN	itd
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Milenija	PROPN	Milenija
+,	PUNCT	,
+Zorkina	ADJ	Zorkin
+majka	NOUN	majka
+,	PUNCT	,
+s	ADP	s
+licem	NOUN	lice
+vrlo	ADV	vrlo
+zadovoljnim	ADJ	zadovoljan
+,	PUNCT	,
+veli	VERB	velim
+da	SCONJ	da
+nije	AUX	jesam
+još	PART	još
+mislila	VERB	misliti
+davati	VERB	davati
+svoje	DET	svoj
+ćeri	NOUN	ćera
+,	PUNCT	,
+ali	CCONJ	ali
+iziđe	VERB	izići
+dobra	ADJ	dobar
+prilika	NOUN	prilika
+,	PUNCT	,
+i	CCONJ	i
+prijatelji	NOUN	prijatelj
+navališe	VERB	navaliti
+,	PUNCT	,
+a	CCONJ	a
+najviše	ADV	najviše
+sam	AUX	jesam
+mladoženja	NOUN	mladoženja
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Dopada	VERB	dopadati
+mi	PRON	ja
+se	PART	se
+devojka	NOUN	devojka
+,	PUNCT	,
+veli	VERB	velim
+on	PRON	on
+;	PUNCT	;
+dopada	VERB	dopadati
+mi	PRON	ja
+se	PART	se
+vamilija	NOUN	vamilija
+;	PUNCT	;
+ili	CCONJ	ili
+ću	AUX	hteti
+uzeti	VERB	uzeti
+Zorku	PROPN	Zorka
+,	PUNCT	,
+ili	CCONJ	ili
+se	PART	se
+ne	PART	ne
+ću	AUX	hteti
+ni	PART	ni
+ženiti	VERB	ženiti
+.	PUNCT	.
+</s>
+<s>
+Valjda	ADV	valjda
+je	AUX	jesam
+taka	PRON	taki
+sudbina	NOUN	sudbina
+?	PUNCT	?
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Sudbina	NOUN	sudbina
+,	PUNCT	,
+ja	PRON	ja
+šta	PRON	šta
+je	AUX	jesam
+?	PUNCT	?
+</s>
+<s>
+Nema	VERB	nemati
+bez	ADP	bez
+sudbine	NOUN	sudbina
+ništa	PRON	ništa
+,	PUNCT	,
+tvrdi	VERB	tvrditi
+Baba	PROPN	Baba
+-	PUNCT	-
+Sosa	PROPN	Sosa
+.	PUNCT	.
+</s>
+<s>
+Dokle	SCONJ	dokle
+na	ADP	na
+jednom	NUM	jedan
+kraju	NOUN	kraj
+sobe	NOUN	sob
+Milenija	PROPN	Milenija
+ovako	ADV	ovako
+pripisuje	VERB	pripisivati
+sve	DET	sav
+volji	NOUN	volja
+božjoj	ADJ	božji
+,	PUNCT	,
+sudbini	NOUN	sudbina
+,	PUNCT	,
+a	CCONJ	a
+nešto	ADV	nešto
+i	CCONJ	i
+čaru	NOUN	čar
+svoje	DET	svoj
+ćeri	NOUN	ćera
+,	PUNCT	,
+lepu	ADJ	lep
+glasu	NOUN	glas
+svoje	DET	svoj
+moćne	ADJ	moćan
+vamilije	NOUN	vamilija
+,	PUNCT	,
+dotle	ADV	dotle
+na	ADP	na
+drugoj	ADJ	drugi
+strani	NOUN	strana
+Makrena	PROPN	Makrena
+priča	VERB	pričati
+da	SCONJ	da
+od	ADP	od
+toga	DET	taj
+ne	PART	ne
+bi	AUX	biti
+bilo	AUX	biti
+nikad	ADV	nikad
+ništa	ADV	ništa
+da	SCONJ	da
+nije	AUX	jesam
+bilo	AUX	biti
+nje	PRON	ona
+.	PUNCT	.
+</s>
+<s>
+Rija	VERB	Rija
+se	PART	se
+,	PUNCT	,
+veli	VERB	velim
+ona	PRON	ona
+,	PUNCT	,
+bio	AUX	biti
+zabatalio	VERB	zabataliti
+;	PUNCT	;
+nije	AUX	jesam
+ni	PART	ni
+mislio	VERB	misliti
+da	SCONJ	da
+se	PART	se
+ženi	NOUN	žena
+,	PUNCT	,
+ali	CCONJ	ali
+ona	PRON	ona
+na	ADP	na
+stane	NOUN	stan
+:	PUNCT	:
+te	CCONJ	te
+otud	ADV	otud
+,	PUNCT	,
+te	CCONJ	te
+odovud	ADV	odovud
+,	PUNCT	,
+te	PRON	ti
+okreni	VERB	okrenuti
+,	PUNCT	,
+te	PRON	ti
+obrni	VERB	obrnuti
+,	PUNCT	,
+dokle	SCONJ	dokle
+lepo	ADV	lepo
+uredi	VERB	urediti
+sve	DET	sav
+kako	SCONJ	kako
+treba	VERB	trebati
+!	PUNCT	!
+</s>
+<s>
+Matere	PROPN	Matera
+,	PUNCT	,
+koje	DET	koji
+znaju	VERB	znati
+kolika	DET	kolik
+je	AUX	jesam
+briga	NOUN	briga
+neudata	ADJ	neudat
+ći	NOUN	ćer
+,	PUNCT	,
+od	ADP	od
+svega	DET	sav
+srca	NOUN	srce
+(	PUNCT	(
+a	CCONJ	a
+neke	DET	neki
+i	CCONJ	i
+sa	ADP	sa
+zavišću	NOUN	zavist
+)	PUNCT	)
+čestitaju	VERB	čestitati
+Mileniji	PROPN	Milenija
+zeta	NOUN	zet
+.	PUNCT	.
+</s>
+<s>
+A	CCONJ	a
+devojke	NOUN	devojka
+gledaju	VERB	gledati
+na	ADP	na
+tu	DET	taj
+stvar	NOUN	stvar
+nešto	ADV	nešto
+drugojačije	ADV	drugojačije
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Zorka	PROPN	Zorka
+,	PUNCT	,
+sestro	NOUN	sestra
+,	PUNCT	,
+lepo	ADV	lepo
+je	AUX	jesam
+to	DET	taj
+udati	VERB	udati
+se	PART	se
+,	PUNCT	,
+veli	VERB	velim
+nestašnica	NOUN	nestašnica
+Lenka	PROPN	Lenka
+Lakina	ADJ	Lakin
+:	PUNCT	:
+—	PUNCT	—
+ali	CCONJ	ali
+za	ADP	za
+Boga	NOUN	bog
+,	PUNCT	,
+za	ADP	za
+koga	DET	koji
+da	SCONJ	da
+se	PART	se
+udam	VERB	udati
+?	PUNCT	?
+</s>
+<s>
+Mladoženja	PROPN	Mladoženja
+treba	VERB	trebati
+da	SCONJ	da
+je	AUX	jesam
+lep	ADJ	lep
+,	PUNCT	,
+da	SCONJ	da
+je	AUX	jesam
+mlad	ADJ	mlad
+,	PUNCT	,
+da	SCONJ	da
+je	AUX	jesam
+zgodan	ADJ	zgodan
+i	CCONJ	i
+pogodan	ADJ	pogodan
+,	PUNCT	,
+ali	CCONJ	ali
+.	PUNCT	.
+sreće	NOUN	sreća
+mi	PRON	ja
+moje	DET	moj
+,	PUNCT	,
+treba	VERB	trebati
+da	SCONJ	da
+je	AUX	jesam
+i	CCONJ	i
+pametan	ADJ	pametan
+;	PUNCT	;
+dalje	ADV	dalje
+,	PUNCT	,
+da	SCONJ	da
+zna	VERB	znati
+odašta	ADV	odašta
+će	AUX	hteti
+živeti	VERB	živeti
+.	PUNCT	.
+</s>
+<s>
+Ta	DET	taj
+nije	AUX	jesam
+on	PRON	on
+cvet	NOUN	cvet
+da	SCONJ	da
+ga	ADV	ga
+samo	PART	samo
+zadenem	VERB	zadenuti
+za	ADP	za
+kosu	NOUN	kosa
+,	PUNCT	,
+nego	CCONJ	nego
+je	AUX	jesam
+čovek	NOUN	čovek
+—	PUNCT	—
+da	SCONJ	da
+me	PRON	ja
+hrani	VERB	hraniti
+!	PUNCT	!
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Baš	ADJ	Baš
+da	SCONJ	da
+hrani	NOUN	hrana
+!	PUNCT	!
+odgovori	VERB	odgovoriti
+Milica	PROPN	Milica
+Piskova	NOUN	pisak
+:	PUNCT	:
+—kad	ADV	—kad
+smo	AUX	jesam
+mi	PRON	ja
+devojke	NOUN	devojka
+slepe	ADJ	slep
+kod	ADP	kod
+očiju	NOUN	oči
+:	PUNCT	:
+ne	PART	ne
+znamo	VERB	znati
+nikakvog	DET	nikakav
+rada	NOUN	rad
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Kakva	DET	kakav
+rada	NOUN	rad
+da	SCONJ	da
+mu	PRON	on
+znam	VERB	znati
+?	PUNCT	?
+upitaće	VERB	upitati
+srdito	ADV	srdito
+Jeca	PROPN	Jeca
+Jovina	ADJ	Jovin
+:	PUNCT	:
+—	PUNCT	—
+valjda	ADV	valjda
+ću	AUX	hteti
+sesti	VERB	sesti
+u	ADP	u
+dućan	NOUN	dućan
+da	SCONJ	da
+vodim	VERB	voditi
+trgovinu	NOUN	trgovina
+;	PUNCT	;
+ili	CCONJ	ili
+ću	AUX	hteti
+uzeti	VERB	uzeti
+motiku	NOUN	motika
+da	SCONJ	da
+kopam	VERB	kopati
+,	PUNCT	,
+kao	CCONJ	kao
+seljakuša	NOUN	seljakuša
+?	PUNCT	?
+</s>
+<s>
+Seko	NOUN	seka
+moja	DET	moj
+!	PUNCT	!
+</s>
+<s>
+Sad	ADV	sad
+se	PART	se
+svet	NOUN	svet
+opametio	VERB	opametiti
+:	PUNCT	:
+ne	PART	ne
+živi	VERB	živiti
+se	PART	se
+dva	NUM	dva
+veka	NOUN	vek
+!	PUNCT	!
+</s>
+<s>
+Pre	ADV	pre
+se	PART	se
+jadna	ADJ	jadan
+devojka	NOUN	devojka
+udavala	VERB	udavati
+da	SCONJ	da
+gotovi	ADJ	gotov
+jelo	NOUN	jela
+za	ADP	za
+momke	NOUN	momak
+i	CCONJ	i
+kalfe	NOUN	kalfa
+,	PUNCT	,
+da	SCONJ	da
+čoveka	NOUN	čovek
+dvori	VERB	dvoriti
+i	CCONJ	i
+služi	VERB	služiti
+,	PUNCT	,
+da	SCONJ	da
+rinta	VERB	rintati
+i	CCONJ	i
+robuje	VERB	robovati
+kao	ADV	kao
+robinja	NOUN	robinja
+;	PUNCT	;
+a	CCONJ	a
+danas	ADV	danas
+se	PART	se
+udaje	VERB	udavati
+—	PUNCT	—
+da	SCONJ	da
+živi	VERB	živiti
+!	PUNCT	!
+</s>
+<s>
+Pametan	ADJ	pametan
+svet	NOUN	svet
+tako	ADV	tako
+radi	VERB	raditi
+;	PUNCT	;
+a	CCONJ	a
+muž	NOUN	muž
+je	AUX	jesam
+za	ADP	za
+to	DET	taj
+muž	NOUN	muž
+da	SCONJ	da
+se	PART	se
+stara	VERB	starati
+za	ADP	za
+ženu	NOUN	žena
+.	PUNCT	.
+</s>
+<s>
+Ko	PRON	ko
+to	DET	taj
+ne	PART	ne
+može	VERB	moći
+,	PUNCT	,
+neka	DET	neki
+se	PART	se
+ne	PART	ne
+ženi	NOUN	žena
+.	PUNCT	.
+</s>
+<s>
+Tu	ADV	tu
+bar	PART	bar
+nije	AUX	jesam
+sile	NOUN	sila
+!	PUNCT	!
+</s>
+<s>
+—	PUNCT	—
+Ne	PART	ne
+velim	VERB	velim
+ni	PART	ni
+ja	PRON	ja
+da	SCONJ	da
+se	PART	se
+muž	NOUN	muž
+ne	PART	ne
+stara	VERB	starati
+;	PUNCT	;
+ali	CCONJ	ali
+ako	SCONJ	ako
+se	PART	se
+muž	NOUN	muž
+razboli	VERB	razboleti
+;	PUNCT	;
+ako	SCONJ	ako
+umre	VERB	umreti
+;	PUNCT	;
+ako	SCONJ	ako
+osiromaši	VERB	osiromašiti
+;	PUNCT	;
+kako	SCONJ	kako
+će	AUX	hteti
+se	PART	se
+onda	ADV	onda
+?	PUNCT	?
+</s>
+<s>
+—	PUNCT	—
+Seko	PROPN	Seka
+moja	DET	moj
+,	PUNCT	,
+ti	PRON	ti
+si	AUX	jesam
+nekakav	DET	nekakav
+zloslut	ADJ	zloslut
+.	PUNCT	.
+</s>
+<s>
+Ko	PRON	ko
+je	AUX	jesam
+poludeo	VERB	poludeti
+da	SCONJ	da
+još	PART	još
+takim	PRON	taki
+mislima	NOUN	misao
+razbija	VERB	razbijati
+glavu	NOUN	glava
+u	ADP	u
+oči	NOUN	oči
+udadbe	NOUN	udadba
+?	PUNCT	?
+</s>
+<s>
+Ali	CCONJ	ali
+ko	PRON	ko
+bi	AUX	biti
+pohvatao	VERB	pohvatati
+sve	ADV	sve
+ovako	ADV	ovako
+sitne	ADJ	sitan
+misli	NOUN	misao
+i	CCONJ	i
+reči	NOUN	reč
+u	ADP	u
+ovoj	DET	ovaj
+gunguli	NOUN	gungula
+u	ADP	u
+Minićevoj	ADJ	Minićev
+kući	NOUN	kuća
+?	PUNCT	?
+</s>
+<s>
+Šta	ADV	Šta
+ti	PRON	ti
+se	PART	se
+tu	ADV	tu
+nije	AUX	jesam
+govorilo	VERB	govoriti
+,	PUNCT	,
+šta	PRON	šta
+li	PART	li
+se	PART	se
+nije	AUX	jesam
+pretresalo	VERB	pretresati
+?	PUNCT	?
+!	PUNCT	!
+.	PUNCT	.
+Osem	ADP	osem
+žena	NOUN	žena
+i	CCONJ	i
+devojaka	NOUN	devojka
+,	PUNCT	,
+viđaše	VERB	viđati
+se	PART	se
+u	ADP	u
+Minićevoj	ADJ	Minićev
+kući	NOUN	kuća
+puno	ADJ	pun
+i	CCONJ	i
+drugih	ADJ	drugi
+gostiju	NOUN	gost
+.	PUNCT	.
+</s>
+<s>
+Momci	NOUN	momak
+iz	ADP	iz
+trgovačkih	ADJ	trgovački
+dućana	NOUN	dućan
+jedni	NUM	jedan
+odlažahu	VERB	odlaziti
+a	CCONJ	a
+drugi	ADJ	drugi
+dolažahu	VERB	dolaziti
+.	PUNCT	.
+</s>
+<s>
+Neprekidno	ADV	neprekidno
+se	PART	se
+odbiralo	VERB	odbirati
+,	PUNCT	,
+pazarilo	VERB	pazariti
+,	PUNCT	,
+seklo	VERB	seći
+,	PUNCT	,
+krojilo	VERB	krojiti
+,	PUNCT	,
+plaćalo	VERB	plaćati
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+ne	PART	ne
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+zapisivalo	VERB	zapisivati
+se	PART	se
+.	PUNCT	.
+.	PUNCT	.
+i	CCONJ	i
+često	ADV	često
+—	PUNCT	—
+vrlo	ADV	vrlo
+često	ADV	često
+,	PUNCT	,
+uzdisalo	VERB	uzdisati
+se	PART	se
+!	PUNCT	!
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+U	ADP	u
+ovoj	DET	ovaj
+našoj	DET	naš
+varoši	NOUN	varoš
+,	PUNCT	,
+govoraše	VERB	govoriti
+Ivan	PROPN	Ivan
+Minić	PROPN	Minić
+:	PUNCT	:
+—	PUNCT	—
+jedan	NUM	jedan
+ukop	NOUN	ukop
+,	PUNCT	,
+ili	CCONJ	ili
+jedna	NUM	jedan
+udadba	NOUN	udadba
+,	PUNCT	,
+odnesu	VERB	odneti
+toliko	ADV	toliko
+koliko	ADV	koliko
+i	CCONJ	i
+jedan	NUM	jedan
+požar	NOUN	požar
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Ova	DET	ovaj
+naša	DET	naš
+varoš	NOUN	varoš
+prava	NOUN	prava
+je	AUX	jesam
+palanna	ADJ	palanna
+,	PUNCT	,
+govoraše	VERB	govoriti
+udavača	NOUN	udavača
+Zorka	PROPN	Zorka
+:	PUNCT	:
+—	PUNCT	—
+što	SCONJ	što
+god	PART	god
+potražiš	VERB	potražiti
+—	PUNCT	—
+nema	VERB	nemati
+!	PUNCT	!
+</s>
+<s>
+I	CCONJ	i
+što	SCONJ	što
+ima	VERB	imati
+,	PUNCT	,
+nevalja	NOUN	nevalja
+;	PUNCT	;
+sve	DET	sav
+nešto	PRON	nešto
+prostačko	ADJ	prostački
+.	PUNCT	.
+</s>
+<s>
+Tražim	ADJ	Tražim
+vezen	ADJ	vezen
+peškir	NOUN	peškir
+za	ADP	za
+devera	NOUN	dever
+,	PUNCT	,
+pa	CCONJ	pa
+nigde	ADV	nigde
+ni	PART	ni
+u	ADP	u
+koga	PRON	ko
+!	PUNCT	!
+</s>
+<s>
+Moraću	PROPN	Moraću
+uzeti	VERB	uzeti
+belu	ADJ	beo
+lentu	NOUN	lenta
+od	ADP	od
+atlasa	NOUN	atlas
+!	PUNCT	!
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+IV	NUM	IV
+Živi	PROPN	Živa
+svet	NOUN	svet
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+«	PUNCT	«
+'	VERB	'
+Vala	PROPN	Val
+Bogu	NOUN	bog
+!	PUNCT	!
+Ko	PRON	ko
+hrani	VERB	hraniti
+ovaj	DET	ovaj
+dokoni	ADJ	dokon
+svet	NOUN	svet
+?	PUNCT	?
+.	PUNCT	.
+.	PUNCT	.
+»	PUNCT	»
+<s>
+Jedna	NUM	jedan
+misao	NOUN	misao
+iz	ADP	iz
+glave	NOUN	glava
+radenika	NOUN	radenik
+.	PUNCT	.
+</s>
+<s>
+Pred	ADP	pred
+velikom	ADJ	velik
+kavanom	NOUN	kavana
+«	PUNCT	«
+Kod	ADP	kod
+osedlana	ADJ	osedlan
+konja	NOUN	konj
+»	PUNCT	»
+,	PUNCT	,
+na	ADP	na
+pešačkoj	ADJ	pešački
+putanji	NOUN	putanja
+namešteni	ADJ	namešten
+stolovi	NOUN	sto
+;	PUNCT	;
+za	ADP	za
+stolove	NOUN	sto
+zaseli	VERB	zasesti
+orni	ADJ	oran
+gosti	NOUN	gost
+;	PUNCT	;
+pred	ADP	pred
+njima	PRON	ona
+se	PART	se
+peni	VERB	peniti
+hladno	ADJ	hladan
+pivo	NOUN	piva
+,	PUNCT	,
+a	CCONJ	a
+hitre	ADJ	hitar
+pivonoše	NOUN	pivonoša
+se	PART	se
+svaki	DET	svaki
+čas	ADV	čas
+odzivlju	VERB	odzivati
+:	PUNCT	:
+</s>
+<s>
+—	PUNCT	—
+Sad	ADV	sad
+,	PUNCT	,
+sad	ADV	sad
+!	PUNCT	!
+</s>
+<s>
+Taki	NOUN	taka
+,	PUNCT	,
+taki	NOUN	taka
+!	PUNCT	!
+</s>
+<s>
+Molim	VERB	moliti
+,	PUNCT	,
+molim	VERB	moliti
+!	PUNCT	!
+</s>
+<s>
+Sad	ADV	sad
+baš	PART	baš
+friško	ADV	friško
+!	PUNCT	!
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+Gosti	NOUN	gost
+,	PUNCT	,
+među	ADP	među
+tim	DET	taj
+,	PUNCT	,
+sede	VERB	sesti
+,	PUNCT	,
+razgovaraju	VERB	razgovarati
+se	PART	se
+,	PUNCT	,
+i	CCONJ	i
+guckaju	VERB	guckati
+gutljaj	NOUN	gutljaj
+po	ADP	po
+gutljaj	NOUN	gutljaj
+toga	DET	taj
+ječmenoga	ADJ	ječmen
+nektara	NOUN	nektar
+.	PUNCT	.
+</s>
+<s>
+Tri	NUM	tri
+seljaka	NOUN	seljak
+,	PUNCT	,
+vraćajući	VERB	vraćati
+se	PART	se
+iz	ADP	iz
+grada	NOUN	grad
+od	ADP	od
+svojih	DET	svoj
+sinova	NOUN	sin
+vojnika	NOUN	vojnik
+,	PUNCT	,
+udariše	VERB	udariti
+na	ADP	na
+ovaj	DET	ovaj
+skup	NOUN	skup
+pred	ADP	pred
+kavanom	NOUN	kavana
+,	PUNCT	,
+pa	CCONJ	pa
+ne	PART	ne
+mogući	VERB	moći
+proći	VERB	proći
+stazom	NOUN	staza
+pešačicom	NOUN	pešačica
+,	PUNCT	,
+obiđoše	VERB	obići
+i	CCONJ	i
+stolove	NOUN	sto
+i	CCONJ	i
+goste	NOUN	gost
+,	PUNCT	,
+a	CCONJ	a
+očiju	NOUN	oči
+ne	PART	ne
+smetahu	VERB	smetati
+s	ADP	s
+toga	DET	taj
+dokonoga	ADJ	dokon
+sveta	NOUN	svet
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+'	VERB	'
+Vala	PROPN	Val
+Bogu	NOUN	bog
+,	PUNCT	,
+reći	VERB	reći
+će	AUX	hteti
+jedan	NUM	jedan
+od	ADP	od
+njih	PRON	ona
+:	PUNCT	:
+—	PUNCT	—
+ko	PRON	ko
+li	PART	li
+rani	VERB	raniti
+ovaj	DET	ovaj
+ovoliki	ADJ	ovolik
+zaludni	ADJ	zaludan
+narod	NOUN	narod
+?	PUNCT	?
+</s>
+<s>
+—	PUNCT	—
+Ko	PROPN	Ko
+ga	ADV	ga
+rani	ADJ	ran
+—	PUNCT	—
+ne	PART	ne
+znam	VERB	znati
+,	PUNCT	,
+a	CCONJ	a
+da	SCONJ	da
+se	PART	se
+on	PRON	on
+dobro	ADV	dobro
+i	CCONJ	i
+rani	ADJ	ran
+i	CCONJ	i
+poji—to	NOUN	poji—to
+vidim	VERB	viditi
+,	PUNCT	,
+odgovori	VERB	odgovoriti
+drugi	ADJ	drugi
+seljak	NOUN	seljak
+.	PUNCT	.
+</s>
+<s>
+—-	ADV	—-
+Ovi	DET	ovaj
+varošani	NOUN	varošanin
+krive	VERB	kriviti
+nas	PRON	mi
+seljake	NOUN	seljak
+što	SCONJ	što
+mnogo	ADV	mnogo
+trošimo	VERB	trošiti
+o	ADP	o
+slavama	NOUN	slava
+,	PUNCT	,
+a	CCONJ	a
+pogle	VERB	pognuti
+ti	PRON	ti
+njih	PRON	ona
+!	PUNCT	!
+</s>
+<s>
+Mi	PRON	ja
+slavimo	VERB	slaviti
+jednom	ADV	jednom
+u	ADP	u
+godini	NOUN	godina
+,	PUNCT	,
+a	CCONJ	a
+oni	PRON	oni
+slave	VERB	slaviti
+evo	PART	evo
+svako	DET	svaki
+veče	NOUN	veče
+!	PUNCT	!
+</s>
+<s>
+—	PUNCT	—
+.	PUNCT	.
+</s>
+<s>
+Jedno	NUM	jedan
+pivo	NOUN	piva
+!	PUNCT	!
+viče	VERB	vikati
+jedan	NUM	jedan
+gost	NOUN	gost
+iza	ADP	iza
+stola	NOUN	sto
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Sad	ADV	sad
+,	PUNCT	,
+sad	ADV	sad
+!	PUNCT	!
+</s>
+<s>
+Otvara	VERB	otvarati
+se	PART	se
+friško	ADV	friško
+!	PUNCT	!
+odgovara	VERB	odgovarati
+pivonoša	NOUN	pivonoša
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+I	CCONJ	i
+govor	NOUN	govor
+im	PRON	ona
+je	AUX	jesam
+drugojačiji	ADJ	drugojačiji
+,	PUNCT	,
+progovori	VERB	progovoriti
+prvi	ADJ	prvi
+seljak	NOUN	seljak
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Hajdemote	INTJ	hajdemote
+dalje	ADV	dalje
+,	PUNCT	,
+reći	VERB	reći
+će	AUX	hteti
+treći	ADJ	treći
+seljak	NOUN	seljak
+:	PUNCT	:
+—	PUNCT	—
+vidite	VERB	viditi
+li	PART	li
+da	SCONJ	da
+je	AUX	jesam
+ovde	ADV	ovde
+sve	ADV	sve
+kako	SCONJ	kako
+ne	PART	ne
+treba	VERB	trebati
+.	PUNCT	.
+</s>
+<s>
+I	CCONJ	i
+udališe	VERB	udaliti
+se	PART	se
+;	PUNCT	;
+ali	CCONJ	ali
+u	ADP	u
+duši	NOUN	duša
+svaki	DET	svaki
+mišljaše	VERB	misliti
+:	PUNCT	:
+</s>
+<s>
+—	PUNCT	—
+More	PROPN	Mor
+je	AUX	jesam
+ovo	DET	ovaj
+zgodno	ADV	zgodno
+;	PUNCT	;
+samo	CCONJ	samo
+ne	PART	ne
+znam	VERB	znati
+ko	PRON	ko
+najzad	ADV	najzad
+plaća	VERB	plaćati
+sve	DET	sav
+ovo	DET	ovaj
+uživanje	NOUN	uživanje
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+Odoše	PROPN	Odoše
+!	PUNCT	!
+</s>
+<s>
+Među	PROPN	Međa
+tim	NOUN	tim
+,	PUNCT	,
+gostiju	NOUN	gost
+sve	DET	sav
+više	ADV	više
+.	PUNCT	.
+</s>
+<s>
+Za	ADP	za
+svakim	DET	svaki
+stolom	NOUN	sto
+smiču	VERB	smicati
+se	PART	se
+raniji	ADJ	raniji
+da	SCONJ	da
+učine	VERB	učiniti
+mesta	NOUN	mesto
+poznijima	ADJ	pozan
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Ovo	DET	ovaj
+je	AUX	jesam
+pivo	NOUN	piva
+pravo	NOUN	prava
+bogovsko	ADJ	bogovski
+piće	NOUN	pića
+,	PUNCT	,
+veli	VERB	velim
+jedan	NUM	jedan
+prosedi	ADJ	prosed
+gospodin	NOUN	gospodin
+za	ADP	za
+stolom	NOUN	sto
+№	NOUN	№
+1	NUM	@card@
+.	PUNCT	.
+</s>
+<s>
+Stari	ADJ	star
+su	AUX	jesam
+pili	VERB	piti
+nekakav	DET	nekakav
+nektar	NOUN	nektar
+,	PUNCT	,
+ali	CCONJ	ali
+jamačno	ADV	jamačno
+nije	AUX	jesam
+bio	AUX	biti
+ovakav	DET	ovakav
+.	PUNCT	.
+</s>
+<s>
+Oni	DET	onaj
+kukavci	NOUN	kukavac
+za	ADP	za
+pivo	NOUN	piva
+nisu	AUX	jesam
+znali	VERB	znati
+!	PUNCT	!
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Kako	ADV	kako
+da	SCONJ	da
+nisu	AUX	jesam
+znali	VERB	znati
+?	PUNCT	?
+</s>
+<s>
+Tu	ADV	tu
+skoro	ADV	skoro
+je	AUX	jesam
+u	ADP	u
+Misiru	PROPN	Misir
+,	PUNCT	,
+na	ADP	na
+papirusovu	ADJ	papirusov
+listu	NOUN	lista
+,	PUNCT	,
+nađen	VERB	naći
+recept	NOUN	recept
+kako	SCONJ	kako
+se	PART	se
+vari	VERB	variti
+pivo	NOUN	piva
+!	PUNCT	!
+</s>
+<s>
+Znali	VERB	znati
+su	AUX	jesam
+,	PUNCT	,
+znali	VERB	znati
+,	PUNCT	,
+i	CCONJ	i
+stari	ADJ	star
+za	ADP	za
+ovo	DET	ovaj
+božansko	ADJ	božanski
+piće	NOUN	pića
+!	PUNCT	!
+...	PUNCT	...
+</s>
+<s>
+—	PUNCT	—
+Nego	CCONJ	nego
+šteta	NOUN	šteta
+što	SCONJ	što
+se	PART	se
+nisu	AUX	jesam
+razumevali	VERB	razumevati
+u	ADP	u
+pivu	NOUN	piva
+,	PUNCT	,
+reče	VERB	reći
+jedan	NUM	jedan
+popa	NOUN	pop
+u	ADP	u
+naočarima	NOUN	naočari
+;	PUNCT	;
+mislili	VERB	misliti
+su	AUX	jesam
+da	SCONJ	da
+je	AUX	jesam
+novo	ADJ	nov
+pivo	NOUN	piva
+najbolje	ADV	najbolje
+.	PUNCT	.
+</s>
+<s>
+Eno	PART	eno
+i	CCONJ	i
+u	ADP	u
+vaskršnjim	ADJ	vaskršnji
+pesmama	NOUN	pesma
+,	PUNCT	,
+u	ADP	u
+figuri	NOUN	figura
+,	PUNCT	,
+viču	VERB	vikati
+:	PUNCT	:
+</s>
+<s>
+Dođite	VERB	Dođite
+da	SCONJ	da
+pijemo	VERB	piti
+pivo	NOUN	piva
+novo	ADJ	nov
+!	PUNCT	!
+</s>
+<s>
+Kao	CCONJ	kao
+da	SCONJ	da
+bi	AUX	biti
+novo	ADJ	nov
+pivo	NOUN	piva
+bilo	AUX	biti
+najbolje	ADV	najbolje
+!	PUNCT	!
+</s>
+<s>
+Nekoliki	DET	nekolik
+se	PART	se
+gosti	NOUN	gost
+lukavo	ADJ	lukav
+osmenuše	VERB	osmenuti
+dubokom	ADJ	dubok
+poznavanju	NOUN	poznavanje
+starine	NOUN	starina
+u	ADP	u
+ovog	DET	ovaj
+pope	VERB	popiti
+s	ADP	s
+naočarima	NOUN	naočari
+!	PUNCT	!
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Za	ADP	za
+staro	ADJ	star
+vreme	NOUN	vreme
+ne	PART	ne
+pitam	VERB	pitati
+,	PUNCT	,
+nastavlja	VERB	nastavljati
+onaj	DET	onaj
+stari	ADJ	star
+gospodin	NOUN	gospodin
+:	PUNCT	:
+—	PUNCT	—
+ali	CCONJ	ali
+danas	ADV	danas
+znam	VERB	znati
+da	SCONJ	da
+je	AUX	jesam
+onaj	DET	onaj
+narod	NOUN	narod
+pitomiji	ADJ	pitom
+koji	DET	koji
+pije	VERB	piti
+pivo	NOUN	piva
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Kažem	PROPN	Kažem
+vam	PRON	vi
+,	PUNCT	,
+viče	VERB	vikati
+drugi	ADJ	drugi
+jedan	NUM	jedan
+gost	NOUN	gost
+za	ADP	za
+stolom	NOUN	sto
+№	NOUN	№
+2	NUM	@card@
+,	PUNCT	,
+da	SCONJ	da
+je	AUX	jesam
+za	ADP	za
+ovako	ADV	ovako
+mali	ADJ	mali
+narod	NOUN	narod
+,	PUNCT	,
+kao	CCONJ	kao
+mi	PRON	ja
+što	PRON	što
+smo	AUX	jesam
+,	PUNCT	,
+jedan	NUM	jedan
+filolog	NOUN	filolog
+dosta	ADV	dosta
+.	PUNCT	.
+</s>
+<s>
+Drugi	ADJ	drugi
+ljudi	NOUN	ljudi
+mogu	VERB	moći
+svi	DET	sav
+gledati	VERB	gledati
+svoga	DET	svoj
+posla	NOUN	posao
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+Jasan	ADJ	jasan
+glas	NOUN	glas
+ovoga	DET	ovaj
+gospodina	NOUN	gospodin
+prekide	VERB	prekinuti
+i	CCONJ	i
+utuli	VERB	utuliti
+i	CCONJ	i
+rečenicu	NOUN	rečenica
+i	CCONJ	i
+misao	NOUN	misao
+onoga	DET	onaj
+prvoga	ADJ	prvi
+koji	DET	koji
+govori	VERB	govoriti
+o	ADP	o
+pitomini	NOUN	pitomina
+pivopija	NOUN	pivopija
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Imate	VERB	imati
+pravo	NOUN	prava
+,	PUNCT	,
+prihvati	VERB	prihvatiti
+jedan	NUM	jedan
+od	ADP	od
+gostiju	NOUN	gost
+s	ADP	s
+prosedom	ADJ	prosed
+bradom	NOUN	brada
+:	PUNCT	:
+—	PUNCT	—
+na	ADP	na
+priliku	NOUN	prilika
+,	PUNCT	,
+meni	PRON	ja
+,	PUNCT	,
+tehničaru	NOUN	tehničar
+,	PUNCT	,
+što	SCONJ	što
+će	AUX	hteti
+znanje	NOUN	znanje
+jezika	NOUN	jezik
+?	PUNCT	?
+</s>
+<s>
+Kad	SCONJ	kad
+ja	PRON	ja
+znam	VERB	znati
+svoju	DET	svoj
+nauku	NOUN	nauka
+,	PUNCT	,
+kad	SCONJ	kad
+vladam	VERB	vladati
+svojim	DET	svoj
+alatima	NOUN	alat
+,	PUNCT	,
+što	SCONJ	što
+će	AUX	hteti
+mi	PRON	ja
+pero	NOUN	pero
+i	CCONJ	i
+gramatika	NOUN	gramatika
+?	PUNCT	?
+</s>
+<s>
+—	PUNCT	—
+I	CCONJ	i
+vi	PRON	vi
+imate	VERB	imati
+pravo	NOUN	prava
+!	PUNCT	!
+dodade	VERB	dodati
+jedan	NUM	jedan
+đavolan	NOUN	đavolan
+u	ADP	u
+naočarima	NOUN	naočari
+,	PUNCT	,
+koji	DET	koji
+ne	PART	ne
+gleda	VERB	gledati
+ni	CCONJ	ni
+u	ADP	u
+koga	PRON	ko
+:	PUNCT	:
+</s>
+<s>
+—	PUNCT	—
+Kako	SCONJ	kako
+jezik	NOUN	jezik
+iskazuje	VERB	iskazivati
+najtajnija	ADJ	najtajnija
+vijuganja	NOUN	vijuganje
+duše	NOUN	duša
+čovečije	ADJ	čovečiji
+,	PUNCT	,
+kako	SCONJ	kako
+on	PRON	on
+obelodanjuje	VERB	obelodanjivati
+najfinije	ADJ	fin
+razlike	NOUN	razlika
+koje	DET	koji
+opaža	VERB	opažati
+duh	NOUN	duh
+ljudski	ADJ	ljudski
+,	PUNCT	,
+i	CCONJ	i
+kako	SCONJ	kako
+je	AUX	jesam
+,	PUNCT	,
+po	ADP	po
+tome	DET	taj
+,	PUNCT	,
+on	PRON	on
+blago	ADV	blago
+sviju	VERB	sviti
+ljudi	NOUN	ljudi
+,	PUNCT	,
+a	CCONJ	a
+vi	PRON	vi
+ste	AUX	jesam
+stručnjak	NOUN	stručnjak
+,	PUNCT	,
+te	CCONJ	te
+s	ADP	s
+toga	DET	taj
+niste	AUX	jesam
+običan	ADJ	običan
+čovek	NOUN	čovek
+:	PUNCT	:
+to	DET	taj
+jezik	NOUN	jezik
+i	CCONJ	i
+nije	AUX	jesam
+za	ADP	za
+vas	PRON	vi
+.	PUNCT	.
+</s>
+<s>
+Vama	PRON	vi
+je	AUX	jesam
+potrebno	ADV	potrebno
+znati	VERB	znati
+svoju	DET	svoj
+struku	NOUN	struka
+,	PUNCT	,
+pa	CCONJ	pa
+u	ADP	u
+ostalom	ADJ	ostalom
+možete	VERB	moći
+i	CCONJ	i
+mukati	VERB	mukati
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Ha	INTJ	ha
+!	PUNCT	!
+ha	INTJ	ha
+!	PUNCT	!
+ha	INTJ	ha
+!	PUNCT	!
+</s>
+<s>
+Nasmejaše	VERB	Nasmejaše
+se	PART	se
+mnogi	ADJ	mnogi
+od	ADP	od
+gostiju	NOUN	gost
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Da	SCONJ	da
+rečem	VERB	reći
+—	PUNCT	—
+mučati	VERB	mučati
+!	PUNCT	!
+popravlja	VERB	popravljati
+se	PART	se
+đavolan	NOUN	đavolan
+u	ADP	u
+naočarima	NOUN	naočari
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Kako	SCONJ	kako
+vas	PRON	vi
+ne	PART	ne
+mrzi	VERB	mrzeti
+govoriti	VERB	govoriti
+ovde	ADV	ovde
+o	ADP	o
+tako	ADV	tako
+suvoparnim	ADJ	suvoparan
+stvarma	NOUN	stvarma
+,	PUNCT	,
+reći	VERB	reći
+će	AUX	hteti
+jedan	NUM	jedan
+sumorni	ADJ	sumoran
+gost	NOUN	gost
+:	PUNCT	:
+</s>
+<s>
+—	PUNCT	—
+Što	PROPN	Što
+ne	PART	ne
+gledate	VERB	gledati
+ovaj	DET	ovaj
+svet	NOUN	svet
+što	SCONJ	što
+ovako	ADV	ovako
+ume	VERB	umeti
+da	SCONJ	da
+provede	VERB	provesti
+svoje	DET	svoj
+vreme	NOUN	vreme
+u	ADP	u
+društvu	NOUN	društvo
+,	PUNCT	,
+jer	SCONJ	jer
+do	ADP	do
+malo	ADV	malo
+čas	NOUN	čas
+sve	DET	sav
+će	AUX	hteti
+se	PART	se
+to	DET	taj
+podizati	VERB	podizati
+i	CCONJ	i
+otići	VERB	otići
+da	SCONJ	da
+večera	NOUN	veče
+i	CCONJ	i
+da	SCONJ	da
+spava	VERB	spavati
+!	PUNCT	!
+</s>
+<s>
+Kakva	DET	kakav
+je	AUX	jesam
+silna	ADJ	silan
+moć	NOUN	moć
+u	ADP	u
+starih	ADJ	star
+navika	NOUN	navika
+!	PUNCT	!
+</s>
+<s>
+Najlepše	ADJ	Najlepše
+vreme	NOUN	vreme
+od	ADP	od
+noći	NOUN	noć
+provode	VERB	provoditi
+ovi	DET	ovaj
+ljudi	NOUN	ljudi
+u	ADP	u
+spavanju	NOUN	spavanje
+!	PUNCT	!
+</s>
+<s>
+A	CCONJ	a
+ujutru	ADV	ujutru
+,	PUNCT	,
+kad	SCONJ	kad
+je	AUX	jesam
+najslađe	ADJ	sladak
+spavati	VERB	spavati
+,	PUNCT	,
+uraniće	VERB	uraniti
+svi	DET	sav
+kao	CCONJ	kao
+vešci	NOUN	veštac
+.	PUNCT	.
+</s>
+<s>
+I	CCONJ	i
+koliko	ADV	koliko
+se	PART	se
+govori	VERB	govoriti
+o	ADP	o
+tom	DET	taj
+,	PUNCT	,
+pa	CCONJ	pa
+ništa	ADV	ništa
+i	CCONJ	i
+ništa	ADV	ništa
+.	PUNCT	.
+</s>
+<s>
+Badava	ADV	badava
+;	PUNCT	;
+nema	VERB	nemati
+tu	DET	taj
+štofa	NOUN	štof
+za	ADP	za
+kulturni	ADJ	kulturan
+narod	NOUN	narod
+!	PUNCT	!
+</s>
+<s>
+Geak	NOUN	geak
+ostaje	VERB	ostajati
+i	CCONJ	i
+u	ADP	u
+fraku	NOUN	frak
+geak	NOUN	geak
+!	PUNCT	!
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+Za	ADP	za
+stolom	NOUN	sto
+№	NOUN	№
+4	NUM	@card@
+,	PUNCT	,
+sedi	VERB	sediti
+jedna	NUM	jedan
+gospa	NOUN	gospa
+u	ADP	u
+zelenom	ADJ	zelen
+libadetu	NOUN	libade
+,	PUNCT	,
+i	CCONJ	i
+tuži	VERB	tužiti
+se	PART	se
+svojoj	DET	svoj
+susedi	NOUN	suseda
+na	ADP	na
+nepravdu	NOUN	nepravda
+sveta	NOUN	svet
+:	PUNCT	:
+</s>
+<s>
+—	PUNCT	—
+Molim	VERB	moliti
+ja	PRON	ja
+vas	PRON	vi
+,	PUNCT	,
+Cana	PROPN	Cana
+Pavlova	PROPN	Pavlov
+misli	VERB	misliti
+da	SCONJ	da
+sam	AUX	jesam
+ja	PRON	ja
+prosta	ADJ	prost
+,	PUNCT	,
+pa	CCONJ	pa
+s	ADP	s
+toga	DET	taj
+ne	PART	ne
+umem	VERB	umeti
+da	SCONJ	da
+živim	ADJ	živ
+!	PUNCT	!
+</s>
+<s>
+Umela	VERB	umeti
+bih	AUX	biti
+ja	PRON	ja
+i	CCONJ	i
+bolje	ADV	bolje
+od	ADP	od
+nje	PRON	ona
+;	PUNCT	;
+ali	CCONJ	ali
+šta	PRON	šta
+ću	AUX	hteti
+kad	SCONJ	kad
+su	AUX	jesam
+me	PRON	ja
+vezali	VERB	vezati
+oni	DET	onaj
+vragovi	NOUN	vrag
+(	PUNCT	(
+deca	NOUN	deca
+)	PUNCT	)
+.	PUNCT	.
+</s>
+<s>
+Nemam	VERB	nemati
+kod	ADP	kod
+koga	PRON	ko
+da	SCONJ	da
+ih	PRON	ona
+ostavim	VERB	ostaviti
+.	PUNCT	.
+</s>
+<s>
+Lasno	ADV	lasno
+je	AUX	jesam
+njojzi	PRON	ona
+:	PUNCT	:
+ona	PRON	ona
+i	CCONJ	i
+čovek	NOUN	čovek
+;	PUNCT	;
+mogu	VERB	moći
+kud	ADV	kud
+hoće	AUX	hteti
+!	PUNCT	!
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+A	X	A
+kod	ADP	kod
+koga	PRON	ko
+ste	AUX	jesam
+sad	ADV	sad
+ostavili	VERB	ostaviti
+decu	NOUN	deca
+?	PUNCT	?
+pita	VERB	pitati
+suseda	NOUN	suseda
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Ni	PART	ni
+kod	ADP	kod
+koga	PRON	ko
+;	PUNCT	;
+ostala	VERB	ostati
+su	AUX	jesam
+sama	ADJ	sam
+.	PUNCT	.
+</s>
+<s>
+Ne	PART	ne
+mogu	VERB	moći
+se	PART	se
+ja	PRON	ja
+zarobiti	VERB	zarobiti
+njih	PRON	ona
+radi	VERB	raditi
+.	PUNCT	.
+</s>
+<s>
+Valja	VERB	valjati
+i	CCONJ	i
+meni	PRON	ja
+da	SCONJ	da
+proživim	VERB	proživeti
+!	PUNCT	!
+</s>
+<s>
+—	PUNCT	—
+O	INTJ	o
+,	PUNCT	,
+brate	NOUN	brata
+,	PUNCT	,
+što	SCONJ	što
+se	PART	se
+namučih	VERB	namučiti
+večeras	ADV	večeras
+,	PUNCT	,
+reče	VERB	reći
+za	ADP	za
+stolom	NOUN	sto
+№	NOUN	№
+6	NUM	@card@
+,	PUNCT	,
+jedan	NUM	jedan
+pisar	NOUN	pisar
+iz	ADP	iz
+policije	NOUN	policija
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Oko	PROPN	Oka
+čega	PRON	šta
+tako	ADV	tako
+?	PUNCT	?
+upita	VERB	upitati
+ga	ADV	ga
+jedan	NUM	jedan
+od	ADP	od
+gostiju	NOUN	gost
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Žandar	PROPN	Žandar
+našao	VERB	naći
+jedno	NUM	jedan
+dete	NOUN	dete
+na	ADP	na
+ulici	NOUN	ulica
+,	PUNCT	,
+koje	DET	koji
+ne	PART	ne
+zna	VERB	znati
+čije	DET	čiji
+je	AUX	jesam
+;	PUNCT	;
+doveo	VERB	dovesti
+ga	ADV	ga
+u	ADP	u
+policiju	NOUN	policija
+a	CCONJ	a
+ono	DET	onaj
+plače	VERB	plakati
+hoće	AUX	hteti
+da	SCONJ	da
+svisne	VERB	svisnuti
+;	PUNCT	;
+ne	PART	ne
+ume	VERB	umeti
+da	SCONJ	da
+kaže	VERB	kazati
+čije	DET	čiji
+je	AUX	jesam
+,	PUNCT	,
+ni	CCONJ	ni
+odakle	ADV	odakle
+je	AUX	jesam
+.	PUNCT	.
+</s>
+<s>
+Među	PROPN	Međa
+tim	DET	taj
+,	PUNCT	,
+kad	SCONJ	kad
+je	AUX	jesam
+ulicom	NOUN	ulica
+išlo	VERB	ići
+,	PUNCT	,
+nosilo	VERB	nositi
+je	AUX	jesam
+u	ADP	u
+rukama	NOUN	ruka
+novine	NOUN	novina
+na	ADP	na
+kojima	DET	koji
+je	AUX	jesam
+bila	AUX	biti
+adresa	NOUN	adresa
+oca	NOUN	otac
+njegovoga	DET	njegov
+;	PUNCT	;
+ali	CCONJ	ali
+žandar	NOUN	žandar
+,	PUNCT	,
+uzevši	VERB	uzeti
+dete	NOUN	dete
+,	PUNCT	,
+oduzeo	VERB	oduzeti
+mu	PRON	on
+te	DET	taj
+novine	NOUN	novina
+i	CCONJ	i
+metnuo	VERB	metnuti
+sebi	PRON	sebe
+u	ADP	u
+džep	NOUN	džep
+,	PUNCT	,
+pa	CCONJ	pa
+se	PART	se
+i	CCONJ	i
+sam	AUX	jesam
+muči	VERB	mučiti
+da	SCONJ	da
+dozna	VERB	doznati
+čije	DET	čiji
+je	AUX	jesam
+dete	NOUN	dete
+,	PUNCT	,
+a	CCONJ	a
+ne	PART	ne
+seća	VERB	sećati
+se	PART	se
+da	SCONJ	da
+zagleda	VERB	zagledati
+u	ADP	u
+te	DET	taj
+novine	NOUN	novina
+.	PUNCT	.
+</s>
+<s>
+Dokle	SCONJ	dokle
+se	PART	se
+tu	ADV	tu
+obrazumismo	VERB	obrazumismo
+,	PUNCT	,
+muka	NOUN	muka
+me	PRON	ja
+spopade	VERB	spopasti
+.	PUNCT	.
+</s>
+<s>
+Najposle	ADV	najposle
+dete	NOUN	dete
+poslasmo	VERB	poslati
+ocu	NOUN	otac
+;	PUNCT	;
+ali	CCONJ	ali
+čini	VERB	činiti
+mi	PRON	ja
+se	PART	se
+nema	VERB	nemati
+nikoga	PRON	niki
+kod	ADP	kod
+kuće	NOUN	kuća
+.	PUNCT	.
+</s>
+<s>
+Kad	SCONJ	kad
+policiski	ADJ	policiski
+pisar	NOUN	pisar
+dovrši	VERB	dovršiti
+svoju	DET	svoj
+priču	NOUN	priča
+o	ADP	o
+detetu-nahodu	NOUN	detetu-nahodu
+,	PUNCT	,
+pred	ADP	pred
+gostionicu	NOUN	gostionica
+dođe	VERB	doći
+,	PUNCT	,
+i	CCONJ	i
+za	ADP	za
+osobiti	ADJ	osobit
+sto	NUM	sto
+zasede	NOUN	zaseda
+jedno	NUM	jedan
+odabrano	ADJ	odabran
+društvo	NOUN	društvo
+.	PUNCT	.
+</s>
+<s>
+To	DET	taj
+behu	AUX	biti
+sve	DET	sav
+mladi	ADJ	mlad
+ljudi	NOUN	ljudi
+u	ADP	u
+svečanom	ADJ	svečan
+crnom	ADJ	crn
+odelu	NOUN	odelo
+,	PUNCT	,
+i	CCONJ	i
+mlade	ADJ	mlad
+žene	NOUN	žena
+i	CCONJ	i
+devojke	NOUN	devojka
+s	ADP	s
+najlepšim	ADJ	lep
+nakitom	NOUN	nakit
+.	PUNCT	.
+</s>
+<s>
+Dokle	SCONJ	dokle
+pivonoše	NOUN	pivonoša
+donošahu	VERB	donositi
+pivo	NOUN	piva
+pred	ADP	pred
+te	DET	taj
+nove	ADJ	nov
+goste	NOUN	gost
+,	PUNCT	,
+dotle	ADV	dotle
+neko	PRON	neko
+iz	ADP	iz
+družine	NOUN	družina
+,	PUNCT	,
+iza	ADP	iza
+drugog	ADJ	drugi
+stola	NOUN	sto
+,	PUNCT	,
+upita	VERB	upitati
+!	PUNCT	!
+</s>
+<s>
+—	PUNCT	—
+E	INTJ	e
+,	PUNCT	,
+kako	SCONJ	kako
+bi	AUX	biti
+u	ADP	u
+svatovima	NOUN	svat
+!	PUNCT	!
+</s>
+<s>
+Provedoste	VERB	provesti
+li	PART	li
+se	PART	se
+lepo	ADV	lepo
+?	PUNCT	?
+</s>
+<s>
+—	PUNCT	—
+Vrlo	PROPN	Vrla
+lepo	ADV	lepo
+!	PUNCT	!
+odgovori	VERB	odgovoriti
+jedan	NUM	jedan
+za	ADP	za
+sve	DET	sav
+.	PUNCT	.
+</s>
+<s>
+—-	NOUN	—-
+Do	PROPN	Do
+sad	ADV	sad
+smo	AUX	jesam
+igrali	VERB	igrati
+,	PUNCT	,
+reče	VERB	reći
+jedna	NUM	jedan
+gospa	NOUN	gospa
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Prođite	VERB	Prođite
+se	PART	se
+,	PUNCT	,
+reći	VERB	reći
+će	AUX	hteti
+namršteno	ADJ	namršten
+druga	NOUN	druga
+:	PUNCT	:
+—	PUNCT	—
+samo	PART	samo
+jedno	NUM	jedan
+guranje	NOUN	guranje
+.	PUNCT	.
+</s>
+<s>
+Uz	ADP	uz
+te	DET	taj
+reči	NOUN	reč
+novi	ADJ	nov
+gosti	NOUN	gost
+natezahu	VERB	natezati
+pivske	ADJ	pivski
+čaše	NOUN	čaša
+,	PUNCT	,
+kao	CCONJ	kao
+da	SCONJ	da
+su	AUX	jesam
+još	ADV	još
+od	ADP	od
+po	ADP	po
+dne	NOUN	dan
+ožedneli	VERB	ožedneti
+.	PUNCT	.
+</s>
+<s>
+Među	PROPN	Međa
+tim	DET	taj
+muzika	NOUN	muzika
+svira	VERB	svirati
+da	SCONJ	da
+se	PART	se
+vazduh	NOUN	vazduh
+trese	VERB	tresti
+.	PUNCT	.
+</s>
+<s>
+Za	ADP	za
+ljude	NOUN	ljudi
+koji	DET	koji
+se	PART	se
+u	ADP	u
+harmoniji	NOUN	harmonija
+ne	PART	ne
+razumeju	VERB	razumeti
+,	PUNCT	,
+ili	CCONJ	ili
+u	ADP	u
+kojih	DET	koji
+živci	NOUN	živac
+nisu	AUX	jesam
+tugaljivi	ADJ	tugaljiv
+,	PUNCT	,
+ona	PRON	ona
+je	AUX	jesam
+neka	DET	neki
+naslada	NOUN	naslada
+.	PUNCT	.
+</s>
+<s>
+Ali	CCONJ	ali
+oni	PRON	oni
+koji	DET	koji
+imaju	VERB	imati
+zlu	ADJ	zao
+naviku	NOUN	navika
+što	SCONJ	što
+god	PART	god
+misliti	VERB	misliti
+ili	CCONJ	ili
+raditi	VERB	raditi
+,	PUNCT	,
+a	CCONJ	a
+tu	ADV	tu
+su	AUX	jesam
+blizu	ADV	blizu
+,	PUNCT	,
+ili	CCONJ	ili
+koji	DET	koji
+su	AUX	jesam
+osetljivi	ADJ	osetljiv
+na	ADP	na
+svaku	DET	svaki
+povredu	NOUN	povreda
+harmonije	NOUN	harmonija
+—	PUNCT	—
+ta	DET	taj
+je	AUX	jesam
+muzika	NOUN	muzika
+prava	NOUN	prava
+muka	NOUN	muka
+.	PUNCT	.
+</s>
+<s>
+Od	ADP	od
+vremena	NOUN	vreme
+do	ADP	do
+vremena	NOUN	vreme
+po	ADP	po
+jedan	NUM	jedan
+«	PUNCT	«
+bandista	NOUN	bandist
+»	PUNCT	»
+,	PUNCT	,
+crvena	ADJ	crven
+nosa	NOUN	nos
+,	PUNCT	,
+zadrigla	ADJ	zadrigao
+vrata	NOUN	vrata
+,	PUNCT	,
+uzme	VERB	uzeti
+note	NOUN	nota
+i	CCONJ	i
+prođe	VERB	proći
+od	ADP	od
+stola	NOUN	sto
+do	ADP	do
+stola	NOUN	sto
+te	CCONJ	te
+zbere	VERB	zbrati
+žrtve	NOUN	žrtva
+koje	DET	koji
+prosvećeni	ADJ	prosvećen
+ljudi	NOUN	ljudi
+prinose	VERB	prinositi
+na	ADP	na
+oltar	NOUN	oltar
+umetnosti	NOUN	umetnost
+.	PUNCT	.
+</s>
+<s>
+Pa	CCONJ	pa
+se	PART	se
+zadovoljno	ADV	zadovoljno
+vrati	VERB	vratiti
+u	ADP	u
+družinu	NOUN	družina
+,	PUNCT	,
+da	SCONJ	da
+na	ADP	na
+novo	ADJ	nov
+duva	NOUN	duva
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+Celo	ADJ	ceo
+društvo	NOUN	društvo
+izgleda	VERB	izgledati
+kao	ADV	kao
+u	ADP	u
+raju	NOUN	raja
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+Uz	ADP	uz
+jednu	NUM	jedan
+lipu	NOUN	lipa
+stoji	VERB	stajati
+Čiča	PROPN	Čiča
+Janaćko	PROPN	Janaćko
+,	PUNCT	,
+i	CCONJ	i
+drži	VERB	držati
+korpu	NOUN	korpa
+s	ADP	s
+prženim	ADJ	pržen
+bademima	NOUN	badem
+i	CCONJ	i
+lešnicima	NOUN	lešnik
+.	PUNCT	.
+</s>
+<s>
+Gleda	VERB	gledati
+starac	NOUN	starac
+sve	DET	sav
+to	DET	taj
+,	PUNCT	,
+i	CCONJ	i
+sam	AUX	jesam
+u	ADP	u
+sebi	PRON	sebe
+šapće	VERB	šaptati
+:	PUNCT	:
+</s>
+<s>
+—	PUNCT	—
+Ovako	ADV	ovako
+sam	AUX	jesam
+nekad	ADV	nekad
+i	CCONJ	i
+ja	PRON	ja
+radio	VERB	raditi
+.	PUNCT	.
+</s>
+<s>
+Mlad	ADJ	mlad
+—	PUNCT	—
+delija	NOUN	delija
+;	PUNCT	;
+star	ADJ	star
+—	PUNCT	—
+prosjak	NOUN	prosjak
+!	PUNCT	!
+</s>
+<s>
+Sad	ADV	sad
+sam	AUX	jesam
+spao	VERB	spasti
+da	SCONJ	da
+ovim	DET	ovaj
+hranim	VERB	hraniti
+sebe	PRON	sebe
+i	CCONJ	i
+babu	NOUN	baba
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+(	PUNCT	(
+Pogleda	VERB	pogledati
+tužno	ADV	tužno
+u	ADP	u
+svoju	DET	svoj
+korpu	NOUN	korpa
+)	PUNCT	)
+.	PUNCT	.
+</s>
+<s>
+Ali	CCONJ	ali
+s	ADP	s
+kakvom	DET	kakav
+pameću	NOUN	pamet
+ovi	DET	ovaj
+ovako	ADV	ovako
+sa	ADP	sa
+svadbe	NOUN	svadba
+idu	VERB	ići
+u	ADP	u
+meanu	NOUN	meana
+?	PUNCT	?
+</s>
+<s>
+I	CCONJ	i
+ova	DET	ovaj
+čeljad	NOUN	čeljad
+,	PUNCT	,
+ovako	ADV	ovako
+nakinđurena	VERB	nakinđuriti
+,	PUNCT	,
+ulaze	VERB	ulaziti
+u	ADP	u
+ovu	DET	ovaj
+gomilu	NOUN	gomila
+gde	ADV	gde
+jedan	NUM	jedan
+drugog	ADJ	drugi
+gazi	VERB	gaziti
+,	PUNCT	,
+prlja	VERB	prljati
+,	PUNCT	,
+poliva	VERB	polivati
+,	PUNCT	,
+kvari	VERB	kvariti
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+Zar	PART	zar
+je	AUX	jesam
+njih	PRON	ona
+dovela	VERB	dovesti
+ovamo	ADV	ovamo
+glad	NOUN	glad
+i	CCONJ	i
+žeđ	NOUN	žeđ
+?	PUNCT	?
+</s>
+<s>
+Ako	SCONJ	ako
+ih	PRON	ona
+domaćin	NOUN	domaćin
+nije	AUX	jesam
+ugostio	VERB	ugostiti
+,	PUNCT	,
+sramota	NOUN	sramota
+za	ADP	za
+njega	PRON	on
+;	PUNCT	;
+a	CCONJ	a
+ako	SCONJ	ako
+traže	VERB	tražiti
+i	CCONJ	i
+preko	ADP	preko
+njegove	DET	njegov
+gozbe	NOUN	gozba
+da	SCONJ	da
+žderu	VERB	žderati
+,	PUNCT	,
+sramota	NOUN	sramota
+za	ADP	za
+njih	PRON	ona
+.	PUNCT	.
+</s>
+<s>
+I	CCONJ	i
+u	ADP	u
+moje	DET	moj
+doba	NOUN	doba
+beše	AUX	biti
+svet	NOUN	svet
+svakojak	ADJ	svakojak
+,	PUNCT	,
+ali	CCONJ	ali
+baš	PART	baš
+ovakav	DET	ovakav
+ne	PART	ne
+bejaše	AUX	biti
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Čiča	PROPN	Čiča
+!	PUNCT	!
+dajde	PROPN	dajde
+badema	NOUN	badem
+!	PUNCT	!
+viknu	VERB	viknuti
+neko	PRON	neko
+iza	ADP	iza
+stola	NOUN	sto
+№	NOUN	№
+4	NUM	@card@
+.	PUNCT	.
+</s>
+<s>
+Čiča-Janaćko	PROPN	Čiča-Janaćko
+ode	VERB	otići
+brže	ADV	brže
+da	SCONJ	da
+što	PRON	što
+zasluži	VERB	zaslužiti
+,	PUNCT	,
+a	CCONJ	a
+prekide	VERB	prekinuti
+svoja	DET	svoj
+razmišljanja	NOUN	razmišljanje
+.	PUNCT	.
+</s>
+<s>
+U	ADP	u
+taj	DET	taj
+mah	NOUN	mah
+k	ADP	k
+stolu	NOUN	sto
+№	NOUN	№
+3	NUM	@card@
+priđe	VERB	prići
+g	X	g
+Rija	VERB	Rija
+Svilorunić	PROPN	Svilorunić
+,	PUNCT	,
+a	CCONJ	a
+gosti	NOUN	gost
+s	ADP	s
+nekolikih	DET	nekolik
+strana	NOUN	strana
+povikaše	VERB	povikati
+:	PUNCT	:
+</s>
+<s>
+—	PUNCT	—
+O	INTJ	o
+,	PUNCT	,
+Rijo	PROPN	Rija
+,	PUNCT	,
+sretno	ADJ	sretan
+!	PUNCT	!
+sretno	ADJ	sretan
+!	PUNCT	!
+</s>
+<s>
+Ti	PRON	ti
+treba	VERB	trebati
+danas	ADV	danas
+da	SCONJ	da
+častiš	VERB	častiti
+!	PUNCT	!
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+I	CCONJ	i
+kako	SCONJ	kako
+su	AUX	jesam
+ljudi	NOUN	ljudi
+prevrtljivi	ADJ	prevrtljiv
+!	PUNCT	!
+</s>
+<s>
+Oni	DET	onaj
+isti	ADJ	isti
+Rijini	ADJ	Rijin
+drugovi	NOUN	drug
+,	PUNCT	,
+koji	DET	koji
+su	AUX	jesam
+se	PART	se
+dojuče	ADJ	dojuče
+podsmevali	VERB	podsmevati
+ženidbi	NOUN	ženidba
+,	PUNCT	,
+sad	ADV	sad
+kao	CCONJ	kao
+da	SCONJ	da
+mu	PRON	on
+zaviđahu	VERB	zavideti
+što	SCONJ	što
+se	PART	se
+ženi	NOUN	žena
+!	PUNCT	!
+</s>
+<s>
+I	CCONJ	i
+oni	PRON	oni
+koji	DET	koji
+su	AUX	jesam
+se	PART	se
+na	ADP	na
+sva	DET	sav
+usta	NOUN	usta
+smejali	VERB	smejati
+Zorki	PROPN	Zorka
+,	PUNCT	,
+sada	ADV	sada
+kao	CCONJ	kao
+da	SCONJ	da
+nalažahu	VERB	nalaziti
+da	SCONJ	da
+je	AUX	jesam
+to	DET	taj
+vrlo	ADV	vrlo
+dobra	ADJ	dobar
+devojka	NOUN	devojka
+.	PUNCT	.
+</s>
+<s>
+Kao	CCONJ	kao
+da	SCONJ	da
+se	PART	se
+cena	NOUN	cena
+njena	DET	njen
+poznala	VERB	poznati
+tek	PART	tek
+onda	ADV	onda
+kad	SCONJ	kad
+se	PART	se
+našao	VERB	naći
+momak	NOUN	momak
+da	SCONJ	da
+je	AUX	jesam
+isprosi	VERB	isprositi
+!	PUNCT	!
+</s>
+<s>
+Rija	ADV	Rija
+se	PART	se
+osmejkuje	VERB	osmejkivati
+,	PUNCT	,
+prima	VERB	primati
+čestitanja	NOUN	čestitanje
+,	PUNCT	,
+i	CCONJ	i
+naručuje	VERB	naručivati
+pivo	NOUN	piva
+.	PUNCT	.
+</s>
+<s>
+Za	ADP	za
+trenut	NOUN	trenut
+oka	NOUN	oka
+zapeni	VERB	zapeniti
+se	PART	se
+hladno	ADJ	hladan
+pivo	NOUN	piva
+pred	ADP	pred
+Rijom	PROPN	Rija
+,	PUNCT	,
+i	CCONJ	i
+pred	ADP	pred
+svima	DET	sav
+gostima	NOUN	gost
+oko	ADP	oko
+njega	PRON	on
+.	PUNCT	.
+</s>
+<s>
+Tu	ADV	tu
+se	PART	se
+sad	ADV	sad
+poče	VERB	početi
+zdraviti	VERB	zdraviti
+,	PUNCT	,
+želeti	VERB	želeti
+,	PUNCT	,
+nagađati	VERB	nagađati
+,	PUNCT	,
+pogađati	VERB	pogađati
+šta	PRON	šta
+će	AUX	hteti
+biti	AUX	biti
+i	CCONJ	i
+kako	SCONJ	kako
+će	AUX	hteti
+biti	AUX	biti
+!	PUNCT	!
+</s>
+<s>
+—	PUNCT	—
+Kako	SCONJ	kako
+god	PART	god
+god	PART	god
+hoćete	AUX	hteti
+,	PUNCT	,
+ali	CCONJ	ali
+se	PART	se
+ja	PRON	ja
+ne	PART	ne
+mogu	VERB	moći
+da	SCONJ	da
+načudim	VERB	načuditi
+junaštvu	NOUN	junaštvo
+onih	DET	onaj
+ljudi	NOUN	ljudi
+koji	DET	koji
+se	PART	se
+žene	NOUN	žena
+u	ADP	u
+današnje	ADJ	današnji
+vreme	NOUN	vreme
+,	PUNCT	,
+reče	VERB	reći
+g	X	g
+.	PUNCT	.
+Gaja	PROPN	Gaj
+Civić	PROPN	Civić
+:	PUNCT	:
+</s>
+<s>
+—Ta	ADJ	—Ta
+žena	NOUN	žena
+je	AUX	jesam
+danas	ADV	danas
+tako	ADV	tako
+skupa	ADV	skupa
+,	PUNCT	,
+a	CCONJ	a
+tako	ADV	tako
+malo	ADV	malo
+privređuje	VERB	privređivati
+,	PUNCT	,
+da	SCONJ	da
+se	PART	se
+nikako	ADV	nikako
+ne	PART	ne
+rentira	VERB	rentirati
+imati	VERB	imati
+ženu	NOUN	žena
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+A	X	A
+šta	PRON	šta
+hoćete	AUX	hteti
+da	SCONJ	da
+vam	PRON	vi
+privređuje	VERB	privređivati
+?	PUNCT	?
+reče	VERB	reći
+gotovo	ADV	gotovo
+srdito	ADV	srdito
+jedna	NUM	jedan
+gospa	NOUN	gospa
+s	ADP	s
+lepezom	NOUN	lepeza
+?	PUNCT	?
+</s>
+<s>
+—	PUNCT	—
+Da	SCONJ	da
+zametne	VERB	zametnuti
+motiku	NOUN	motika
+na	ADP	na
+rame	NOUN	ram
+pa	CCONJ	pa
+da	SCONJ	da
+ide	VERB	ići
+u	ADP	u
+nadnicu	NOUN	nadnica
+,	PUNCT	,
+jelte	NOUN	jelte
+?	PUNCT	?
+—	PUNCT	—
+</s>
+<s>
+—	PUNCT	—
+Vi	PRON	vi
+,	PUNCT	,
+gospo	NOUN	gospa
+,	PUNCT	,
+imate	VERB	imati
+pravo	NOUN	prava
+da	SCONJ	da
+protestujete	VERB	protestovati
+,	PUNCT	,
+veli	VERB	velim
+G	X	g
+.	PUNCT	.
+Gaja	PROPN	Gaj
+;	PUNCT	;
+—	PUNCT	—
+ali	CCONJ	ali
+i	CCONJ	i
+ja	PRON	ja
+imam	VERB	imati
+pravo	NOUN	prava
+da	SCONJ	da
+se	PART	se
+čudim	VERB	čuditi
+!	PUNCT	!
+</s>
+<s>
+—	PUNCT	—
+Ko	PROPN	Ko
+se	PART	se
+ženi	NOUN	žena
+taj	DET	taj
+dokazuje	VERB	dokazivati
+da	SCONJ	da
+je	AUX	jesam
+solidan	ADJ	solidan
+čovek	NOUN	čovek
+,	PUNCT	,
+veli	VERB	velim
+gospa	NOUN	gospa
+s	ADP	s
+lepezom	NOUN	lepeza
+:	PUNCT	:
+—	PUNCT	—
+a	CCONJ	a
+šta	PRON	šta
+ste	AUX	jesam
+vi	PRON	vi
+izmudrovali	VERB	izmudrovati
+sedeći	VERB	sediti
+toliko	ADV	toliko
+bez	ADP	bez
+žene	NOUN	žena
+?	PUNCT	?
+</s>
+<s>
+Čudnu	ADJ	Čudnu
+ste	AUX	jesam
+sreću	NOUN	sreća
+dočekali	VERB	dočekati
+!	PUNCT	!
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Ovu	DET	ovaj
+sreću	NOUN	sreća
+bar	PART	bar
+poznajem	VERB	poznavati
+,	PUNCT	,
+gospo	NOUN	gospa
+;	PUNCT	;
+a	CCONJ	a
+sreću	NOUN	sreća
+sa	ADP	sa
+ženom	NOUN	žena
+ne	PART	ne
+poznajem	VERB	poznavati
+,	PUNCT	,
+pa	CCONJ	pa
+je	AUX	jesam
+se	PART	se
+bojim	VERB	bojiti
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+More	PROPN	Mor
+ovako	ADV	ovako
+kao	CCONJ	kao
+g	X	g
+.	PUNCT	.
+Rija	NOUN	Rija
+oženio	VERB	oženiti
+bi	AUX	biti
+se	PART	se
+mnogi	ADJ	mnogi
+,	PUNCT	,
+reče	VERB	reći
+jedan	NUM	jedan
+suvonjav	ADJ	suvonjav
+činovničić	NOUN	činovničić
+s	ADP	s
+rukavicama	NOUN	rukavica
+i	CCONJ	i
+lepim	ADJ	lep
+štapom	NOUN	štap
+u	ADP	u
+rukama	NOUN	ruka
+:	PUNCT	:
+—	PUNCT	—
+1000	NUM	@card@
+dukata	NOUN	dukat
+miraza	NOUN	miraz
+i	CCONJ	i
+toliki	DET	toliki
+prijatelji	NOUN	prijatelj
+:	PUNCT	:
+za	ADP	za
+godinu	NOUN	godina
+dana	NOUN	dan
+može	VERB	moći
+po	ADP	po
+dve	NUM	dva
+klase	NOUN	klasa
+dobijati	VERB	dobijati
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+Beše	PROPN	Beše
+u	ADP	u
+velike	ADJ	velik
+doba	NOUN	doba
+večeri	NOUN	veče
+.	PUNCT	.
+</s>
+<s>
+Gosti	VERB	gostiti
+se	PART	se
+,	PUNCT	,
+jedni	NUM	jedan
+za	ADP	za
+drugima	ADJ	drugi
+,	PUNCT	,
+dizahu	VERB	dizati
+i	CCONJ	i
+odlažahu	VERB	odlaziti
+.	PUNCT	.
+</s>
+<s>
+Ne	PART	ne
+prođe	VERB	proći
+mnogo	ADV	mnogo
+,	PUNCT	,
+a	CCONJ	a
+u	ADP	u
+gostionici	NOUN	gostionica
+i	CCONJ	i
+pred	ADP	pred
+njom	PRON	ona
+pod	ADP	pod
+lipama	NOUN	lipa
+ražnjahu	VERB	ražnjati
+samo	PART	samo
+gostionički	ADJ	gostionički
+«	PUNCT	«
+kelneri	NOUN	kelner
+»	PUNCT	»
+te	PRON	ti
+gašahu	VERB	gasiti
+lampe	NOUN	lampa
+,	PUNCT	,
+i	CCONJ	i
+pribirahu	VERB	pribirati
+sude	VERB	suditi
+.	PUNCT	.
+</s>
+<s>
+Ali	CCONJ	ali
+dva	NUM	dva
+gosta	NOUN	gost
+ne	PART	ne
+micahu	VERB	micati
+se	PART	se
+sa	ADP	sa
+svojih	DET	svoj
+mesta	NOUN	mesto
+.	PUNCT	.
+</s>
+<s>
+Oni	PRON	oni
+seđahu	VERB	sediti
+jedan	NUM	jedan
+prema	ADP	prema
+drugome	ADJ	drugi
+,	PUNCT	,
+i	CCONJ	i
+kad	SCONJ	kad
+i	CCONJ	i
+kad	SCONJ	kad
+se	PART	se
+susretahu	VERB	susretati
+očima	NOUN	oči
+.	PUNCT	.
+</s>
+<s>
+To	DET	taj
+behu	AUX	biti
+g	X	g
+.	PUNCT	.
+Civić	PROPN	Civić
+i	CCONJ	i
+g	X	g
+.	PUNCT	.
+Svilorunić	PROPN	Svilorunić
+.	PUNCT	.
+</s>
+<s>
+Na	ADP	na
+jedan	NUM	jedan
+mah	NOUN	mah
+dopade	VERB	dopasti
+jako	ADV	jako
+uzbuđen	ADJ	uzbuđen
+mlad	ADJ	mlad
+jedan	NUM	jedan
+gospodin	NOUN	gospodin
+od	ADP	od
+onih	DET	onaj
+pređašnjih	ADJ	pređašnji
+svatova	NOUN	svat
+,	PUNCT	,
+i	CCONJ	i
+stade	VERB	stati
+moliti	VERB	moliti
+gostioničkog	ADJ	gostionički
+slugu	NOUN	sluga
+da	SCONJ	da
+mu	PRON	on
+posvetli	VERB	posvetliti
+oko	ADP	oko
+onoga	DET	onaj
+stola	NOUN	sto
+gde	SCONJ	gde
+malo	ADV	malo
+pre	ADV	pre
+seđahu	VERB	sediti
+gosti	NOUN	gost
+—	PUNCT	—
+svatovi	NOUN	svat
+.	PUNCT	.
+</s>
+<s>
+Jadikovaše	VERB	Jadikovaše
+se	PART	se
+gorko	ADV	gorko
+da	SCONJ	da
+je	AUX	jesam
+mlada	ADJ	mlad
+žena	NOUN	žena
+njegova	DET	njegov
+izgubila	VERB	izgubiti
+neki	DET	neki
+dragoceni	ADJ	dragocen
+medaljon	NOUN	medaljon
+koji	DET	koji
+joj	PRON	ona
+je	AUX	jesam
+on	PRON	on
+dao	VERB	dati
+,	PUNCT	,
+pre	ADP	pre
+mesec	NOUN	mesec
+dana	NOUN	dan
+,	PUNCT	,
+za	ADP	za
+spomen	NOUN	spomen
+venčanja	NOUN	venčanje
+.	PUNCT	.
+</s>
+<s>
+Eto	PART	eto
+ta	PART	ta
+i	CCONJ	i
+skupa	NOUN	skup
+i	CCONJ	i
+draga	ADJ	drag
+uspomena	NOUN	uspomena
+izgubljena	VERB	izgubiti
+je	AUX	jesam
+tu	ADV	tu
+!	PUNCT	!
+</s>
+<s>
+Skočiše	VERB	Skočiše
+sve	DET	sav
+sluge	NOUN	sluga
+,	PUNCT	,
+i	CCONJ	i
+tražiše	VERB	tražiti
+dugo	ADV	dugo
+i	CCONJ	i
+pažljivo	ADV	pažljivo
+,	PUNCT	,
+ali	CCONJ	ali
+ne	PART	ne
+nađoše	VERB	naći
+ništa	PRON	ništa
+.	PUNCT	.
+</s>
+<s>
+Gospodin	NOUN	gospodin
+ode	VERB	otići
+hučući	VERB	hukati
+,	PUNCT	,
+a	CCONJ	a
+sluge	NOUN	sluga
+pogasiše	VERB	pogasiti
+sveće	NOUN	sveća
+,	PUNCT	,
+i	CCONJ	i
+vratiše	VERB	vratiti
+se	PART	se
+u	ADP	u
+gostionicu	NOUN	gostionica
+.	PUNCT	.
+</s>
+<s>
+Civić	PROPN	Civić
+i	CCONJ	i
+Svilorunić	PROPN	Svilorunić
+još	ADV	još
+seđahu	VERB	sediti
+.	PUNCT	.
+</s>
+<s>
+Njih	PRON	ona
+se	PART	se
+ništa	PRON	ništa
+ne	PART	ne
+ticaše	VERB	ticati
+šteta	NOUN	šteta
+mladoga	ADJ	mlad
+gospodina	NOUN	gospodin
+.	PUNCT	.
+</s>
+<s>
+Na	ADP	na
+jedared	ADV	jedared
+reći	VERB	reći
+će	AUX	hteti
+Civić	PROPN	Civić
+</s>
+<s>
+—	PUNCT	—
+Jesi	AUX	jesam
+li	PART	li
+primio	VERB	primiti
+?	PUNCT	?
+</s>
+<s>
+—	PUNCT	—
+Još	VERB	Još
+ni	PART	ni
+pare	NOUN	para
+!	PUNCT	!
+</s>
+<s>
+Pre	ADP	pre
+venčanja	NOUN	venčanje
+kažu	VERB	kazati
+da	SCONJ	da
+o	ADP	o
+tome	DET	taj
+ne	PART	ne
+može	VERB	moći
+biti	AUX	biti
+ni	PART	ni
+razgovora	NOUN	razgovor
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Proklete	ADJ	proklet
+ćivte	NOUN	ćivta
+!	PUNCT	!
+</s>
+<s>
+Pre	ADV	pre
+bi	AUX	biti
+se	PART	se
+rastali	VERB	rastati
+s	ADP	s
+dušom	NOUN	duša
+,	PUNCT	,
+nego	CCONJ	nego
+s	ADP	s
+parama	NOUN	para
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+A	CCONJ	a
+mogla	VERB	moći
+bi	AUX	biti
+se	PART	se
+bar	PART	bar
+jedna	NUM	jedan
+noć	NOUN	noć
+lepo	ADV	lepo
+provesti	VERB	provesti
+!	PUNCT	!
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+Iz	ADP	iz
+vedra	ADJ	vedar
+neba	NOUN	nebo
+grom	NOUN	grom
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+«	PUNCT	«
+Živu	PROPN	Živa
+se	PART	se
+vuku	VERB	vući
+nikad	ADV	nikad
+rep	NOUN	rep
+ne	PART	ne
+meri	VERB	meriti
+.	PUNCT	.
+»	PUNCT	»
+<s>
+Poslovica	NOUN	poslovica
+</s>
+<s>
+Jednoga	NUM	jedan
+dana	NOUN	dan
+po	ADP	po
+celoj	ADJ	ceo
+varoši	NOUN	varoš
+puče	VERB	puknuti
+glas	NOUN	glas
+:	PUNCT	:
+</s>
+<s>
+Rija	VERB	Rija
+Svilorunić	PROPN	Svilorunić
+,	PUNCT	,
+blagajnik	NOUN	blagajnik
+,	PUNCT	,
+zatvoren	ADJ	zatvoren
+u	ADP	u
+tamnicu	NOUN	tamnica
+!	PUNCT	!
+</s>
+<s>
+Do	ADP	do
+juče	ADV	juče
+,	PUNCT	,
+misliš	VERB	misliti
+,	PUNCT	,
+niko	PRON	niki
+nije	AUX	jesam
+ni	PART	ni
+znao	VERB	znati
+za	ADP	za
+toga	DET	taj
+Riju	PROPN	Ri
+Svilorunića	PROPN	Svilorunić
+,	PUNCT	,
+a	CCONJ	a
+danas	ADV	danas
+se	PART	se
+o	ADP	o
+njemu	PRON	on
+govori	VERB	govoriti
+u	ADP	u
+svim	DET	sav
+kavanama	NOUN	kavana
+,	PUNCT	,
+u	ADP	u
+svim	DET	sav
+dućanima	NOUN	dućan
+,	PUNCT	,
+u	ADP	u
+svim	DET	sav
+kancelarijama	NOUN	kancelarija
+.	PUNCT	.
+</s>
+<s>
+I	CCONJ	i
+da	SCONJ	da
+vidite	VERB	viditi
+kako	SCONJ	kako
+su	AUX	jesam
+ljudi	NOUN	ljudi
+pametni	ADJ	pametan
+pošto	SCONJ	pošto
+se	PART	se
+nešto	ADV	nešto
+dogodi	VERB	dogoditi
+!	PUNCT	!
+</s>
+<s>
+Sad	ADV	sad
+vam	PRON	vi
+svi	DET	sav
+znaju	VERB	znati
+,	PUNCT	,
+i	CCONJ	i
+svi	DET	sav
+su	AUX	jesam
+to	DET	taj
+davno	ADV	davno
+znali	VERB	znati
+,	PUNCT	,
+da	SCONJ	da
+je	AUX	jesam
+moralo	VERB	morati
+tako	ADV	tako
+biti	AUX	biti
+!	PUNCT	!
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+More	PROPN	Mor
+,	PUNCT	,
+znao	VERB	znati
+sam	AUX	jesam
+ja	PRON	ja
+davno	ADV	davno
+da	SCONJ	da
+će	AUX	hteti
+on	PRON	on
+svršiti	VERB	svršiti
+na	ADP	na
+robiji	NOUN	robija
+,	PUNCT	,
+govoraše	VERB	govoriti
+Mile	ADJ	mio
+Perčinović	PROPN	Perčinović
+u	ADP	u
+kavani	NOUN	kavana
+«	PUNCT	«
+Kod	ADP	kod
+Crnoga	ADJ	crn
+Krsta	PROPN	Krsta
+»	PUNCT	»
+:	PUNCT	:
+</s>
+<s>
+—	PUNCT	—
+Videli	VERB	videti
+ste	AUX	jesam
+kako	SCONJ	kako
+se	PART	se
+provodi	VERB	provoditi
+i	CCONJ	i
+on	PRON	on
+,	PUNCT	,
+i	CCONJ	i
+žena	NOUN	žena
+mu	PRON	on
+,	PUNCT	,
+i	CCONJ	i
+deca	NOUN	deca
+,	PUNCT	,
+a	CCONJ	a
+otkud	ADV	otkud
+pare	NOUN	para
+za	ADP	za
+to	DET	taj
+?	PUNCT	?
+</s>
+<s>
+—	PUNCT	—
+Pa	X	Pa
+on	PRON	on
+nije	AUX	jesam
+ženjen	VERB	ženiti
+,	PUNCT	,
+reče	VERB	reći
+jedan	NUM	jedan
+praktikanat	NOUN	praktikanat
+,	PUNCT	,
+pripaljujući	VERB	pripaljivati
+svoju	DET	svoj
+cigaru	NOUN	cigara
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+A	X	A
+!	PUNCT	!
+istina	PART	istina
+jes	INTJ	jes
+,	PUNCT	,
+popravlja	VERB	popravljati
+se	PART	se
+Mile	ADJ	mio
+:	PUNCT	:
+—	PUNCT	—
+a	CCONJ	a
+ja	PRON	ja
+sam	AUX	jesam
+preumio	VERB	preumiti
+!	PUNCT	!
+</s>
+<s>
+—	PUNCT	—
+Ta	DET	taj
+još	PART	još
+od	ADP	od
+deteta	NOUN	dete
+poznavalo	VERB	poznavati
+se	PART	se
+da	SCONJ	da
+će	AUX	hteti
+to	DET	taj
+biti	AUX	biti
+nesretnik	NOUN	nesretnik
+,	PUNCT	,
+veli	VERB	velim
+Paja	PROPN	Paj
+Nosonja	NOUN	nosonja
+:	PUNCT	:
+—	PUNCT	—
+meni	PRON	ja
+je	AUX	jesam
+jednom	ADV	jednom
+ukraden	VERB	ukrasti
+krasan	ADJ	krasan
+divit	NOUN	divit
+što	SCONJ	što
+mi	PRON	ja
+je	AUX	jesam
+otac	NOUN	otac
+doneo	VERB	doneti
+iz	ADP	iz
+Pešte	PROPN	Pešta
+,	PUNCT	,
+i	CCONJ	i
+niko	PRON	niki
+ga	ADV	ga
+drugi	ADJ	drugi
+nije	AUX	jesam
+uzeo	VERB	uzeti
+nego	CCONJ	nego
+on	PRON	on
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+I	CCONJ	i
+otac	NOUN	otac
+mu	PRON	on
+beše	AUX	biti
+izešnik	VERB	izešnik
+,	PUNCT	,
+veli	VERB	velim
+kavedžija	NOUN	kavedžija
+Sima	PROPN	Sima
+:	PUNCT	:
+—	PUNCT	—
+mi	PRON	ja
+ostao	VERB	ostati
+dužan	ADJ	dužan
+dvanaeset	NUM	dvanaeset
+groša	NOUN	groš
+,	PUNCT	,
+pa	CCONJ	pa
+mi	PRON	ja
+tuturi	VERB	tuturi
+pojedoše	VERB	pojesti
+sve	ADV	sve
+.	PUNCT	.
+</s>
+<s>
+Pojela	VERB	pojesti
+gi	ADV	gi
+večna	ADJ	večan
+muka	NOUN	muka
+!	PUNCT	!
+</s>
+<s>
+Kod	ADP	kod
+Ivana	PROPN	Ivana
+Minića	PROPN	Minić
+pak	PART	pak
+svi	DET	sav
+kao	ADV	kao
+potučeni	VERB	potući
+.	PUNCT	.
+</s>
+<s>
+Jedina	PROPN	Jedina
+Zorka	PROPN	Zorka
+drži	VERB	držati
+se	PART	se
+nekako	ADV	nekako
+podjednako	ADV	podjednako
+:	PUNCT	:
+pre	ADV	pre
+se	PART	se
+nije	AUX	jesam
+mnogo	ADV	mnogo
+radovala	VERB	radovati
+,	PUNCT	,
+a	CCONJ	a
+sad	ADV	sad
+se	PART	se
+opet	ADV	opet
+mnogo	ADV	mnogo
+ne	PART	ne
+žalosti	VERB	žalostiti
+.	PUNCT	.
+</s>
+<s>
+Prijateljice	NOUN	prijateljica
+,	PUNCT	,
+one	DET	onaj
+iste	ADJ	isti
+koje	DET	koji
+pređe	VERB	preći
+nalažahu	VERB	nalaziti
+sve	DET	sav
+nove	ADJ	nov
+i	CCONJ	i
+nove	ADJ	nov
+vrline	NOUN	vrlina
+na	ADP	na
+mladoženji	NOUN	mladoženja
+,	PUNCT	,
+sad	ADV	sad
+kazivahu	VERB	kazivati
+kako	SCONJ	kako
+su	AUX	jesam
+se	PART	se
+odmah	ADV	odmah
+nadale	VERB	nadati
+takoj	PRON	taki
+nesreći	NOUN	nesreća
+.	PUNCT	.
+</s>
+<s>
+Najgore	ADV	najgore
+beše	AUX	biti
+za	ADP	za
+Tetka	PROPN	Tetka
+-	PUNCT	-
+Makrenu	PROPN	Makrena
+.	PUNCT	.
+</s>
+<s>
+Ona	PRON	ona
+je	AUX	jesam
+u	ADP	u
+četvrt	NOUN	četvrt
+od	ADP	od
+časa	NOUN	čas
+dva	NUM	dva
+puta	NOUN	put
+dokazivala	VERB	dokazivati
+da	SCONJ	da
+je	AUX	jesam
+to	DET	taj
+laž	NOUN	laž
+,	PUNCT	,
+da	SCONJ	da
+je	AUX	jesam
+beda	NOUN	beda
+,	PUNCT	,
+da	SCONJ	da
+je	AUX	jesam
+zavist	NOUN	zavist
+—	PUNCT	—
+što	SCONJ	što
+je	AUX	jesam
+Rija	ADV	Rija
+našao	VERB	naći
+tako	ADV	tako
+dobru	ADJ	dobar
+priliku	NOUN	prilika
+,	PUNCT	,
+a	CCONJ	a
+dva	NUM	dva
+puta	NOUN	put
+bi	AUX	biti
+opet	ADV	opet
+govorila	VERB	govoriti
+:	PUNCT	:
+</s>
+<s>
+—	PUNCT	—
+Nek	PART	nek
+'	ADV	'
+ide	VERB	ići
+do	ADP	do
+vraga	NOUN	vrag
+!	PUNCT	!
+</s>
+<s>
+Nije	AUX	jesam
+za	ADP	za
+nas	PRON	mi
+ni	PART	ni
+bio	AUX	biti
+!	PUNCT	!
+</s>
+<s>
+Dok	SCONJ	dok
+je	AUX	jesam
+naša	DET	naš
+Zorka	PROPN	Zorka
+ovaka	DET	ovaki
+,	PUNCT	,
+i	CCONJ	i
+s	ADP	s
+ovoliko	DET	ovoliki
+novaca	NOUN	novac
+,	PUNCT	,
+biće	NOUN	biće
+mladoženja	NOUN	mladoženja
+!	PUNCT	!
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+Svi	DET	sav
+zbunjeni	ADJ	zbunjen
+,	PUNCT	,
+svi	DET	sav
+pometeni	VERB	pomesti
+;	PUNCT	;
+ali	CCONJ	ali
+svi	DET	sav
+očekuju	VERB	očekivati
+da	SCONJ	da
+se	PART	se
+stvar	NOUN	stvar
+okrene	VERB	okrenuti
+na	ADP	na
+bolje	ADV	bolje
+!	PUNCT	!
+</s>
+<s>
+Na	ADP	na
+žalost	NOUN	žalost
+,	PUNCT	,
+što	SCONJ	što
+dan	NOUN	dan
+duže	ADV	duže
+,	PUNCT	,
+to	DET	taj
+stvar	NOUN	stvar
+jasnije	ADV	jasnije
+:	PUNCT	:
+</s>
+<s>
+Mladoženja	NOUN	Mladoženja
+je	AUX	jesam
+okrivljen	ADJ	okrivljen
+,	PUNCT	,
+tužen	ADJ	tužen
+i	CCONJ	i
+zatvoren	ADJ	zatvoren
+.	PUNCT	.
+</s>
+<s>
+I	CCONJ	i
+što	SCONJ	što
+je	AUX	jesam
+zatvoren	ADJ	zatvoren
+ni	CCONJ	ni
+po	ADP	po
+jada	NOUN	jad
+,	PUNCT	,
+ali	CCONJ	ali
+je	AUX	jesam
+zatvoren	ADJ	zatvoren
+za	ADP	za
+prljavu	ADJ	prljav
+krivicu	NOUN	krivica
+:	PUNCT	:
+proneverio	VERB	proneveriti
+je	AUX	jesam
+svoju	DET	svoj
+dužnost	NOUN	dužnost
+;	PUNCT	;
+potrošio	VERB	potrošiti
+je	AUX	jesam
+silne	ADJ	silan
+novce	NOUN	novac
+od	ADP	od
+onih	DET	onaj
+suma	NOUN	suma
+kojima	DET	koji
+je	AUX	jesam
+rukovao	VERB	rukovati
+!	PUNCT	!
+</s>
+<s>
+Jedan	NUM	jedan
+prijatelj	NOUN	prijatelj
+razgledao	VERB	razgledati
+je	AUX	jesam
+akta	NOUN	akt
+u	ADP	u
+sudu	NOUN	sud
+,	PUNCT	,
+i	CCONJ	i
+kaže	VERB	kazati
+ovako	ADV	ovako
+:	PUNCT	:
+</s>
+<s>
+«	PUNCT	«
+Kao	CCONJ	kao
+što	PRON	što
+znate	VERB	znati
+,	PUNCT	,
+Rija	ADV	Rija
+je	AUX	jesam
+rukovao	VERB	rukovati
+kasom	NOUN	kasa
+u	ADP	u
+kojoj	DET	koji
+je	AUX	jesam
+svakad	ADV	svakad
+bilo	AUX	biti
+novaca	NOUN	novac
+na	ADP	na
+hiljade	NOUN	hiljada
+.	PUNCT	.
+</s>
+<s>
+Odavno	ADV	odavno
+se	PART	se
+on	PRON	on
+počeo	VERB	početi
+kartati	VERB	kartati
+.	PUNCT	.
+</s>
+<s>
+Imajući	ADJ	Imajući
+pri	ADP	pri
+ruci	NOUN	ruka
+uvek	ADV	uvek
+novaca	NOUN	novac
+,	PUNCT	,
+on	PRON	on
+se	PART	se
+u	ADP	u
+svakoj	DET	svaki
+novčanoj	ADJ	novčan
+oskudici	NOUN	oskudica
+mašao	VERB	mašati
+za	ADP	za
+ključ	NOUN	ključ
+od	ADP	od
+svoje	DET	svoj
+kase	NOUN	kasa
+,	PUNCT	,
+i	CCONJ	i
+tuđim	ADJ	tuđ
+novcem	NOUN	novac
+namirivao	VERB	namirivati
+svoje	DET	svoj
+izdatke	NOUN	izdatak
+.	PUNCT	.
+</s>
+<s>
+Kad	SCONJ	kad
+bi	AUX	biti
+ga	VERB	ga
+u	ADP	u
+kartama	NOUN	karta
+sreća	NOUN	sreća
+poslužila	VERB	poslužiti
+,	PUNCT	,
+onda	ADV	onda
+bi	AUX	biti
+namirivao	VERB	namirivati
+ono	PRON	ono
+što	SCONJ	što
+je	AUX	jesam
+bio	AUX	biti
+uzeo	VERB	uzeti
+.	PUNCT	.
+</s>
+<s>
+U	ADP	u
+zao	ADJ	zao
+čas	NOUN	čas
+ga	ADV	ga
+jedne	NUM	jedan
+zime	NOUN	zima
+potera	VERB	poterati
+nesreća	NOUN	nesreća
+te	DET	taj
+je	AUX	jesam
+samo	PART	samo
+gubio	VERB	gubiti
+.	PUNCT	.
+</s>
+<s>
+Tako	ADV	tako
+je	AUX	jesam
+za	ADP	za
+nekoliko	ADV	nekoliko
+meseca	NOUN	mesec
+uzeo	VERB	uzeti
+iz	ADP	iz
+kase	NOUN	kasa
+preko	ADP	preko
+četiri	NUM	četiri
+hiljade	NOUN	hiljada
+dukata	NOUN	dukat
+.	PUNCT	.
+</s>
+<s>
+Da	SCONJ	da
+ga	ADV	ga
+ne	PART	ne
+bi	AUX	biti
+uhvatili	VERB	uhvatiti
+,	PUNCT	,
+domislio	VERB	domisliti
+se	PART	se
+da	SCONJ	da
+udešava	VERB	udešavati
+računske	ADJ	računski
+knjige	NOUN	knjiga
+i	CCONJ	i
+isprave	NOUN	isprava
+.	PUNCT	.
+</s>
+<s>
+U	ADP	u
+tom	DET	taj
+je	AUX	jesam
+bio	AUX	biti
+toliko	ADV	toliko
+vešt	ADJ	vešt
+i	CCONJ	i
+srećan	ADJ	srećan
+da	SCONJ	da
+ga	VERB	ga
+obična	ADJ	običan
+kontrola	NOUN	kontrola
+nije	AUX	jesam
+opazila	VERB	opaziti
+.	PUNCT	.
+</s>
+<s>
+Ali	CCONJ	ali
+gde	SCONJ	gde
+je	AUX	jesam
+sreće	NOUN	sreća
+tu	DET	taj
+je	AUX	jesam
+i	CCONJ	i
+nesreće	NOUN	nesreća
+:	PUNCT	:
+sa	ADP	sa
+svim	DET	sav
+slučajno	ADV	slučajno
+primeti	VERB	primetiti
+se	PART	se
+na	ADP	na
+jednom	NUM	jedan
+računskom	ADJ	računski
+dokumentu	NOUN	dokument
+tuđ	ADJ	tuđ
+potpis	NOUN	potpis
+.	PUNCT	.
+</s>
+<s>
+Počne	ADJ	Počne
+se	PART	se
+razbirati	VERB	razbirati
+kako	SCONJ	kako
+je	AUX	jesam
+postao	VERB	postati
+taj	DET	taj
+potpis	NOUN	potpis
+,	PUNCT	,
+pa	CCONJ	pa
+se	PART	se
+nađe	VERB	naći
+čudo	NOUN	čudo
+nečuveno	ADJ	nečuven
+—	PUNCT	—
+Rijina	ADJ	Rijin
+grdna	ADJ	grdan
+krađa	NOUN	krađa
+!	PUNCT	!
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+«	PUNCT	«
+Kako	SCONJ	kako
+se	PART	se
+sazna	VERB	saznati
+za	ADP	za
+to	DET	taj
+,	PUNCT	,
+Riju	PROPN	Ri
+zatvore	VERB	zatvoriti
+u	ADP	u
+tamnicu	NOUN	tamnica
+.	PUNCT	.
+</s>
+<s>
+To	DET	taj
+se	PART	se
+sudski	ADJ	sudski
+zove	VERB	zvati
+lepše	ADJ	lep
+;	PUNCT	;
+kaže	VERB	kazati
+se	PART	se
+stavio	VERB	staviti
+ga	ADV	ga
+sud	NOUN	sud
+u	ADP	u
+pritvor	NOUN	pritvor
+;	PUNCT	;
+ali	CCONJ	ali
+onde	ADV	onde
+gde	SCONJ	gde
+Rija	ADV	Rija
+sedi	VERB	sediti
+nisu	AUX	jesam
+vrata	NOUN	vrata
+samo	CCONJ	samo
+pritvorena	ADJ	pritvoren
+,	PUNCT	,
+nego	CCONJ	nego
+su	AUX	jesam
+zatvorena	VERB	zatvoriti
+,	PUNCT	,
+i	CCONJ	i
+još	ADV	još
+zaključana	VERB	zaključati
+!	PUNCT	!
+»	PUNCT	»
+</s>
+<s>
+Tražilo	VERB	Tražilo
+se	PART	se
+,	PUNCT	,
+ispitivalo	VERB	ispitivati
+se	PART	se
+,	PUNCT	,
+izviđalo	VERB	izviđati
+se	PART	se
+dugo	ADV	dugo
+,	PUNCT	,
+vrlo	ADV	vrlo
+dugo	ADV	dugo
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+Posle	ADP	posle
+pretresa	NOUN	pretres
+,	PUNCT	,
+koji	DET	koji
+je	AUX	jesam
+trajao	VERB	trajati
+nekoliko	ADV	nekoliko
+dana	NOUN	dan
+,	PUNCT	,
+valjaše	VERB	valiti
+izreći	VERB	izreći
+presudu	NOUN	presuda
+.	PUNCT	.
+</s>
+<s>
+Ne	PART	ne
+beše	AUX	biti
+lasno	ADV	lasno
+pretresti	VERB	pretresti
+i	CCONJ	i
+presuditi	VERB	presuditi
+proćes	NOUN	proćes
+koji	DET	koji
+je	AUX	jesam
+izgledao	VERB	izgledati
+prosto	ADV	prosto
+proneverenje	NOUN	proneverenje
+dužnosti	NOUN	dužnost
+,	PUNCT	,
+ali	CCONJ	ali
+u	ADP	u
+kom	DET	koji
+se	PART	se
+okrivljeni	VERB	okriviti
+branio	VERB	braniti
+vrlo	ADV	vrlo
+vešto	ADV	vešto
+i	CCONJ	i
+vrlo	ADV	vrlo
+drsko	ADV	drsko
+.	PUNCT	.
+</s>
+<s>
+Dva	NUM	dva
+najbolja	ADJ	dobar
+advokata	NOUN	advokat
+zastupala	VERB	zastupati
+su	AUX	jesam
+ga	ADV	ga
+verujući	VERB	verovati
+da	SCONJ	da
+je	AUX	jesam
+on	PRON	on
+čovek	NOUN	čovek
+prav	ADJ	prav
+,	PUNCT	,
+i	CCONJ	i
+da	SCONJ	da
+ga	ADV	ga
+je	AUX	jesam
+ovo	DET	ovaj
+snašla	VERB	snaći
+neviđena	ADJ	neviđen
+beda	NOUN	beda
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+Ostalo	VERB	ostati
+beše	AUX	biti
+još	PART	još
+samo	PART	samo
+nešto	ADV	nešto
+da	SCONJ	da
+se	PART	se
+dovrši	VERB	dovršiti
+,	PUNCT	,
+pa	CCONJ	pa
+da	SCONJ	da
+se	PART	se
+oglasi	VERB	oglasiti
+presuda	NOUN	presuda
+,	PUNCT	,
+da	SCONJ	da
+čuje	VERB	čuti
+i	CCONJ	i
+krivac	NOUN	krivac
+i	CCONJ	i
+publika	NOUN	publika
+kako	SCONJ	kako
+sud	NOUN	sud
+sudi	VERB	suditi
+Riji	PROPN	Rija
+Sviloruniću	PROPN	Svilorunić
+.	PUNCT	.
+</s>
+<s>
+Približavaše	VERB	Približavaše
+se	PART	se
+trenutak	NOUN	trenutak
+u	ADP	u
+koji	DET	koji
+će	AUX	hteti
+predsednik	NOUN	predsednik
+suda	NOUN	sud
+,	PUNCT	,
+pobrojavši	VERB	pobrojati
+sve	PART	sve
+što	SCONJ	što
+se	PART	se
+izviđanjem	NOUN	izviđanje
+saznalo	VERB	saznati
+i	CCONJ	i
+posvedočilo	VERB	posvedočiti
+,	PUNCT	,
+izreći	VERB	izreći
+:	PUNCT	:
+</s>
+<s>
+«	PUNCT	«
+Sud	NOUN	sud
+je	AUX	jesam
+presudio	VERB	presuditi
+da	SCONJ	da
+Rija	VERB	Rija
+Svilorunić	PROPN	Svilorunić
+za	ADP	za
+proneverenje	NOUN	proneverenje
+u	ADP	u
+dužnosti	NOUN	dužnost
+,	PUNCT	,
+za	ADP	za
+upropašćenje	NOUN	upropašćenje
+toliko	ADV	toliko
+hiljada	NOUN	hiljada
+poverenoga	ADJ	poveren
+mu	PRON	on
+novca	NOUN	novac
+,	PUNCT	,
+trpi	VERB	trpiti
+toliko	ADV	toliko
+i	CCONJ	i
+toliko	ADV	toliko
+godina	NOUN	godina
+zatočenja	NOUN	zatočenje
+»	PUNCT	»
+.	PUNCT	.
+</s>
+<s>
+Sviloruniću	PROPN	Svilorunić
+ostajaše	VERB	ostajati
+samo	PART	samo
+još	ADV	još
+nekoliko	ADV	nekoliko
+časova	NOUN	čas
+,	PUNCT	,
+samo	PART	samo
+još	ADV	još
+jedna	NUM	jedan
+noć	NOUN	noć
+,	PUNCT	,
+pa	CCONJ	pa
+da	SCONJ	da
+čuje	VERB	čuti
+te	DET	taj
+strašne	ADJ	strašan
+reči	NOUN	reč
+,	PUNCT	,
+i	CCONJ	i
+da	SCONJ	da
+vidi	VERB	viditi
+strašne	ADJ	strašan
+posledice	NOUN	posledica
+njihove	DET	njihov
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+VI	PRON	vi
+Tamnica	NOUN	tamnica
+«	PUNCT	«
+Tamnica	NOUN	tamnica
+je	AUX	jesam
+kuća	NOUN	kuća
+neobična	ADJ	neobičan
+»	PUNCT	»
+<s>
+Narod	NOUN	narod
+.	PUNCT	.
+izreka	NOUN	izreka
+.	PUNCT	.
+</s>
+<s>
+Tamnica	NOUN	tamnica
+je	AUX	jesam
+kuća	NOUN	kuća
+neobična	ADJ	neobičan
+.	PUNCT	.
+</s>
+<s>
+To	DET	taj
+je	AUX	jesam
+narod	NOUN	narod
+davno	ADV	davno
+izrekao	VERB	izreći
+za	ADP	za
+staru	ADJ	star
+,	PUNCT	,
+varvarsku	ADJ	varvarski
+tamnicu	NOUN	tamnica
+;	PUNCT	;
+a	CCONJ	a
+to	DET	taj
+vredi	VERB	vrediti
+i	CCONJ	i
+danas	ADV	danas
+za	ADP	za
+svaki	DET	svaki
+zatvor	NOUN	zatvor
+.	PUNCT	.
+</s>
+<s>
+Bila	AUX	biti
+kula	NOUN	kula
+,	PUNCT	,
+bila	AUX	biti
+palata	NOUN	palata
+,	PUNCT	,
+bila	AUX	biti
+soba	NOUN	sob
+,	PUNCT	,
+ili	CCONJ	ili
+podrum	NOUN	podrum
+—	PUNCT	—
+zatvara	VERB	zatvarati
+li	PART	li
+se	PART	se
+njoj	PRON	ona
+ključ	NOUN	ključ
+s	ADP	s
+polja	NOUN	polje
+,	PUNCT	,
+kuća	NOUN	kuća
+je	AUX	jesam
+to	DET	taj
+veoma	ADV	veoma
+neobična	ADJ	neobičan
+!	PUNCT	!
+</s>
+<s>
+Ona	PRON	ona
+je	AUX	jesam
+tesna	ADJ	tesan
+,	PUNCT	,
+ona	PRON	ona
+je	AUX	jesam
+strašna	ADJ	strašan
+,	PUNCT	,
+ona	PRON	ona
+je	AUX	jesam
+zagušljiva	ADJ	zagušljiv
+,	PUNCT	,
+a	CCONJ	a
+koliko	ADV	koliko
+je	AUX	jesam
+svetla	NOUN	svetlo
+—	PUNCT	—
+pokazuje	VERB	pokazivati
+i	CCONJ	i
+samo	PART	samo
+crno	ADJ	crn
+ime	NOUN	ime
+njeno	DET	njen
+—	PUNCT	—
+tamnica	NOUN	tamnica
+!	PUNCT	!
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+Svilorunić	PROPN	Svilorunić
+,	PUNCT	,
+sedeći	VERB	sediti
+u	ADP	u
+svojoj	DET	svoj
+teskobnoj	ADJ	teskoban
+,	PUNCT	,
+lojanom	ADJ	lojan
+svećom	NOUN	sveća
+osvetljenoj	ADJ	osvetljen
+tamnici	NOUN	tamnica
+,	PUNCT	,
+razgovaraše	VERB	razgovarati
+se	PART	se
+sam	AUX	jesam
+sa	ADP	sa
+sobom	PRON	sebe
+:	PUNCT	:
+</s>
+<s>
+—	PUNCT	—
+Još	ADV	Još
+noćas	ADV	noćas
+u	ADP	u
+ovoj	DET	ovaj
+prokletoj	ADJ	proklet
+sobi	NOUN	soba
+!	PUNCT	!
+</s>
+<s>
+A	CCONJ	a
+sutra	ADV	sutra
+?	PUNCT	?
+</s>
+<s>
+Gde	SCONJ	gde
+ću	AUX	hteti
+sutra	ADV	sutra
+na	ADP	na
+veče	NOUN	veče
+?	PUNCT	?
+</s>
+<s>
+Po	ADP	po
+svoj	DET	sav
+prilici	NOUN	prilika
+u	ADP	u
+policiskom	ADJ	policiski
+kazamatu	NOUN	kazamat
+,	PUNCT	,
+s	ADP	s
+jednim	NUM	jedan
+crnim	ADJ	crn
+R	NOUN	R
+na	ADP	na
+leđima	NOUN	leđa
+!	PUNCT	!
+</s>
+<s>
+Osudiće	VERB	Osudiće
+me	PRON	ja
+na	ADP	na
+svaki	DET	svaki
+način	NOUN	način
+.	PUNCT	.
+</s>
+<s>
+Uh	INTJ	uh
+!	PUNCT	!
+nesrećna	ADJ	nesrećan
+svršetka	NOUN	svršetak
+!	PUNCT	!
+</s>
+<s>
+Kako	SCONJ	kako
+da	SCONJ	da
+podnesem	VERB	podneti
+tu	DET	taj
+kaštigu	NOUN	kaštiga
+?	PUNCT	?
+</s>
+<s>
+Da	SCONJ	da
+skočim	VERB	skočiti
+u	ADP	u
+vodu	NOUN	voda
+da	SCONJ	da
+se	PART	se
+udavim	VERB	udaviti
+?	PUNCT	?
+</s>
+<s>
+E	INTJ	e
+,	PUNCT	,
+a	CCONJ	a
+kamo	SCONJ	kamo
+mi	PRON	ja
+srce	NOUN	srce
+za	ADP	za
+to	DET	taj
+?	PUNCT	?
+</s>
+<s>
+Za	ADP	za
+takav	DET	takav
+postupak	NOUN	postupak
+traži	VERB	tražiti
+se	PART	se
+srce	NOUN	srce
+koje	DET	koji
+može	VERB	moći
+pregoreti	VERB	pregoreti
+život	NOUN	život
+.	PUNCT	.
+</s>
+<s>
+A	CCONJ	a
+ja	PRON	ja
+ne	PART	ne
+imadoh	VERB	imati
+snage	NOUN	snaga
+da	SCONJ	da
+se	PART	se
+odrečem	VERB	odreći
+zadovoljstva	NOUN	zadovoljstvo
+koje	DET	koji
+se	PART	se
+kupuje	VERB	kupovati
+za	ADP	za
+deset	NUM	deset
+para	NOUN	para
+,	PUNCT	,
+te	DET	taj
+ću	AUX	hteti
+sada	ADV	sada
+imati	VERB	imati
+srca	NOUN	srce
+da	SCONJ	da
+oduzmem	VERB	oduzeti
+sebi	PRON	sebe
+život	NOUN	život
+!	PUNCT	!
+</s>
+<s>
+Nikako	ADV	nikako
+!	PUNCT	!
+</s>
+<s>
+Nema	VERB	nemati
+u	ADP	u
+mene	PRON	ja
+snage	NOUN	snaga
+za	ADP	za
+to	DET	taj
+.	PUNCT	.
+</s>
+<s>
+Da	SCONJ	da
+se	PART	se
+ubijem	VERB	ubiti
+?	PUNCT	?
+</s>
+<s>
+Da	SCONJ	da
+dignem	VERB	dignuti
+ruku	NOUN	ruka
+sam	ADJ	sam
+na	ADP	na
+se	PRON	sebe
+;	PUNCT	;
+da	SCONJ	da
+pogledam	VERB	pogledati
+u	ADP	u
+usta	NOUN	usta
+strašnoj	ADJ	strašan
+cevi	NOUN	cev
+?	PUNCT	?
+</s>
+<s>
+To	DET	taj
+je	AUX	jesam
+junaštvo	NOUN	junaštvo
+koje	DET	koji
+mnogi	ADJ	mnogi
+nazivlju	NOUN	nazivlje
+bezumljem	NOUN	bezumlje
+,	PUNCT	,
+a	CCONJ	a
+ja	PRON	ja
+bih	AUX	biti
+se	PART	se
+ponosio	VERB	ponositi
+da	SCONJ	da
+ga	ADV	ga
+imam	VERB	imati
+;	PUNCT	;
+ali	CCONJ	ali
+ga	ADV	ga
+nemam	VERB	nemati
+ni	CCONJ	ni
+trun	NOUN	trun
+e	CCONJ	e
+!	PUNCT	!
+</s>
+<s>
+—	PUNCT	—
+Pa	X	Pa
+šta	PRON	šta
+da	SCONJ	da
+radim	VERB	raditi
+?	PUNCT	?
+</s>
+<s>
+—	PUNCT	—
+Da	SCONJ	da
+begam	VERB	begati
+u	ADP	u
+tuđ	ADJ	tuđ
+,	PUNCT	,
+nepoznati	ADJ	nepoznat
+svet	NOUN	svet
+;	PUNCT	;
+da	SCONJ	da
+ogledam	VERB	ogledati
+:	PUNCT	:
+ne	PART	ne
+ću	AUX	hteti
+li	PART	li
+moći	VERB	moći
+tamo	ADV	tamo
+tekar	SCONJ	tekar
+otpočeti	VERB	otpočeti
+život	NOUN	život
+poštena	ADJ	pošten
+čoveka	NOUN	čovek
+?	PUNCT	?
+</s>
+<s>
+Pretvoriću	VERB	Pretvoriću
+se	PART	se
+u	ADP	u
+nadničara	NOUN	nadničar
+,	PUNCT	,
+u	ADP	u
+slugu	NOUN	sluga
+,	PUNCT	,
+u	ADP	u
+argatina	NOUN	argatin
+;	PUNCT	;
+počeću	VERB	početi
+najtežom	ADJ	težak
+službom	NOUN	služba
+,	PUNCT	,
+ne	PART	ne
+bi	AUX	biti
+li	PART	li
+kako	SCONJ	kako
+god	PART	god
+stekao	VERB	steći
+čvrsto	ADV	čvrsto
+srce	NOUN	srce
+koje	DET	koji
+bi	AUX	biti
+bilo	AUX	biti
+jače	ADV	jače
+od	ADP	od
+želja	NOUN	želja
+mojih	DET	moj
+;	PUNCT	;
+koje	DET	koji
+me	PRON	ja
+ne	PART	ne
+bi	AUX	biti
+puštalo	VERB	puštati
+da	SCONJ	da
+ugađam	VERB	ugađati
+svakoj	DET	svaki
+požudi	NOUN	požuda
+svojoj	DET	svoj
+.	PUNCT	.
+</s>
+<s>
+Jer	SCONJ	jer
+,	PUNCT	,
+ugađajući	VERB	ugađati
+svojim	DET	svoj
+požudama	NOUN	požuda
+,	PUNCT	,
+ja	PRON	ja
+evo	PART	evo
+padam	VERB	padati
+iz	ADP	iz
+pogreške	NOUN	pogreška
+u	ADP	u
+pogrešku	NOUN	pogreška
+,	PUNCT	,
+iz	ADP	iz
+nesreće	NOUN	nesreća
+u	ADP	u
+nesreću	NOUN	nesreća
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+A	X	A
+šta	PRON	šta
+ću	AUX	hteti
+s	ADP	s
+ovim	DET	ovaj
+?	PUNCT	?
+</s>
+<s>
+Sad	ADV	sad
+izvadi	VERB	izvaditi
+ispod	ADP	ispod
+uzglavlja	NOUN	uzglavlje
+svitak	NOUN	svitak
+hartije	NOUN	hartija
+,	PUNCT	,
+i	CCONJ	i
+poče	VERB	početi
+ga	ADV	ga
+razgledati	VERB	razgledati
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Ovde	ADV	ovde
+su	AUX	jesam
+,	PUNCT	,
+produžava	VERB	produžavati
+on	PRON	on
+sam	AUX	jesam
+sa	ADP	sa
+sobom	PRON	sebe
+:	PUNCT	:
+—	PUNCT	—
+neke	DET	neki
+beleške	NOUN	beleška
+o	ADP	o
+mom	DET	moj
+dosadašnjem	ADJ	dosadašnji
+životu	NOUN	život
+.	PUNCT	.
+</s>
+<s>
+Beležio	VERB	Beležio
+sam	AUX	jesam
+svoje	DET	svoj
+male	ADJ	mali
+greške	NOUN	greška
+iz	ADP	iz
+kojih	DET	koji
+su	AUX	jesam
+nicali	VERB	nicati
+i	CCONJ	i
+rasli	VERB	rasti
+veliki	ADJ	velik
+grehovi	NOUN	greh
+moji	DET	moj
+.	PUNCT	.
+</s>
+<s>
+Ovo	DET	ovaj
+neka	PART	neka
+ostane	VERB	ostati
+ovde	ADV	ovde
+.	PUNCT	.
+</s>
+<s>
+Ko	PRON	ko
+nađe	VERB	naći
+,	PUNCT	,
+neka	PART	neka
+pročita	VERB	pročitati
+!	PUNCT	!
+</s>
+<s>
+Može	PROPN	Mog
+se	PART	se
+neko	PRON	neko
+ranije	ADV	ranije
+setiti	VERB	setiti
+,	PUNCT	,
+trgnuti	VERB	trgnuti
+,	PUNCT	,
+te	CCONJ	te
+ne	PART	ne
+će	AUX	hteti
+proći	VERB	proći
+kao	CCONJ	kao
+ja	PRON	ja
+.	PUNCT	.
+</s>
+<s>
+Ako	SCONJ	ako
+se	PART	se
+to	DET	taj
+dogodi	VERB	dogoditi
+,	PUNCT	,
+ako	SCONJ	ako
+se	PART	se
+ma	PART	ma
+i	CCONJ	i
+jedan	NUM	jedan
+moj	DET	moj
+drugar	NOUN	drugar
+učuva	VERB	učuvati
+od	ADP	od
+pogrešaka	NOUN	pogreška
+,	PUNCT	,
+meni	PRON	ja
+će	AUX	hteti
+biti	AUX	biti
+lakša	ADJ	lak
+moja	DET	moj
+nesreća	NOUN	nesreća
+.	PUNCT	.
+</s>
+<s>
+Sad	ADV	sad
+zakuca	VERB	zakucati
+u	ADP	u
+vrata	NOUN	vrata
+.	PUNCT	.
+</s>
+<s>
+Ključevi	ADJ	Ključevi
+s	ADP	s
+polja	NOUN	polje
+zveknuše	VERB	zveknuti
+;	PUNCT	;
+brava	NOUN	brava
+škripnu	VERB	škripnuti
+;	PUNCT	;
+vrata	NOUN	vrata
+se	PART	se
+otvoriše	VERB	otvoriti
+,	PUNCT	,
+i	CCONJ	i
+Čiča	PROPN	Čiča
+Stanoje	PROPN	Stanoja
+,	PUNCT	,
+ključar	NOUN	ključar
+,	PUNCT	,
+upita	VERB	upitati
+:	PUNCT	:
+</s>
+<s>
+—	PUNCT	—
+Što	PROPN	Što
+lupaš	VERB	lupati
+?	PUNCT	?
+</s>
+<s>
+—	PUNCT	—
+Čiča	PROPN	Čiča
+Stanoje	PROPN	Stanoja
+!	PUNCT	!
+hodi	VERB	hoditi
+amo	ADV	amo
+,	PUNCT	,
+reče	VERB	reći
+Svilorunić	PROPN	Svilorunić
+,	PUNCT	,
+hodajući	VERB	hodati
+po	ADP	po
+sobi	NOUN	soba
+.	PUNCT	.
+</s>
+<s>
+Ključar	PROPN	Ključar
+uđe	VERB	ući
+.	PUNCT	.
+</s>
+<s>
+To	DET	taj
+je	AUX	jesam
+omalen	ADJ	omalen
+starčić	NOUN	starčić
+,	PUNCT	,
+vrlo	ADV	vrlo
+blaga	ADJ	blag
+i	CCONJ	i
+dobrodušna	ADJ	dobrodušan
+lica	NOUN	lice
+.	PUNCT	.
+</s>
+<s>
+On	PRON	on
+je	AUX	jesam
+rodom	ADV	rodom
+iz	ADP	iz
+Maćedonije	PROPN	Maćedonija
+;	PUNCT	;
+došao	VERB	doći
+je	AUX	jesam
+amo	ADV	amo
+davno	ADV	davno
+;	PUNCT	;
+i	CCONJ	i
+služio	VERB	služiti
+je	AUX	jesam
+koje	DET	koji
+gde	ADV	gde
+dokle	SCONJ	dokle
+nije	AUX	jesam
+postao	VERB	postati
+ključar	NOUN	ključar
+na	ADP	na
+.	PUNCT	.
+tamnici	NOUN	tamnica
+sudskoj	ADJ	sudski
+.	PUNCT	.
+</s>
+<s>
+Zna	VERB	znati
+se	PART	se
+kako	SCONJ	kako
+narod	NOUN	narod
+u	ADP	u
+opšte	ADJ	opšti
+žali	VERB	žaliti
+sužnje	NOUN	sužanj
+.	PUNCT	.
+</s>
+<s>
+I	CCONJ	i
+kad	SCONJ	kad
+bi	AUX	biti
+se	PART	se
+potpuno	ADV	potpuno
+verovalo	VERB	verovati
+u	ADP	u
+pravdu	NOUN	pravda
+suda	NOUN	sud
+,	PUNCT	,
+opet	ADV	opet
+bi	AUX	biti
+srce	NOUN	srce
+čovečije	ADJ	čovečiji
+pokazivalo	VERB	pokazivati
+peko	NOUN	peka
+učešće	NOUN	učešće
+prema	ADP	prema
+onome	DET	onaj
+koji	DET	koji
+nema	VERB	nemati
+dosta	ADV	dosta
+vazduha	NOUN	vazduh
+,	PUNCT	,
+svetlosti	NOUN	svetlost
+,	PUNCT	,
+slobode	NOUN	sloboda
+,	PUNCT	,
+a	CCONJ	a
+još	ADV	još
+ako	SCONJ	ako
+se	PART	se
+drži	VERB	držati
+da	SCONJ	da
+i	CCONJ	i
+prav	ADJ	prav
+čovek	NOUN	čovek
+može	VERB	moći
+pasti	VERB	pasti
+u	ADP	u
+okove	NOUN	okov
+,	PUNCT	,
+onda	ADV	onda
+je	AUX	jesam
+svaki	DET	svaki
+sužanj	NOUN	sužanj
+—	PUNCT	—
+mučenik	NOUN	mučenik
+.	PUNCT	.
+</s>
+<s>
+I	CCONJ	i
+Čiča	PROPN	Čiča
+—	PUNCT	—
+Stanoje	PROPN	Stanoja
+beše	AUX	biti
+uvek	ADV	uvek
+blag	ADJ	blag
+sproću	ADP	sproću
+zatvorenika	NOUN	zatvorenik
+.	PUNCT	.
+</s>
+<s>
+A	CCONJ	a
+ovog	DET	ovaj
+večera	NOUN	veče
+hoćaše	AUX	hteti
+prema	ADP	prema
+Sviloruniću	PROPN	Svilorunić
+da	SCONJ	da
+bude	AUX	biti
+još	ADV	još
+blaži	ADJ	blag
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Čiča-	PROPN	Čiča-
+Stanoje	PROPN	Stanoja
+!	PUNCT	!
+reče	VERB	reći
+mu	PRON	on
+Rija	ADV	Rija
+:	PUNCT	:
+—	PUNCT	—
+sedi	VERB	sediti
+malo	ADV	malo
+da	SCONJ	da
+se	PART	se
+razgovaramo	VERB	razgovarati
+;	PUNCT	;
+uzela	VERB	uzeti
+me	PRON	ja
+neka	DET	neki
+velika	ADJ	velik
+muka	NOUN	muka
+;	PUNCT	;
+ne	PART	ne
+znam	VERB	znati
+što	SCONJ	što
+ću	AUX	hteti
+od	ADP	od
+sebe	PRON	sebe
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+Stanoje	PROPN	Stanoja
+sede	VERB	sesti
+,	PUNCT	,
+a	CCONJ	a
+Rija	ADV	Rija
+mu	PRON	on
+poče	VERB	početi
+savijati	VERB	savijati
+cigaru	NOUN	cigara
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Pričaj	PROPN	Pričaj
+što	PRON	što
+Čiča-	PROPN	Čiča-
+Stanoje	PROPN	Stanoja
+,	PUNCT	,
+ne	PART	ne
+bi	AUX	biti
+li	PART	li
+ovo	DET	ovaj
+vreme	NOUN	vreme
+išlo	VERB	ići
+brže	ADV	brže
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Džanom	PROPN	Džanom
+,	PUNCT	,
+što	SCONJ	što
+da	SCONJ	da
+ti	PRON	ti
+pričam	VERB	pričati
+,	PUNCT	,
+veli	VERB	velim
+Stanoje	PROPN	Stanoja
+:	PUNCT	:
+—	PUNCT	—
+ja	PRON	ja
+segašno	VERB	segašno
+ne	PART	ne
+znam	VERB	znati
+ništo	ADV	ništo
+,	PUNCT	,
+a	CCONJ	a
+starovremsko	ADJ	starovremski
+neje	NOUN	neje
+za	ADP	za
+tebe	PRON	ti
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Pričaj	PROPN	Pričaj
+kuda	ADV	kuda
+si	AUX	jesam
+prolazio	VERB	prolaziti
+,	PUNCT	,
+i	CCONJ	i
+gde	SCONJ	gde
+si	AUX	jesam
+služio	VERB	služiti
+pre	ADV	pre
+nego	CCONJ	nego
+što	SCONJ	što
+si	AUX	jesam
+postao	VERB	postati
+ključar	NOUN	ključar
+ove	DET	ovaj
+tamnice	NOUN	tamnica
+?	PUNCT	?
+</s>
+<s>
+—	PUNCT	—
+A	X	A
+gde	ADV	gde
+nesam	VERB	nesam
+?	PUNCT	?
+</s>
+<s>
+Da	SCONJ	da
+rečeš	VERB	reći
+da	SCONJ	da
+sam	AUX	jesam
+gospodovaja	VERB	gospodovaja
+—	PUNCT	—
+nesam	VERB	nesam
+;	PUNCT	;
+a	CCONJ	a
+služim	VERB	služiti
+otkako	ADV	otkako
+sam	ADJ	sam
+roden	NOUN	roden
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Pa	X	Pa
+gde	SCONJ	gde
+si	AUX	jesam
+služio	VERB	služiti
+?	PUNCT	?
+</s>
+<s>
+—	PUNCT	—
+Služija	NOUN	Služija
+sam	AUX	jesam
+u	ADP	u
+Vlaško	ADJ	Vlaški
+.	PUNCT	.
+</s>
+<s>
+U	ADP	u
+Bukurešte	PROPN	Bukurešt
+sam	AUX	jesam
+bija	VERB	bija
+ćirica	NOUN	ćirica
+.	PUNCT	.
+</s>
+<s>
+Potag	PROPN	Potag
+sam	AUX	jesam
+došaja	NOUN	došaja
+u	ADP	u
+Turna	ADJ	Turna
+.	PUNCT	.
+</s>
+<s>
+Tuj	ADV	tuj
+sam	AUX	jesam
+služija	NOUN	služija
+tri	NUM	tri
+godini	NOUN	godina
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Gde	SCONJ	gde
+je	AUX	jesam
+ta	DET	taj
+Turna	ADJ	Turna
+?	PUNCT	?
+</s>
+<s>
+—	PUNCT	—
+Ej	INTJ	ej
+tamo	ADV	tamo
+dole	ADV	dole
+na	ADP	na
+Dunav	PROPN	Dunav
+,	PUNCT	,
+sprema	VERB	spremati
+Kladovo	PROPN	Kladovo
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Tu	ADV	tu
+se	PART	se
+sve	ADV	sve
+govori	VERB	govoriti
+vlaški	ADJ	vlaški
+?	PUNCT	?
+</s>
+<s>
+—	PUNCT	—
+Može	PROPN	Mog
+kako	ADV	kako
+hoćeš	AUX	hteti
+:	PUNCT	:
+i	CCONJ	i
+vlaški	ADJ	vlaški
+,	PUNCT	,
+i	CCONJ	i
+srpski	ADV	srpski
+,	PUNCT	,
+i	CCONJ	i
+nemski	NOUN	nemski
+,	PUNCT	,
+i	CCONJ	i
+svakakvo	DET	svakakav
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Znaš	PROPN	Znaš
+li	PART	li
+ti	DET	taj
+vlaški	ADJ	vlaški
+Čiča-	PROPN	Čiča-
+Stanoje	PROPN	Stanoja
+?	PUNCT	?
+</s>
+<s>
+—	PUNCT	—
+Znam	VERB	znati
+,	PUNCT	,
+kako	SCONJ	kako
+ne	PART	ne
+bih	AUX	biti
+znaja	VERB	znaja
+?	PUNCT	?
+</s>
+<s>
+Rija	ADV	Rija
+iza	ADP	iza
+toga	DET	taj
+razbiraše	VERB	razbirati
+kako	SCONJ	kako
+se	PART	se
+vlaški	ADJ	vlaški
+zovu	NOUN	zov
+neke	DET	neki
+i	CCONJ	i
+neke	DET	neki
+stvari	NOUN	stvar
+.	PUNCT	.
+</s>
+<s>
+Pa	CCONJ	pa
+se	PART	se
+tek	PART	tek
+u	ADP	u
+jedan	NUM	jedan
+put	NOUN	put
+poče	VERB	početi
+žaliti	VERB	žaliti
+da	SCONJ	da
+mu	PRON	on
+je	AUX	jesam
+loše	ADV	loše
+.	PUNCT	.
+</s>
+<s>
+Sve	ADV	sve
+više	ADV	više
+i	CCONJ	i
+više	ADV	više
+dokle	SCONJ	dokle
+najposle	ADV	najposle
+ne	PART	ne
+povika	VERB	povikati
+:	PUNCT	:
+</s>
+<s>
+—	PUNCT	—
+Čiča	PROPN	Čiča
+Stanoje	PROPN	Stanoja
+,	PUNCT	,
+ne	PART	ne
+daj	VERB	dati
+!	PUNCT	!
+</s>
+<s>
+Hoću	ADV	Hoću
+da	SCONJ	da
+umrem	VERB	umreti
+!	PUNCT	!
+</s>
+<s>
+Steže	VERB	Steže
+me	PRON	ja
+nešto	ADV	nešto
+u	ADP	u
+guši	NOUN	guša
+.	PUNCT	.
+</s>
+<s>
+I	CCONJ	i
+doista	ADV	doista
+beše	AUX	biti
+tako	ADV	tako
+izbuljio	VERB	izbuljiti
+oči	NOUN	oči
+,	PUNCT	,
+da	SCONJ	da
+starac	NOUN	starac
+pomisli	VERB	pomisliti
+:	PUNCT	:
+hoće	AUX	hteti
+umreti	VERB	umreti
+na	ADP	na
+prečac	NOUN	prečac
+!	PUNCT	!
+</s>
+<s>
+Da	SCONJ	da
+mu	PRON	on
+nađe	VERB	naći
+kakve	DET	kakav
+pomoći	NOUN	pomoć
+,	PUNCT	,
+ovako	ADV	ovako
+u	ADP	u
+noć	NOUN	noć
+,	PUNCT	,
+starac	NOUN	starac
+se	PART	se
+seti	VERB	setiti
+da	SCONJ	da
+ima	VERB	imati
+u	ADP	u
+svom	DET	sav
+kovčegu	NOUN	kovčeg
+nekog	DET	neki
+«	PUNCT	«
+Pašota-balsama	PROPN	Pašota-balsama
+.	PUNCT	.
+»	PUNCT	»
+</s>
+<s>
+Brže	ADV	Brže
+otrča	VERB	otrčati
+da	SCONJ	da
+ga	ADV	ga
+nađe	VERB	naći
+,	PUNCT	,
+i	CCONJ	i
+da	SCONJ	da
+Riji	PROPN	Rija
+da	SCONJ	da
+nekoliko	ADV	nekoliko
+kapi	NOUN	kapa
+na	ADP	na
+šećeru	NOUN	šećer
+.	PUNCT	.
+</s>
+<s>
+Za	ADP	za
+pakost	NOUN	pakost
+taj	DET	taj
+lek	NOUN	lek
+nije	AUX	jesam
+Stanoju	PROPN	Stanoja
+trebao	VERB	trebati
+Bog	NOUN	bog
+te	CCONJ	te
+pita	VERB	pitati
+kad	ADV	kad
+;	PUNCT	;
+za	ADP	za
+to	DET	taj
+i	CCONJ	i
+ne	PART	ne
+zna	VERB	znati
+upravo	ADV	upravo
+gde	ADV	gde
+ga	ADV	ga
+je	AUX	jesam
+ostavio	VERB	ostaviti
+.	PUNCT	.
+Kloparao	VERB	kloparati
+je	AUX	jesam
+dugo	ADV	dugo
+,	PUNCT	,
+dugo	ADV	dugo
+,	PUNCT	,
+po	ADP	po
+kovčegu	NOUN	kovčeg
+dokle	SCONJ	dokle
+ga	ADV	ga
+je	AUX	jesam
+napipao	VERB	napipati
+u	ADP	u
+mraku	NOUN	mrak
+.	PUNCT	.
+</s>
+<s>
+Kad	SCONJ	kad
+se	PART	se
+vrati	VERB	vratiti
+u	ADP	u
+zatvor	NOUN	zatvor
+Riji	PROPN	Rija
+,	PUNCT	,
+nađe	VERB	naći
+sobu	NOUN	sob
+otvorenu	ADJ	otvoren
+i	CCONJ	i
+praznu	ADJ	prazan
+.	PUNCT	.
+</s>
+<s>
+Rija	ADV	Rija
+nekud	ADV	nekud
+izašao	VERB	izaći
+,	PUNCT	,
+i	CCONJ	i
+ne	PART	ne
+vraća	VERB	vraćati
+se	PART	se
+.	PUNCT	.
+</s>
+<s>
+Stanoje	PROPN	Stanoja
+sav	DET	sav
+pretrnu	VERB	pretrnuti
+pomislivši	VERB	pomisliti
+šta	PRON	šta
+može	VERB	moći
+biti	AUX	biti
+.	PUNCT	.
+</s>
+<s>
+Potrči	VERB	Potrči
+ovamo	ADV	ovamo
+,	PUNCT	,
+potrči	VERB	potrčati
+onamo	ADV	onamo
+—	PUNCT	—
+nigde	ADV	nigde
+Rije	PROPN	Rija
+!	PUNCT	!
+</s>
+<s>
+Noć	ADV	Noć
+tamna	ADJ	taman
+;	PUNCT	;
+prsta	NOUN	prst
+pred	ADP	pred
+okom	NOUN	oka
+ne	PART	ne
+možeš	VERB	moći
+videti	VERB	videti
+.	PUNCT	.
+</s>
+<s>
+Stražari	NOUN	Stražari
+oko	ADP	oko
+suda	NOUN	sud
+nisu	AUX	jesam
+opazili	VERB	opaziti
+nikog	PRON	niki
+da	SCONJ	da
+je	AUX	jesam
+umakao	VERB	umaknuti
+.	PUNCT	.
+</s>
+<s>
+Svu	DET	sav
+dragu	ADJ	drag
+noć	NOUN	noć
+nije	AUX	jesam
+se	PART	se
+smirio	VERB	smiriti
+siromah	NOUN	siromah
+Čiča-	PROPN	Čiča-
+Stanoje	PROPN	Stanoja
+;	PUNCT	;
+slao	VERB	slati
+je	AUX	jesam
+svuda	ADV	svuda
+gde	SCONJ	gde
+je	AUX	jesam
+mislio	VERB	misliti
+da	SCONJ	da
+Rija	ADV	Rija
+može	VERB	moći
+biti	AUX	biti
+.	PUNCT	.
+</s>
+<s>
+Nigde	ADV	nigde
+ni	PART	ni
+strva	NOUN	strv
+ni	CCONJ	ni
+java	NOUN	java
+.	PUNCT	.
+</s>
+<s>
+Najposle	ADV	najposle
+pomisli	VERB	pomisliti
+biće	AUX	biti
+skočio	VERB	skočiti
+u	ADP	u
+vodu	NOUN	voda
+i	CCONJ	i
+udavio	VERB	udaviti
+se	PART	se
+.	PUNCT	.
+</s>
+<s>
+I	CCONJ	i
+tada	ADV	tada
+je	AUX	jesam
+dobri	ADJ	dobar
+starac	NOUN	starac
+još	ADV	još
+gore	ADV	gore
+jadikovao	VERB	jadikovati
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Izgubiv	VERB	izgubiti
+leb	NOUN	leb
+,	PUNCT	,
+i	CCONJ	i
+izgubiv	VERB	izgubiti
+duša	NOUN	duša
+!	PUNCT	!
+</s>
+<s>
+Pustiv	VERB	pustiti
+ga	ADV	ga
+da	SCONJ	da
+si	AUX	jesam
+oduzme	VERB	oduzeti
+život	NOUN	život
+bez	ADP	bez
+vreme	NOUN	vreme
+.	PUNCT	.
+</s>
+<s>
+E	INTJ	e
+,	PUNCT	,
+ot	X	ot
+robija	VERB	robijati
+ikad	ADV	ikad
+,	PUNCT	,
+a	CCONJ	a
+iz	ADP	iz
+grob	NOUN	grob
+nikad	ADV	nikad
+.	PUNCT	.
+</s>
+<s>
+Belćim	ADV	Belćim
+bi	AUX	biti
+go	ADJ	go
+puštili	VERB	puštiti
+.	PUNCT	.
+«	PUNCT	«
+</s>
+<s>
+Tako	ADV	tako
+govoraše	VERB	govoriti
+svojim	DET	svoj
+jezikom	NOUN	jezik
+tamničar	NOUN	tamničar
+u	ADP	u
+koga	DET	koji
+srce	NOUN	srce
+beše	AUX	biti
+rođeno	VERB	roditi
+za	ADP	za
+druge	ADJ	drugi
+poslove	NOUN	posao
+.	PUNCT	.
+</s>
+<s>
+Ali	CCONJ	ali
+kad	SCONJ	kad
+se	PART	se
+seti	VERB	setiti
+da	SCONJ	da
+zbog	ADP	zbog
+ovoga	DET	ovaj
+slučaja	NOUN	slučaj
+on	PRON	on
+sam	AUX	jesam
+gubi	VERB	gubiti
+svoj	DET	sav
+hleb	NOUN	hleb
+,	PUNCT	,
+i	CCONJ	i
+da	SCONJ	da
+još	PART	još
+može	VERB	moći
+biti	AUX	biti
+kaštigovan	VERB	kaštigovati
+,	PUNCT	,
+onda	ADV	onda
+ospe	VERB	osuti
+ružiti	VERB	ružiti
+Svilorunića	PROPN	Svilorunić
+kao	CCONJ	kao
+najgorega	ADJ	najgorega
+čoveka	NOUN	čovek
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+Već	ADV	Već
+ne	PART	ne
+znam	VERB	znati
+koji	DET	koji
+put	NOUN	put
+počne	VERB	početi
+on	PRON	on
+opet	ADV	opet
+pretresati	VERB	pretresati
+Rijinu	ADJ	Rijin
+sobu	NOUN	sob
+,	PUNCT	,
+i	CCONJ	i
+sada	ADV	sada
+nađe	VERB	naći
+u	ADP	u
+slamnjači	NOUN	slamnjača
+jedan	NUM	jedan
+svežanj	NOUN	svežanj
+pisane	ADJ	pisan
+hartije	NOUN	hartija
+.	PUNCT	.
+</s>
+<s>
+Tome	DET	taj
+se	PART	se
+siromah	NOUN	siromah
+starac	NOUN	starac
+jako	ADV	jako
+obradova	VERB	obradovati
+misleći	VERB	misliti
+da	SCONJ	da
+tu	ADV	tu
+može	VERB	moći
+biti	AUX	biti
+kakva	DET	kakav
+zapiska	NOUN	zapisak
+koja	DET	koji
+bi	AUX	biti
+govorila	VERB	govoriti
+u	ADP	u
+njegovu	DET	njegov
+korist	NOUN	korist
+.	PUNCT	.
+</s>
+<s>
+Za	ADP	za
+to	DET	taj
+te	DET	taj
+hartije	NOUN	hartija
+žurno	ADV	žurno
+strpa	VERB	strpati
+sebi	PRON	sebe
+u	ADP	u
+nedra	NOUN	nedra
+da	SCONJ	da
+ih	PRON	ona
+sutra	ADV	sutra
+dan	NOUN	dan
+preda	ADP	preda
+g	X	g
+.	PUNCT	.
+predsedniku	NOUN	predsednik
+.	PUNCT	.
+</s>
+VII	NUM	VII
+Sudija	NOUN	sudija
+<s>
+Sudiju	NOUN	sudija
+nikad	ADV	nikad
+ne	PART	ne
+blagosiljaju	VERB	blagosiljati
+svi	DET	sav
+kojima	DET	koji
+sudi	VERB	suditi
+!	PUNCT	!
+</s>
+<s>
+Predsednik	NOUN	predsednik
+suda	NOUN	sud
+,	PUNCT	,
+g	X	g
+.	PUNCT	.
+Željin	PROPN	Željin
+Pravdić	PROPN	Pravdić
+,	PUNCT	,
+čovek	NOUN	čovek
+je	AUX	jesam
+od	ADP	od
+svojih	DET	svoj
+50—55	ADJ	50—55
+godina	NOUN	godina
+.	PUNCT	.
+</s>
+<s>
+Visok	ADJ	visok
+,	PUNCT	,
+suv	ADJ	suv
+,	PUNCT	,
+malko	ADV	malko
+boginjav	ADJ	boginjav
+,	PUNCT	,
+on	PRON	on
+je	AUX	jesam
+po	ADP	po
+izgledu	NOUN	izgled
+vrlo	ADV	vrlo
+oštar	ADJ	oštar
+i	CCONJ	i
+opor	ADJ	opor
+čovek	NOUN	čovek
+.	PUNCT	.
+</s>
+<s>
+Ko	PRON	ko
+ga	ADV	ga
+ne	PART	ne
+poznaje	VERB	poznavati
+iz	ADP	iz
+bliže	ADV	bliže
+rekao	VERB	reći
+bi	AUX	biti
+da	SCONJ	da
+se	PART	se
+on	PRON	on
+nikad	ADV	nikad
+ne	PART	ne
+ume	VERB	umeti
+nasmejati	VERB	nasmejati
+.	PUNCT	.
+</s>
+<s>
+A	CCONJ	a
+ko	PRON	ko
+ga	ADV	ga
+poznaje	VERB	poznavati
+bliže	ADV	bliže
+kazaće	VERB	kazati
+da	SCONJ	da
+je	AUX	jesam
+u	ADP	u
+njega	PRON	on
+onoliko	ADV	onoliko
+isto	ADJ	isti
+blagosti	NOUN	blagost
+koliko	ADV	koliko
+i	CCONJ	i
+ljubavi	NOUN	ljubav
+k	ADP	k
+pravdi	NOUN	pravda
+.	PUNCT	.
+</s>
+<s>
+Čuven	VERB	Čuven
+je	AUX	jesam
+kao	CCONJ	kao
+veliki	ADJ	velik
+znalac	NOUN	znalac
+zakona	NOUN	zakon
+,	PUNCT	,
+i	CCONJ	i
+kao	CCONJ	kao
+čvrsti	ADJ	čvrst
+zaštitnik	NOUN	zaštitnik
+pravde	NOUN	pravda
+i	CCONJ	i
+pravice	NOUN	pravica
+.	PUNCT	.
+</s>
+<s>
+Sav	DET	sav
+rad	NOUN	rad
+u	ADP	u
+sudu	NOUN	sud
+,	PUNCT	,
+sve	DET	sav
+što	PRON	što
+biva	VERB	bivati
+u	ADP	u
+domašaju	NOUN	domašaj
+sudske	ADJ	sudski
+vlasti	NOUN	vlast
+,	PUNCT	,
+on	PRON	on
+ima	VERB	imati
+na	ADP	na
+umu	NOUN	um
+,	PUNCT	,
+i	CCONJ	i
+,	PUNCT	,
+čini	VERB	činiti
+ti	PRON	ti
+se	PART	se
+,	PUNCT	,
+nikad	ADV	nikad
+ni	PART	ni
+sa	ADP	sa
+čega	PRON	šta
+ne	PART	ne
+smeće	VERB	smeti
+oka	NOUN	oka
+svoga	DET	svoj
+.	PUNCT	.
+</s>
+<s>
+Vredan	ADJ	vredan
+i	CCONJ	i
+uredan	ADJ	uredan
+,	PUNCT	,
+on	PRON	on
+i	CCONJ	i
+od	ADP	od
+svih	DET	sav
+sudskih	ADJ	sudski
+činovnika	NOUN	činovnik
+traži	VERB	tražiti
+to	DET	taj
+isto	ADV	isto
+.	PUNCT	.
+</s>
+<s>
+S	ADP	s
+toga	DET	taj
+u	ADP	u
+njegovom	DET	njegov
+sudu	NOUN	sud
+suđenje	NOUN	suđenje
+ide	VERB	ići
+i	CCONJ	i
+brzo	ADV	brzo
+i	CCONJ	i
+dobro	ADV	dobro
+;	PUNCT	;
+njegove	DET	njegov
+su	AUX	jesam
+mase	NOUN	masa
+sve	ADV	sve
+u	ADP	u
+redu	NOUN	red
+;	PUNCT	;
+sve	DET	sav
+knjige	NOUN	knjiga
+,	PUNCT	,
+naročito	ADV	naročito
+intabulaciske	ADJ	intabulaciski
+,	PUNCT	,
+tačne	ADJ	tačan
+su	AUX	jesam
+za	ADP	za
+priču	NOUN	priča
+;	PUNCT	;
+nigde	ADV	nigde
+se	PART	se
+u	ADP	u
+njega	PRON	on
+poslovi	NOUN	posao
+ne	PART	ne
+zadržavaju	VERB	zadržavati
+;	PUNCT	;
+sve	ADV	sve
+ide	VERB	ići
+kao	CCONJ	kao
+navijen	VERB	naviti
+sat	NOUN	sat
+.	PUNCT	.
+</s>
+<s>
+Ozbiljni	ADJ	ozbiljan
+mladi	ADJ	mlad
+ljudi	NOUN	ljudi
+iz	ADP	iz
+velike	ADJ	velik
+škole	NOUN	škola
+otimaju	VERB	otimati
+se	PART	se
+u	ADP	u
+njegov	DET	njegov
+sud	NOUN	sud
+.	PUNCT	.
+</s>
+<s>
+Od	ADP	od
+njega	PRON	on
+zaziru	VERB	zazirati
+samo	PART	samo
+oni	PRON	oni
+koji	DET	koji
+ne	PART	ne
+mare	VERB	mariti
+da	SCONJ	da
+rade	VERB	raditi
+i	CCONJ	i
+ne	PART	ne
+miluju	VERB	milovati
+da	SCONJ	da
+se	PART	se
+uče	VERB	učiti
+.	PUNCT	.
+</s>
+<s>
+Jednoga	NUM	jedan
+jutra	NOUN	jutro
+dođe	VERB	doći
+g	X	g
+.	PUNCT	.
+Pravdiću	PROPN	Pravdić
+,	PUNCT	,
+s	ADP	s
+pismom	NOUN	pisma
+od	ADP	od
+ministra	NOUN	ministar
+pravde	NOUN	pravda
+,	PUNCT	,
+jedan	NUM	jedan
+mladić	NOUN	mladić
+koji	DET	koji
+je	AUX	jesam
+,	PUNCT	,
+kao	CCONJ	kao
+pravnik	NOUN	pravnik
+,	PUNCT	,
+postavljen	VERB	postaviti
+za	ADP	za
+praktikanta	NOUN	praktikant
+u	ADP	u
+sudu	NOUN	sud
+g	X	g
+.	PUNCT	.
+Pravdića	PROPN	Pravdić
+.	PUNCT	.
+</s>
+<s>
+Predsednik	NOUN	predsednik
+pročita	VERB	pročitati
+pismo	NOUN	pisma
+,	PUNCT	,
+pogleda	VERB	pogledati
+u	ADP	u
+mladića	NOUN	mladić
+,	PUNCT	,
+i	CCONJ	i
+pusti	VERB	pustiti
+se	PART	se
+s	ADP	s
+njim	PRON	on
+u	ADP	u
+razgovor	NOUN	razgovor
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+A	X	A
+za	ADP	za
+što	PRON	što
+niste	AUX	jesam
+otišli	VERB	otići
+u	ADP	u
+koju	DET	koji
+drugu	ADJ	drugi
+struku	NOUN	struka
+,	PUNCT	,
+nego	CCONJ	nego
+ste	AUX	jesam
+došli	VERB	doći
+u	ADP	u
+sud	NOUN	sud
+,	PUNCT	,
+upita	VERB	upitati
+ga	ADV	ga
+on	PRON	on
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Rad	NOUN	rad
+sam	AUX	jesam
+naučiti	VERB	naučiti
+što	SCONJ	što
+više	ADV	više
+iz	ADP	iz
+prava	NOUN	prava
+,	PUNCT	,
+odgovori	VERB	odgovoriti
+mladić	NOUN	mladić
+:	PUNCT	:
+</s>
+<s>
+—Mi	VERB	—Mi
+smo	AUX	jesam
+u	ADP	u
+školi	NOUN	škola
+neke	DET	neki
+zakone	NOUN	zakon
+prešli	VERB	preći
+tek	PART	tek
+letimice	ADV	letimice
+,	PUNCT	,
+a	CCONJ	a
+neke	DET	neki
+nismo	AUX	jesam
+ni	PART	ni
+slušali	VERB	slušati
+.	PUNCT	.
+</s>
+<s>
+Svi	DET	sav
+kažu	VERB	kazati
+da	SCONJ	da
+se	PART	se
+u	ADP	u
+vašem	DET	vaš
+sudu	NOUN	sud
+može	VERB	moći
+mnogo	ADV	mnogo
+naučiti	VERB	naučiti
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+U	ADP	u
+ovom	DET	ovaj
+je	AUX	jesam
+sudu	NOUN	sud
+kao	ADV	kao
+i	CCONJ	i
+u	ADP	u
+drugom	ADJ	drugi
+,	PUNCT	,
+veli	VERB	velim
+predsednik	NOUN	predsednik
+.	PUNCT	.
+</s>
+<s>
+No	CCONJ	no
+ja	PRON	ja
+mišljah	VERB	misliti
+da	SCONJ	da
+bi	AUX	biti
+vam	PRON	vi
+bilo	AUX	biti
+bolje	ADV	bolje
+spremiti	VERB	spremiti
+se	PART	se
+za	ADP	za
+kakvu	DET	kakav
+upravničku	ADJ	upravnički
+službu	NOUN	služba
+.	PUNCT	.
+</s>
+<s>
+Sudiski	ADJ	sudiski
+je	AUX	jesam
+hleb	NOUN	hleb
+vrlo	ADV	vrlo
+gorak	ADJ	gorak
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+A	X	A
+ja	PRON	ja
+,	PUNCT	,
+naprotiv	PART	naprotiv
+,	PUNCT	,
+držim	VERB	držati
+da	SCONJ	da
+je	AUX	jesam
+sudiska	ADJ	sudiski
+služba	NOUN	služba
+najuzvišenija	ADJ	uzvišen
+služba	NOUN	služba
+u	ADP	u
+državi	NOUN	država
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Sumnjam	VERB	sumnjati
+da	SCONJ	da
+je	AUX	jesam
+poznajete	VERB	poznavati
+;	PUNCT	;
+ona	PRON	ona
+uzvišena	VERB	uzvisiti
+jeste	AUX	jesam
+,	PUNCT	,
+ali	CCONJ	ali
+je	AUX	jesam
+teška	ADJ	težak
+,	PUNCT	,
+gorka	ADJ	gorak
+.	PUNCT	.
+</s>
+<s>
+Svaki	DET	svaki
+drugi	ADJ	drugi
+upravni	ADJ	upravni
+starešina	NOUN	starešina
+može	VERB	moći
+po	ADP	po
+svojoj	DET	svoj
+želji	NOUN	želja
+i	CCONJ	i
+uviđavnosti	NOUN	uviđavnost
+preduzeti	VERB	preduzeti
+i	CCONJ	i
+izvršiti	VERB	izvršiti
+mnoge	ADJ	mnogi
+korisne	ADJ	korisne
+poslove	NOUN	posao
+,	PUNCT	,
+na	ADP	na
+priliku	NOUN	prilika
+,	PUNCT	,
+proseći	VERB	prositi
+putove	NOUN	put
+,	PUNCT	,
+isušiti	VERB	isušiti
+baruštine	NOUN	baruština
+,	PUNCT	,
+prokopati	VERB	prokopati
+vodovode	NOUN	vodovod
+,	PUNCT	,
+podići	VERB	podignuti
+škole	NOUN	škola
+,	PUNCT	,
+zavesti	VERB	zavesti
+radionice	NOUN	radionica
+i	CCONJ	i
+t	X	t
+.	PUNCT	.
+d	X	d
+.	PUNCT	.
+i	CCONJ	i
+t	X	t
+.	PUNCT	.
+d	X	d
+.	PUNCT	.
+</s>
+<s>
+A	CCONJ	a
+sudija	NOUN	sudija
+nikad	ADV	nikad
+ništa	PRON	ništa
+ne	PART	ne
+sme	VERB	smeti
+raditi	VERB	raditi
+od	ADP	od
+svoje	DET	svoj
+volje	NOUN	volja
+.	PUNCT	.
+</s>
+<s>
+On	PRON	on
+sme	VERB	smeti
+raditi	VERB	raditi
+samo	PART	samo
+na	ADP	na
+poziv	NOUN	poziv
+parničara	NOUN	parničar
+!	PUNCT	!
+</s>
+<s>
+Drugi	ADJ	drugi
+upravnik	NOUN	upravnik
+može	VERB	moći
+svojim	DET	svoj
+radom	ADJ	rad
+steći	VERB	steći
+hvale	NOUN	hvala
+,	PUNCT	,
+blagoslova	NOUN	blagoslov
+,	PUNCT	,
+a	CCONJ	a
+sudiju	NOUN	sudija
+svakad	ADV	svakad
+polovina	NOUN	polovina
+parničara	NOUN	parničar
+kune	VERB	kleti
+i	CCONJ	i
+osuđuje	VERB	osuđivati
+.	PUNCT	.
+</s>
+<s>
+Kad	SCONJ	kad
+koji	DET	koji
+upravnik	NOUN	upravnik
+izvrši	VERB	izvršiti
+kakvo	DET	kakav
+delo	NOUN	delo
+za	ADP	za
+opšte	ADJ	opšti
+dobro	NOUN	dobra
+,	PUNCT	,
+on	PRON	on
+može	VERB	moći
+,	PUNCT	,
+i	CCONJ	i
+ako	SCONJ	ako
+ga	ADV	ga
+suvremenici	NOUN	suvremenik
+ne	PART	ne
+razumeju	VERB	razumeti
+,	PUNCT	,
+i	CCONJ	i
+ako	SCONJ	ako
+ga	ADV	ga
+osuđuju	VERB	osuđivati
+zbog	ADP	zbog
+tegoba	NOUN	tegoba
+koje	DET	koji
+na	ADP	na
+njih	PRON	ona
+padaju	VERB	padati
+,	PUNCT	,
+opet	ADV	opet
+biti	AUX	biti
+uveren	VERB	uveriti
+o	ADP	o
+dobroti	NOUN	dobrota
+svoga	DET	svoj
+rada	NOUN	rad
+;	PUNCT	;
+može	VERB	moći
+biti	AUX	biti
+zadovoljan	ADJ	zadovoljan
+i	CCONJ	i
+spokojan	ADJ	spokojan
+;	PUNCT	;
+a	CCONJ	a
+sudija	NOUN	sudija
+ne	PART	ne
+može	VERB	moći
+nikad	ADV	nikad
+biti	AUX	biti
+miran	ADJ	miran
+ni	CCONJ	ni
+spokojan	ADJ	spokojan
+u	ADP	u
+svojoj	DET	svoj
+duši	NOUN	duša
+.	PUNCT	.
+</s>
+<s>
+Što	NOUN	Što
+dva	NUM	dva
+čoveka	NOUN	čovek
+zapleću	VERB	zapletati
+svaki	DET	svaki
+dan	NOUN	dan
+u	ADP	u
+svome	DET	svoj
+radu	NOUN	rad
+;	PUNCT	;
+što	SCONJ	što
+oni	PRON	oni
+kriju	VERB	kriti
+i	CCONJ	i
+sami	DET	sam
+od	ADP	od
+sebe	PRON	sebe
+:	PUNCT	:
+to	DET	taj
+jednoga	NUM	jedan
+dana	NOUN	dan
+iznesu	VERB	izneti
+pred	ADP	pred
+sudiju	NOUN	sudija
+,	PUNCT	,
+i	CCONJ	i
+zovu	VERB	zvati
+ga	ADV	ga
+da	SCONJ	da
+pogodi	VERB	pogoditi
+kako	SCONJ	kako
+je	AUX	jesam
+bilo	AUX	biti
+,	PUNCT	,
+i	CCONJ	i
+da	SCONJ	da
+im	PRON	ona
+izreče	VERB	izreći
+pravdu	NOUN	pravda
+.	PUNCT	.
+</s>
+<s>
+S	ADP	s
+toga	DET	taj
+sudija	NOUN	sudija
+,	PUNCT	,
+u	ADP	u
+svakom	DET	svaki
+svom	DET	sav
+poslu	NOUN	posao
+,	PUNCT	,
+može	VERB	moći
+samo	PART	samo
+reći	VERB	reći
+:	PUNCT	:
+«	PUNCT	«
+</s>
+<s>
+Prema	ADP	prema
+onome	DET	onaj
+kako	SCONJ	kako
+mi	PRON	ja
+je	AUX	jesam
+predstavljeno	VERB	predstaviti
+,	PUNCT	,
+i	CCONJ	i
+kako	SCONJ	kako
+sam	AUX	jesam
+stvar	NOUN	stvar
+svatio	VERB	svatiti
+,	PUNCT	,
+držim	VERB	držati
+da	SCONJ	da
+je	AUX	jesam
+pravo	NOUN	prava
+ovako	ADV	ovako
+kako	SCONJ	kako
+presuđujem	VERB	presuđivati
+,	PUNCT	,
+»	PUNCT	»
+a	CCONJ	a
+to	DET	taj
+baš	PART	baš
+pritiskuje	VERB	pritiskivati
+savest	NOUN	savest
+osetljiva	ADJ	osetljiv
+čoveka	NOUN	čovek
+.	PUNCT	.
+</s>
+<s>
+Ja	PRON	ja
+nikom	PRON	niki
+svom	DET	sav
+ne	PART	ne
+bih	AUX	biti
+svetovao	VERB	svetovati
+da	SCONJ	da
+bude	AUX	biti
+sudija	NOUN	sudija
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+U	ADP	u
+taj	DET	taj
+mah	NOUN	mah
+uđe	VERB	ući
+u	ADP	u
+sednicu	NOUN	sednica
+k	ADP	k
+predsedniku	NOUN	predsednik
+Čiča-	PROPN	Čiča-
+Stanoje	PROPN	Stanoja
+,	PUNCT	,
+tamničar	NOUN	tamničar
+,	PUNCT	,
+s	ADP	s
+ključevima	NOUN	ključ
+i	CCONJ	i
+sa	ADP	sa
+svežnjem	NOUN	svežanj
+hartija	NOUN	hartija
+.	PUNCT	.
+</s>
+<s>
+Bled	ADJ	bled
+i	CCONJ	i
+prestravljen	ADJ	prestravljen
+starac	NOUN	starac
+reče	VERB	reći
+:	PUNCT	:
+</s>
+<s>
+—	PUNCT	—
+Gospodine	NOUN	gospodin
+,	PUNCT	,
+nesu	ADV	nesu
+za	ADP	za
+mene	PRON	ja
+ovija	VERB	ovijati
+ključovi	ADJ	ključovi
+,	PUNCT	,
+nego	CCONJ	nego
+železa	NOUN	železo
+!	PUNCT	!
+</s>
+<s>
+Ne	PART	ne
+umejašem	VERB	umejašem
+da	SCONJ	da
+učuvam	VERB	učuvati
+;	PUNCT	;
+mi	PRON	ja
+utekao	VERB	uteći
+onaj	DET	onaj
+nesretnik	NOUN	nesretnik
+Rija	NOUN	Rija
+.	PUNCT	.
+</s>
+<s>
+Sega	ADJ	Sega
+što	SCONJ	što
+da	PART	da
+činim	VERB	činiti
+?	PUNCT	?
+</s>
+<s>
+Zakuj	VERB	zakovati
+me	PRON	ja
+u	ADP	u
+železa	NOUN	železo
+na	ADP	na
+mesto	NOUN	mesto
+njega	PRON	on
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Kako	ADV	kako
+da	SCONJ	da
+uteče	VERB	uteći
+?	PUNCT	?
+upita	VERB	upitati
+iznenađeni	ADJ	iznenađen
+predsednik	NOUN	predsednik
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Eto	PART	eto
+,	PUNCT	,
+gospodine	NOUN	gospodin
+,	PUNCT	,
+uteče	VERB	uteći
+na	ADP	na
+moji	DET	moj
+oči	NOUN	oči
+.	PUNCT	.
+</s>
+<s>
+Me	PRON	ja
+izvara	VERB	izvarati
+kako	ADV	kako
+da	SCONJ	da
+sm	ADJ	sm
+dete	NOUN	dete
+.	PUNCT	.
+</s>
+<s>
+Starac	NOUN	starac
+sad	ADV	sad
+ispriča	VERB	ispričati
+sve	DET	sav
+kako	SCONJ	kako
+je	AUX	jesam
+bilo	AUX	biti
+.	PUNCT	.
+</s>
+<s>
+«	PUNCT	«
+Eve	PROPN	Eva
+,	PUNCT	,
+ovoj	DET	ovaj
+sam	AUX	jesam
+našaja	VERB	našaja
+u	ADP	u
+njegove	DET	njegov
+postelje	NOUN	postelja
+,	PUNCT	,
+završi	VERB	završiti
+on	PRON	on
+,	PUNCT	,
+pruživši	VERB	pružiti
+predsedniku	NOUN	predsednik
+hartije	NOUN	hartija
+koje	DET	koji
+je	AUX	jesam
+našao	VERB	naći
+na	ADP	na
+Rijinoj	ADJ	Rijin
+postelji	NOUN	postelja
+.	PUNCT	.
+</s>
+<s>
+Predsednik	NOUN	predsednik
+,	PUNCT	,
+primivši	VERB	primiti
+hartije	NOUN	hartija
+,	PUNCT	,
+reče	VERB	reći
+tamničaru	NOUN	tamničar
+:	PUNCT	:
+</s>
+<s>
+—	PUNCT	—
+Idi	PROPN	Ida
+ti	PRON	ti
+Stanoje	PROPN	Stanoja
+na	ADP	na
+svoje	DET	svoj
+mesto	NOUN	mesto
+.	PUNCT	.
+</s>
+<s>
+Ja	PRON	ja
+ću	AUX	hteti
+narediti	VERB	narediti
+da	SCONJ	da
+se	PART	se
+najpre	ADV	najpre
+izvidi	VERB	izvideti
+kako	SCONJ	kako
+je	AUX	jesam
+to	DET	taj
+bilo	AUX	biti
+,	PUNCT	,
+i	CCONJ	i
+ima	VERB	imati
+li	PART	li
+u	ADP	u
+tome	DET	taj
+tvoje	DET	tvoj
+krivice	NOUN	krivica
+ili	CCONJ	ili
+nema	VERB	nemati
+.	PUNCT	.
+</s>
+<s>
+Tek	PART	tek
+posle	ADV	posle
+videće	VERB	videti
+se	PART	se
+:	PUNCT	:
+možeš	VERB	moći
+li	PART	li
+ostati	VERB	ostati
+u	ADP	u
+službi	NOUN	služba
+,	PUNCT	,
+ili	CCONJ	ili
+ne	PART	ne
+možeš	VERB	moći
+.	PUNCT	.
+</s>
+<s>
+Stanoje	PROPN	Stanoja
+se	PART	se
+udali	VERB	udati
+.	PUNCT	.
+</s>
+<s>
+Predsednik	NOUN	predsednik
+zazvoni	VERB	zazvoniti
+.	PUNCT	.
+</s>
+<s>
+Pandur	PROPN	Pandur
+uđe	VERB	ući
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Neka	DET	neki
+dođe	VERB	doći
+g	X	g
+.	PUNCT	.
+sekretar	NOUN	sekretar
+!	PUNCT	!
+reče	VERB	reći
+predsednik	NOUN	predsednik
+.	PUNCT	.
+</s>
+<s>
+Kad	SCONJ	kad
+sekretar	NOUN	sekretar
+dođe	VERB	doći
+,	PUNCT	,
+predsednik	NOUN	predsednik
+naredi	VERB	narediti
+da	SCONJ	da
+se	PART	se
+odmah	ADV	odmah
+javi	VERB	javiti
+policiji	NOUN	policija
+da	SCONJ	da
+begunca	NOUN	begunac
+traži	VERB	tražiti
+,	PUNCT	,
+za	ADP	za
+tim	DET	taj
+,	PUNCT	,
+da	SCONJ	da
+se	PART	se
+izvidi	VERB	izvideti
+kako	SCONJ	kako
+je	AUX	jesam
+pobegao	VERB	pobeći
+zatvorenik	NOUN	zatvorenik
+Rija	NOUN	Rija
+:	PUNCT	:
+je	AUX	jesam
+li	PART	li
+sve	ADV	sve
+onako	ADV	onako
+kako	SCONJ	kako
+priča	VERB	pričati
+tamničar	NOUN	tamničar
+.	PUNCT	.
+</s>
+<s>
+Najposle	ADV	najposle
+dodade	VERB	dodati
+:	PUNCT	:
+</s>
+<s>
+—	PUNCT	—
+Ovaj	DET	ovaj
+je	AUX	jesam
+mladić	NOUN	mladić
+naš	DET	naš
+novi	ADJ	nov
+praktikanat	NOUN	praktikanat
+.	PUNCT	.
+</s>
+<s>
+Odvedite	VERB	odvesti
+ga	ADV	ga
+u	ADP	u
+prepisaonicu	NOUN	prepisaonica
+,	PUNCT	,
+i	CCONJ	i
+naredite	VERB	narediti
+da	SCONJ	da
+počne	VERB	početi
+službu	NOUN	služba
+od	ADP	od
+samoga	DET	sam
+početka	NOUN	početak
+.	PUNCT	.
+</s>
+<s>
+Neka	DET	neki
+prepisuje	VERB	prepisivati
+neko	DET	neki
+vreme	NOUN	vreme
+,	PUNCT	,
+pa	CCONJ	pa
+ćemo	AUX	hteti
+videti	VERB	videti
+za	ADP	za
+koji	DET	koji
+je	AUX	jesam
+posao	NOUN	posao
+dalje	ADV	dalje
+pripreman	VERB	pripremati
+.	PUNCT	.
+</s>
+<s>
+Udališe	VERB	Udališe
+se	PART	se
+i	CCONJ	i
+ova	DET	ovaj
+dvojica	NOUN	dvojica
+.	PUNCT	.
+</s>
+<s>
+Predsednik	NOUN	predsednik
+sede	VERB	sesti
+,	PUNCT	,
+i	CCONJ	i
+uze	VERB	uziti
+razgledati	VERB	razgledati
+Svilorunićeve	ADJ	Svilorunićev
+hartije	NOUN	hartija
+.	PUNCT	.
+</s>
+VIII	NUM	VIII
+Mladost-ludost	NOUN	Mladost-ludost
+Svakoga	DET	svaki
+će	AUX	hteti
+pitati	VERB	pitati
+starost	NOUN	starost
+gde	SCONJ	gde
+mu	PRON	on
+je	AUX	jesam
+bila	AUX	biti
+mladost	NOUN	mladost
+?	PUNCT	?
+<s>
+Nar	NOUN	nar
+.	PUNCT	.
+</s>
+<s>
+Poslovica	NOUN	poslovica
+.	PUNCT	.
+</s>
+<s>
+Razgledavši	VERB	Razgledavši
+sve	ADV	sve
+redom	ADV	redom
+zapiske	NOUN	zapisak
+,	PUNCT	,
+g	X	g
+.	PUNCT	.
+predsednik	NOUN	predsednik
+,	PUNCT	,
+kad	SCONJ	kad
+se	PART	se
+iskupiše	VERB	iskupiti
+sudije	NOUN	sudija
+reče	VERB	reći
+:	PUNCT	:
+</s>
+<s>
+—	PUNCT	—
+Danas	PROPN	Danas
+bi	AUX	biti
+bilo	AUX	biti
+na	ADP	na
+redu	NOUN	red
+da	SCONJ	da
+se	PART	se
+objavi	VERB	objaviti
+presuda	NOUN	presuda
+po	ADP	po
+krivici	NOUN	krivica
+Rije	PROPN	Rija
+Svilorunića	PROPN	Svilorunić
+,	PUNCT	,
+ali	CCONJ	ali
+je	AUX	jesam
+on	PRON	on
+noćas	ADV	noćas
+pobegao	VERB	pobeći
+iz	ADP	iz
+zatvora	NOUN	zatvor
+,	PUNCT	,
+i	CCONJ	i
+zasad	ADV	zasad
+se	PART	se
+ne	PART	ne
+zna	VERB	znati
+gde	SCONJ	gde
+je	AUX	jesam
+.	PUNCT	.
+</s>
+<s>
+Pisano	VERB	pisati
+je	AUX	jesam
+odmah	ADV	odmah
+policiji	NOUN	policija
+da	SCONJ	da
+ga	ADV	ga
+traži	VERB	tražiti
+;	PUNCT	;
+a	CCONJ	a
+za	ADP	za
+ključara	NOUN	ključar
+(	PUNCT	(
+tamničara	NOUN	tamničar
+)	PUNCT	)
+naredio	VERB	narediti
+sam	AUX	jesam
+da	SCONJ	da
+se	PART	se
+za	ADP	za
+nepažnju	NOUN	nepažnja
+uzme	VERB	uzeti
+na	ADP	na
+odgovor	NOUN	odgovor
+.	PUNCT	.
+</s>
+<s>
+Među	PROPN	Međa
+tim	DET	taj
+Rija	ADV	Rija
+je	AUX	jesam
+,	PUNCT	,
+po	ADP	po
+svoj	DET	sav
+prilici	NOUN	prilika
+navalice	ADV	navalice
+,	PUNCT	,
+ostavio	VERB	ostaviti
+jedan	NUM	jedan
+rukopis	NOUN	rukopis
+u	ADP	u
+kom	DET	koji
+kazuje	VERB	kazivati
+svoj	DET	sav
+dosadašnji	ADJ	dosadašnji
+život	NOUN	život
+.	PUNCT	.
+</s>
+<s>
+On	PRON	on
+pobraja	VERB	pobrajati
+mnoge	ADJ	mnogi
+svoje	DET	svoj
+mane	NOUN	mana
+;	PUNCT	;
+a	CCONJ	a
+takvih	DET	takav
+mana	NOUN	mana
+mi	PRON	ja
+viđamo	VERB	viđati
+i	CCONJ	i
+na	ADP	na
+drugoj	ADJ	drugi
+deci	NOUN	deca
+i	CCONJ	i
+mladićima	NOUN	mladić
+.	PUNCT	.
+</s>
+<s>
+Kazuje	VERB	kazivati
+,	PUNCT	,
+kako	SCONJ	kako
+mu	PRON	on
+se	PART	se
+kad	SCONJ	kad
+koja	DET	koji
+mana	NOUN	mana
+zametala	VERB	zametati
+,	PUNCT	,
+i	CCONJ	i
+kako	SCONJ	kako
+se	PART	se
+razrastala	VERB	razrastati
+.	PUNCT	.
+</s>
+<s>
+Ako	SCONJ	ako
+ste	AUX	jesam
+voljni	ADJ	voljan
+,	PUNCT	,
+možemo	VERB	moći
+časkom	ADV	časkom
+pročitati	VERB	pročitati
+ovaj	DET	ovaj
+rukopis	NOUN	rukopis
+,	PUNCT	,
+dokle	SCONJ	dokle
+se	PART	se
+ne	PART	ne
+skupe	VERB	skupiti
+parničari	NOUN	parničar
+za	ADP	za
+drugi	ADJ	drugi
+rad	NOUN	rad
+!	PUNCT	!
+</s>
+<s>
+—	PUNCT	—
+Da	SCONJ	da
+čujemo	VERB	čuti
+!	PUNCT	!
+reče	VERB	reći
+sudija	NOUN	sudija
+Živko	PROPN	Živko
+:	PUNCT	:
+—	PUNCT	—
+i	CCONJ	i
+sudije	NOUN	sudija
+smo	AUX	jesam
+i	CCONJ	i
+ocevi	NOUN	otac
+smo	AUX	jesam
+.	PUNCT	.
+</s>
+<s>
+Može	PROPN	Mog
+nas	PRON	mi
+to	DET	taj
+dvojako	ADJ	dvojak
+zanimati	VERB	zanimati
+.	PUNCT	.
+</s>
+<s>
+To	DET	taj
+isto	ADV	isto
+izjaviše	VERB	izjaviti
+i	CCONJ	i
+druga	ADJ	drugi
+dvojica	NOUN	dvojica
+.	PUNCT	.
+</s>
+<s>
+Predsednik	NOUN	predsednik
+otpoče	VERB	otpočeti
+čitati	VERB	čitati
+ovaj	DET	ovaj
+sastav	NOUN	sastav
+:	PUNCT	:
+</s>
+<s>
+„	PUNCT	„
+ŽIVOT	NOUN	ŽIVOT
+I	CCONJ	i
+VLADANjE	NOUN	vladanje
+“	PUNCT	“
+</s>
+<s>
+Rije	VERB	riti
+Svilorunića	PROPN	Svilorunić
+</s>
+«	PUNCT	«
+Sva	DET	sav
+je	AUX	jesam
+moja	DET	moj
+nesreća	NOUN	nesreća
+postala	VERB	postati
+od	ADP	od
+deset	NUM	deset
+para	NOUN	para
+»	PUNCT	»
+!	PUNCT	!
+<s>
+«	PUNCT	«
+Ja	PRON	ja
+sam	AUX	jesam
+se	PART	se
+rodio	VERB	roditi
+u	ADP	u
+kući	NOUN	kuća
+imućnoj	ADJ	imućan
+.	PUNCT	.
+</s>
+<s>
+Moj	DET	moj
+je	AUX	jesam
+otac	NOUN	otac
+najpre	ADV	najpre
+radio	NOUN	radio
+zanat	NOUN	zanat
+,	PUNCT	,
+a	CCONJ	a
+posle	ADV	posle
+je	AUX	jesam
+postao	VERB	postati
+trgovac	NOUN	trgovac
+:	PUNCT	:
+otvorio	VERB	otvoriti
+je	AUX	jesam
+boltu	NOUN	bolta
+.	PUNCT	.
+</s>
+<s>
+On	PRON	on
+je	AUX	jesam
+rođen	VERB	roditi
+u	ADP	u
+selu	NOUN	selo
+,	PUNCT	,
+a	CCONJ	a
+majka	NOUN	majka
+mi	PRON	ja
+je	AUX	jesam
+iz	ADP	iz
+varoši	NOUN	varoš
+.	PUNCT	.
+</s>
+<s>
+Kao	CCONJ	kao
+što	SCONJ	što
+rekoh	VERB	reći
+,	PUNCT	,
+imovno	ADJ	imovni
+stanje	NOUN	stanje
+oca	NOUN	otac
+moga	DET	moj
+bilo	AUX	biti
+je	AUX	jesam
+vrlo	ADV	vrlo
+dobro	ADV	dobro
+,	PUNCT	,
+jer	SCONJ	jer
+mi	PRON	ja
+,	PUNCT	,
+deca	NOUN	deca
+njegova	DET	njegov
+,	PUNCT	,
+za	ADP	za
+njegovog	DET	njegov
+života	NOUN	život
+,	PUNCT	,
+ne	PART	ne
+zaznasmo	VERB	zaznati
+ni	PART	ni
+za	ADP	za
+kakvu	DET	kakav
+oskudicu	NOUN	oskudica
+.	PUNCT	.
+</s>
+<s>
+Ma	CCONJ	ma
+da	SCONJ	da
+je	AUX	jesam
+on	PRON	on
+često	ADV	često
+govorio	VERB	govoriti
+neke	DET	neki
+strašne	ADJ	strašan
+reči	NOUN	reč
+o	ADP	o
+štednji	NOUN	štednja
+,	PUNCT	,
+o	ADP	o
+čuvanju	NOUN	čuvanje
+,	PUNCT	,
+mi	PRON	ja
+,	PUNCT	,
+dok	SCONJ	dok
+on	PRON	on
+beše	AUX	biti
+živ	ADJ	živ
+,	PUNCT	,
+ne	PART	ne
+osetismo	VERB	osetiti
+ni	PART	ni
+u	ADP	u
+čem	PRON	šta
+nemaštine	NOUN	nemaština
+.	PUNCT	.
+</s>
+<s>
+«	PUNCT	«
+Ja	PRON	ja
+sam	AUX	jesam
+imao	VERB	imati
+četiri	NUM	četiri
+sestre	NOUN	sestra
+,	PUNCT	,
+sve	DET	sav
+četiri	NUM	četiri
+starije	ADJ	star
+od	ADP	od
+mene	PRON	ja
+.	PUNCT	.
+</s>
+<s>
+Lasno	ADV	lasno
+je	AUX	jesam
+verovati	VERB	verovati
+kad	SCONJ	kad
+pričaju	VERB	pričati
+koliko	ADV	koliko
+su	AUX	jesam
+se	PART	se
+svi	DET	sav
+obradovali	VERB	obradovati
+meni	PRON	ja
+,	PUNCT	,
+kao	CCONJ	kao
+prvom	ADJ	prvi
+muškarcu	NOUN	muškarac
+.	PUNCT	.
+Osobito	ADV	osobito
+se	PART	se
+,	PUNCT	,
+vele	VERB	velim
+,	PUNCT	,
+otac	NOUN	otac
+osećao	VERB	osećati
+sretan	VERB	sretati
+:	PUNCT	:
+nije	AUX	jesam
+znao	VERB	znati
+šta	PRON	šta
+je	AUX	jesam
+činio	VERB	činiti
+od	ADP	od
+velike	ADJ	velik
+radosti	NOUN	radost
+.	PUNCT	.
+</s>
+<s>
+Svi	DET	sav
+kažu	VERB	kazati
+da	SCONJ	da
+ga	ADV	ga
+je	AUX	jesam
+moje	DET	moj
+rođenje	NOUN	rođenje
+i	CCONJ	i
+moje	DET	moj
+krštenje	NOUN	krštenje
+stalo	VERB	stati
+lepih	ADJ	lep
+novaca	NOUN	novac
+.	PUNCT	.
+</s>
+<s>
+«	PUNCT	«
+Još	ADV	Još
+me	PRON	ja
+je	AUX	jesam
+cucao	VERB	cucati
+na	ADP	na
+kolenu	NOUN	koleno
+a	CCONJ	a
+prikazivao	VERB	prikazivati
+mi	PRON	ja
+je	AUX	jesam
+da	SCONJ	da
+će	AUX	hteti
+me	PRON	ja
+dati	VERB	dati
+na	ADP	na
+nekolike	DET	nekolik
+korisne	ADJ	korisne
+zanate	NOUN	zanat
+,	PUNCT	,
+pa	CCONJ	pa
+i	CCONJ	i
+na	ADP	na
+trgovinu	NOUN	trgovina
+;	PUNCT	;
+da	SCONJ	da
+će	AUX	hteti
+me	PRON	ja
+uortačiti	VERB	uortačiti
+sa	ADP	sa
+sobom	PRON	sebe
+,	PUNCT	,
+da	SCONJ	da
+će	AUX	hteti
+me	PRON	ja
+poznati	VERB	poznati
+s	ADP	s
+mušterijama	NOUN	mušterija
+svojim	DET	svoj
+,	PUNCT	,
+i	CCONJ	i
+s	ADP	s
+kućama	NOUN	kuća
+koje	DET	koji
+njemu	PRON	on
+veruju	VERB	verovati
+.	PUNCT	.
+</s>
+<s>
+I	CCONJ	i
+kad	SCONJ	kad
+bi	AUX	biti
+mi	PRON	ja
+sve	DET	sav
+to	DET	taj
+izređao	VERB	izređati
+,	PUNCT	,
+kad	SCONJ	kad
+bi	AUX	biti
+zamislio	VERB	zamisliti
+kako	SCONJ	kako
+će	AUX	hteti
+onda	ADV	onda
+i	CCONJ	i
+sam	AUX	jesam
+biti	AUX	biti
+srećan	ADJ	srećan
+sa	ADP	sa
+mnom	PRON	ja
+,	PUNCT	,
+on	PRON	on
+bi	AUX	biti
+me	PRON	ja
+stiskao	VERB	stiskati
+na	ADP	na
+svoje	DET	svoj
+prsi	NOUN	prsi
+,	PUNCT	,
+i	CCONJ	i
+zasuo	VERB	zasuti
+poljupcima	NOUN	poljubac
+.	PUNCT	.
+</s>
+<s>
+«	PUNCT	«
+To	PROPN	To
+pamtim	VERB	pamtiti
+kao	ADV	kao
+danas	ADV	danas
+.	PUNCT	.
+</s>
+<s>
+«	PUNCT	«
+Docnije	ADV	docnije
+,	PUNCT	,
+opazivši	VERB	opaziti
+da	SCONJ	da
+sa	ADP	sa
+mnom	PRON	ja
+biva	VERB	bivati
+sve	ADV	sve
+drugojače	ADV	drugojače
+,	PUNCT	,
+a	CCONJ	a
+ne	PART	ne
+onako	ADV	onako
+kako	SCONJ	kako
+je	AUX	jesam
+želeo	VERB	želeti
+on	PRON	on
+,	PUNCT	,
+samo	PART	samo
+bi	AUX	biti
+sumorno	ADV	sumorno
+progovorio	VERB	progovoriti
+:	PUNCT	:
+</s>
+<s>
+—	PUNCT	—
+U	ADP	u
+našem	DET	naš
+gradu	NOUN	grad
+možeš	VERB	moći
+zaraditi	VERB	zaraditi
+novaca	NOUN	novac
+,	PUNCT	,
+možeš	VERB	moći
+kupiti	VERB	kupiti
+kuća	NOUN	kuća
+i	CCONJ	i
+dućana	NOUN	dućan
+,	PUNCT	,
+možeš	VERB	moći
+se	PART	se
+bogato	ADV	bogato
+oženiti	VERB	oženiti
+,	PUNCT	,
+i	CCONJ	i
+izići	VERB	izići
+na	ADP	na
+glas	NOUN	glas
+,	PUNCT	,
+ali	CCONJ	ali
+dece	NOUN	deca
+svoje	DET	svoj
+ne	PART	ne
+možeš	VERB	moći
+uputiti	VERB	uputiti
+kud	CCONJ	kud
+želiš	VERB	želiti
+,	PUNCT	,
+i	CCONJ	i
+kako	SCONJ	kako
+želiš	VERB	želiti
+;	PUNCT	;
+njih	PRON	ona
+upućuje	VERB	upućivati
+drugi	ADJ	drugi
+neko	PRON	neko
+.	PUNCT	.
+</s>
+<s>
+Ko	PRON	ko
+?	PUNCT	?
+i	CCONJ	i
+kako	ADV	kako
+?	PUNCT	?
+ne	PART	ne
+znaš	VERB	znati
+;	PUNCT	;
+tek	PART	tek
+ona	PRON	ona
+ne	PART	ne
+bivaju	VERB	bivati
+ono	PRON	ono
+što	SCONJ	što
+želiš	VERB	želiti
+ti	PRON	ti
+!	PUNCT	!
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+«	PUNCT	«
+Jedini	ADJ	Jedini
+muškarac	NOUN	muškarac
+među	ADP	među
+četiri	NUM	četiri
+devojke	NOUN	devojka
+,	PUNCT	,
+ja	PRON	ja
+sam	AUX	jesam
+rastao	VERB	rastati
+kao	CCONJ	kao
+majčina	ADJ	majčin
+maza	NOUN	maza
+,	PUNCT	,
+i	CCONJ	i
+vladao	VERB	vladati
+se	PART	se
+kao	CCONJ	kao
+kućevni	ADJ	kućevan
+tiran	NOUN	tiran
+.	PUNCT	.
+</s>
+<s>
+Osem	ADP	osem
+oca	NOUN	otac
+,	PUNCT	,
+koga	PRON	ko
+sam	AUX	jesam
+se	PART	se
+prilično	ADV	prilično
+pribojavao	VERB	pribojavati
+,	PUNCT	,
+svima	DET	sav
+drugima	ADJ	drugi
+bio	AUX	biti
+sam	AUX	jesam
+se	PART	se
+na	ADP	na
+glavu	NOUN	glava
+popeo	VERB	popeti
+.	PUNCT	.
+</s>
+<s>
+«	PUNCT	«
+Meni	PRON	ja
+su	AUX	jesam
+kupovane	ADJ	kupovan
+i	CCONJ	i
+donošene	ADJ	donošen
+svakojake	ADJ	svakojak
+sigračke	NOUN	sigračka
+otkako	ADV	otkako
+sam	AUX	jesam
+zaznao	VERB	zaznati
+za	ADP	za
+sebe	PRON	sebe
+.	PUNCT	.
+</s>
+<s>
+Nisam	AUX	jesam
+umeo	VERB	umeti
+ni	PART	ni
+govoriti	VERB	govoriti
+a	CCONJ	a
+već	PART	već
+sam	AUX	jesam
+imao	VERB	imati
+lepog	ADJ	lep
+drvenog	ADJ	drven
+konja	NOUN	konj
+i	CCONJ	i
+lepa	ADJ	lep
+drvena	ADJ	drven
+kolica	NOUN	kolica
+.	PUNCT	.
+</s>
+<s>
+U	ADP	u
+ono	DET	onaj
+što	SCONJ	što
+je	AUX	jesam
+moje	DET	moj
+nije	AUX	jesam
+smeo	VERB	smeti
+niko	PRON	niki
+preko	ADV	preko
+pogledati	VERB	pogledati
+.	PUNCT	.
+</s>
+<s>
+Ja	PRON	ja
+sam	AUX	jesam
+bio	AUX	biti
+tako	ADV	tako
+ćudljiv	ADJ	ćudljiv
+,	PUNCT	,
+da	SCONJ	da
+sam	AUX	jesam
+se	PART	se
+srdio	VERB	srditi
+ako	SCONJ	ako
+mi	PRON	ja
+ko	PRON	ko
+dirne	VERB	dirnuti
+u	ADP	u
+konja	NOUN	konj
+i	CCONJ	i
+u	ADP	u
+kola	NOUN	kola
+;	PUNCT	;
+a	CCONJ	a
+ako	SCONJ	ako
+se	PART	se
+svi	DET	sav
+ućute	VERB	ućutati
+,	PUNCT	,
+i	CCONJ	i
+ne	PART	ne
+će	AUX	hteti
+da	SCONJ	da
+ih	PRON	ona
+poglede	VERB	poglediti
+,	PUNCT	,
+ja	PRON	ja
+se	PART	se
+srdim	VERB	srditi
+za	ADP	za
+što	PRON	što
+ne	PART	ne
+glede	VERB	glediti
+.	PUNCT	.
+</s>
+<s>
+I	CCONJ	i
+kad	SCONJ	kad
+bih	AUX	biti
+opazio	VERB	opaziti
+tu	DET	taj
+nemarnost	NOUN	nemarnost
+prema	ADP	prema
+sebi	PRON	sebe
+,	PUNCT	,
+ja	PRON	ja
+bih	AUX	biti
+često	ADV	često
+počinjao	VERB	počinjati
+stenjati	VERB	stenjati
+za	ADP	za
+praboga	NOUN	praboga
+,	PUNCT	,
+i	CCONJ	i
+mučio	VERB	mučiti
+bih	AUX	biti
+se	PART	se
+da	SCONJ	da
+se	PART	se
+rasplačem	VERB	rasplakati
+na	ADP	na
+silu	NOUN	sila
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+«	PUNCT	«
+Ako	SCONJ	ako
+se	PART	se
+kom	DET	koji
+detetu	NOUN	dete
+pre	ADP	pre
+mene	PRON	ja
+da	SCONJ	da
+što	PRON	što
+od	ADP	od
+kolača	NOUN	kolač
+,	PUNCT	,
+od	ADP	od
+voća	NOUN	voće
+,	PUNCT	,
+od	ADP	od
+slatkiša	NOUN	slatkiš
+,	PUNCT	,
+ja	PRON	ja
+se	PART	se
+srdim	VERB	srditi
+što	SCONJ	što
+nije	AUX	jesam
+prvo	ADV	prvo
+dato	VERB	dati
+meni	PRON	ja
+;	PUNCT	;
+a	CCONJ	a
+ako	SCONJ	ako
+se	PART	se
+prvo	ADV	prvo
+pruži	VERB	pružiti
+meni	PRON	ja
+—	PUNCT	—
+ja	PRON	ja
+se	PART	se
+bojim	VERB	bojiti
+da	SCONJ	da
+onima	DET	onaj
+drugima	ADJ	drugi
+ne	PART	ne
+ostane	VERB	ostati
+više	ADV	više
+!	PUNCT	!
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+«	PUNCT	«
+Pošto	PROPN	Pošto
+sam	AUX	jesam
+ja	PRON	ja
+bio	AUX	biti
+tako	ADV	tako
+amišan	ADJ	amišan
+prema	ADP	prema
+drugima	ADJ	drugi
+,	PUNCT	,
+nije	AUX	jesam
+bilo	AUX	biti
+očekivati	VERB	očekivati
+ni	PART	ni
+da	SCONJ	da
+drugi	ADJ	drugi
+prema	ADP	prema
+meni	PRON	ja
+budu	AUX	biti
+bolji	ADJ	dobar
+.	PUNCT	.
+</s>
+<s>
+S	ADP	s
+toga	DET	taj
+sam	AUX	jesam
+često	ADV	često
+imao	VERB	imati
+rašta	ADV	rašta
+rasrditi	VERB	rasrditi
+se	PART	se
+i	CCONJ	i
+,	PUNCT	,
+gotovo	ADV	gotovo
+u	ADP	u
+svakoj	DET	svaki
+takoj	PRON	taki
+prilici	NOUN	prilika
+,	PUNCT	,
+pokazati	VERB	pokazati
+divljinu	NOUN	divljina
+srca	NOUN	srce
+svog	DET	svoj
+.	PUNCT	.
+</s>
+<s>
+Sirota	ADJ	sirot
+majka	NOUN	majka
+moja	DET	moj
+svaki	DET	svaki
+je	AUX	jesam
+čas	ADV	čas
+morala	VERB	morati
+dolaziti	VERB	dolaziti
+da	SCONJ	da
+nas	PRON	mi
+razvađa	VERB	razvađati
+i	CCONJ	i
+da	SCONJ	da
+utišava	VERB	utišavati
+naše	DET	naš
+svađe	NOUN	svađa
+.	PUNCT	.
+</s>
+<s>
+Gotovo	ADV	gotovo
+svakad	ADV	svakad
+nalazila	VERB	nalaziti
+je	AUX	jesam
+ona	PRON	ona
+da	SCONJ	da
+sam	AUX	jesam
+kriv	ADJ	kriv
+ja	PRON	ja
+.	PUNCT	.
+</s>
+<s>
+Mesto	NOUN	mesto
+da	SCONJ	da
+mene	PRON	ja
+to	DET	taj
+opemene	VERB	opemene
+,	PUNCT	,
+da	SCONJ	da
+se	PART	se
+trgnem	VERB	trgnuti
+,	PUNCT	,
+da	SCONJ	da
+se	PART	se
+popravim	VERB	popraviti
+—	PUNCT	—
+ja	PRON	ja
+sam	AUX	jesam
+postajao	VERB	postajati
+sve	DET	sav
+gori	NOUN	gora
+:	PUNCT	:
+</s>
+<s>
+—	PUNCT	—
+One	DET	onaj
+devojčure	NOUN	devojčura
+(	PUNCT	(
+sestre	NOUN	sestra
+moje	DET	moj
+)	PUNCT	)
+,	PUNCT	,
+mislio	VERB	misliti
+sam	AUX	jesam
+ja	PRON	ja
+u	ADP	u
+sebi	PRON	sebe
+,	PUNCT	,
+drže	VERB	držati
+stranu	NOUN	strana
+jedna	NUM	jedan
+drugoj	ADJ	drugi
+,	PUNCT	,
+a	CCONJ	a
+za	ADP	za
+mene	PRON	ja
+ne	PART	ne
+mare	VERB	mariti
+!	PUNCT	!
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+«	PUNCT	«
+Kad	SCONJ	kad
+sam	AUX	jesam
+pošao	VERB	poći
+u	ADP	u
+školu	NOUN	škola
+,	PUNCT	,
+bila	AUX	biti
+je	AUX	jesam
+u	ADP	u
+kući	NOUN	kuća
+velika	ADJ	velik
+svečanost	NOUN	svečanost
+.	PUNCT	.
+</s>
+<s>
+Otac	NOUN	otac
+me	PRON	ja
+je	AUX	jesam
+sam	AUX	jesam
+odveo	VERB	odvesti
+učitelju	NOUN	učitelj
+koji	DET	koji
+me	PRON	ja
+upisa	VERB	upisati
+u	ADP	u
+prvi	ADJ	prvi
+razred	NOUN	razred
+.	PUNCT	.
+</s>
+<s>
+Učitelj	PROPN	Učitelj
+beše	AUX	biti
+mlad	ADJ	mlad
+čovek	NOUN	čovek
+,	PUNCT	,
+svoj	DET	sav
+posao	NOUN	posao
+razumevaše	VERB	razumevati
+dobro	ADV	dobro
+,	PUNCT	,
+a	CCONJ	a
+s	ADP	s
+ocem	NOUN	otac
+mojim	DET	moj
+življaše	VERB	živiti
+se	PART	se
+lepo	ADV	lepo
+.	PUNCT	.
+</s>
+<s>
+On	PRON	on
+svojski	ADV	svojski
+nasta	VERB	nastati
+da	SCONJ	da
+me	PRON	ja
+uputi	VERB	uputiti
+na	ADP	na
+dobro	ADV	dobro
+.	PUNCT	.
+</s>
+<s>
+I	CCONJ	i
+,	PUNCT	,
+duša	NOUN	duša
+valja	VERB	valjati
+,	PUNCT	,
+ja	PRON	ja
+sam	AUX	jesam
+mogao	VERB	moći
+naučiti	VERB	naučiti
+sve	ADV	sve
+što	SCONJ	što
+bi	AUX	biti
+mi	PRON	ja
+se	PART	se
+zadalo	VERB	zadati
+za	ADP	za
+«	PUNCT	«
+lekciju	NOUN	lekcija
+»	PUNCT	»
+,	PUNCT	,
+samo	PART	samo
+ako	SCONJ	ako
+sam	AUX	jesam
+hteo	AUX	hteti
+;	PUNCT	;
+ali	CCONJ	ali
+sam	AUX	jesam
+,	PUNCT	,
+uz	ADP	uz
+lekciju	NOUN	lekcija
+,	PUNCT	,
+primao	VERB	primati
+od	ADP	od
+koje	DET	koji
+koga	DET	koji
+mnoge	ADJ	mnogi
+rđave	ADJ	rđav
+navike	NOUN	navika
+koje	DET	koji
+su	AUX	jesam
+bile	AUX	biti
+pune	ADJ	pun
+opasnosti	NOUN	opasnost
+za	ADP	za
+moj	DET	moj
+potonji	ADJ	potonji
+život	NOUN	život
+.	PUNCT	.
+</s>
+<s>
+«	PUNCT	«
+Ja	PRON	ja
+sam	AUX	jesam
+sve	DET	sav
+radio	NOUN	radio
+onako	ADV	onako
+kako	SCONJ	kako
+mi	PRON	ja
+je	AUX	jesam
+kad	SCONJ	kad
+volja	NOUN	volja
+.	PUNCT	.
+</s>
+<s>
+Kad	SCONJ	kad
+mi	PRON	ja
+je	AUX	jesam
+volja	NOUN	volja
+da	SCONJ	da
+idem	VERB	ići
+u	ADP	u
+školu	NOUN	škola
+—	PUNCT	—
+išao	VERB	ići
+sam	AUX	jesam
+uredno	ADV	uredno
+;	PUNCT	;
+a	CCONJ	a
+kad	SCONJ	kad
+mi	PRON	ja
+nije	AUX	jesam
+volja	NOUN	volja
+,	PUNCT	,
+izostajao	VERB	izostajati
+sam	AUX	jesam
+,	PUNCT	,
+docnio	VERB	docniti
+se	PART	se
+,	PUNCT	,
+tukao	VERB	tući
+sam	AUX	jesam
+se	PART	se
+s	ADP	s
+đacima	NOUN	đak
+,	PUNCT	,
+gubio	VERB	gubiti
+svoje	DET	svoj
+knjige	NOUN	knjiga
+i	CCONJ	i
+bedio	VERB	bediti
+za	ADP	za
+to	DET	taj
+druge	ADJ	drugi
+,	PUNCT	,
+tužio	VERB	tužiti
+ih	PRON	ona
+,	PUNCT	,
+opadao	VERB	opadati
+,	PUNCT	,
+i	CCONJ	i
+krivio	VERB	kriviti
+svakoga	PRON	svako
+samo	PART	samo
+sebe—nikad	ADV	sebe—nikad
+!	PUNCT	!
+</s>
+<s>
+«	PUNCT	«
+Nekad	ADV	nekad
+na	ADP	na
+nogama	NOUN	noga
+unesem	VERB	uneti
+u	ADP	u
+školu	NOUN	škola
+silno	ADV	silno
+blato	NOUN	blato
+;	PUNCT	;
+ako	SCONJ	ako
+učitelj	NOUN	učitelj
+,	PUNCT	,
+videći	VERB	viditi
+to	DET	taj
+,	PUNCT	,
+rekne	VERB	reći
+da	SCONJ	da
+se	PART	se
+očistim	VERB	očistiti
+,	PUNCT	,
+ja	PRON	ja
+izađem	VERB	izaći
+,	PUNCT	,
+odem	VERB	otići
+kući	NOUN	kuća
+slineći	VERB	sliniti
+uz	ADP	uz
+put	NOUN	put
+,	PUNCT	,
+i	CCONJ	i
+svakom	DET	svaki
+velim	VERB	velim
+da	SCONJ	da
+me	PRON	ja
+je	AUX	jesam
+učitelj	NOUN	učitelj
+isterao	VERB	isterati
+iz	ADP	iz
+škole	NOUN	škola
+!	PUNCT	!
+</s>
+<s>
+I	CCONJ	i
+kad	SCONJ	kad
+poranim	VERB	poraniti
+u	ADP	u
+školu	NOUN	škola
+,	PUNCT	,
+svakad	ADV	svakad
+zaboravim	VERB	zaboraviti
+kod	ADP	kod
+kuće	NOUN	kuća
+ma	CCONJ	ma
+što	SCONJ	što
+:	PUNCT	:
+ili	CCONJ	ili
+plajvaz	NOUN	plajvaz
+,	PUNCT	,
+ili	CCONJ	ili
+pero	NOUN	pero
+,	PUNCT	,
+ili	CCONJ	ili
+tablicu	NOUN	tablica
+,	PUNCT	,
+ili	CCONJ	ili
+njenu	DET	njen
+pisaljku	NOUN	pisaljka
+.	PUNCT	.
+</s>
+<s>
+Kad	SCONJ	kad
+me	PRON	ja
+učitelj	NOUN	učitelj
+za	ADP	za
+to	DET	taj
+prekori	NOUN	prekor
+,	PUNCT	,
+ja	PRON	ja
+se	PART	se
+na	ADP	na
+njega	PRON	on
+rasrdim	VERB	rasrditi
+i	CCONJ	i
+celoga	ADJ	ceo
+sam	ADJ	sam
+časa	NOUN	čas
+nešto	ADV	nešto
+ljut	ADJ	ljut
+i	CCONJ	i
+gnjevan	ADJ	gnjevan
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+«	PUNCT	«
+Na	ADP	na
+času	NOUN	čas
+sam	AUX	jesam
+bio	AUX	biti
+nemirniji	ADJ	nemiran
+od	ADP	od
+sviju	VERB	sviti
+drugih	ADJ	drugi
+đaka	NOUN	đak
+.	PUNCT	.
+</s>
+<s>
+Učitelj	PROPN	Učitelj
+je	AUX	jesam
+često	ADV	često
+morao	VERB	morati
+prekidati	VERB	prekidati
+svoj	DET	sav
+govor	NOUN	govor
+,	PUNCT	,
+da	SCONJ	da
+meni	PRON	ja
+vikne	VERB	viknuti
+:	PUNCT	:
+</s>
+<s>
+—	PUNCT	—
+Rijo	PROPN	Rija
+,	PUNCT	,
+smiri	VERB	smiriti
+se	PART	se
+!	PUNCT	!
+</s>
+<s>
+Rijo	PROPN	Rija
+,	PUNCT	,
+pazi	VERB	paziti
+!	PUNCT	!
+</s>
+<s>
+Rijo	PROPN	Rija
+,	PUNCT	,
+posviraj	VERB	posvirati
+pa	CCONJ	pa
+i	CCONJ	i
+za	ADP	za
+pojas	NOUN	pojas
+zadeni	VERB	zadenuti
+!	PUNCT	!
+</s>
+<s>
+«	PUNCT	«
+Na	ADP	na
+take	NOUN	taka
+opomene	NOUN	opomena
+,	PUNCT	,
+ja	PRON	ja
+sam	AUX	jesam
+često	ADV	često
+nastavljao	VERB	nastavljati
+novi	ADJ	nov
+smej	NOUN	smej
+.	PUNCT	.
+</s>
+<s>
+«	PUNCT	«
+Sve	DET	sav
+su	AUX	jesam
+moje	DET	moj
+knjige	NOUN	knjiga
+bile	AUX	biti
+išarabatane	VERB	išarabatane
+.	PUNCT	.
+</s>
+<s>
+Svaki	DET	svaki
+naslov	NOUN	naslov
+išatiran	ADJ	išatiran
+,	PUNCT	,
+zamrljan	ADJ	zamrljan
+.	PUNCT	.
+</s>
+<s>
+To	DET	taj
+sam	AUX	jesam
+ja	PRON	ja
+činio	VERB	činiti
+i	CCONJ	i
+na	ADP	na
+tuđim	ADJ	tuđ
+knjigama	NOUN	knjiga
+,	PUNCT	,
+samo	CCONJ	samo
+ako	SCONJ	ako
+su	AUX	jesam
+mi	PRON	ja
+pale	VERB	pasti
+šaka	NOUN	šaka
+.	PUNCT	.
+</s>
+<s>
+«	PUNCT	«
+Od	ADP	od
+kuće	NOUN	kuća
+do	ADP	do
+škole	NOUN	škola
+,	PUNCT	,
+i	CCONJ	i
+od	ADP	od
+škole	NOUN	škola
+do	ADP	do
+kuće	NOUN	kuća
+,	PUNCT	,
+nikad	ADV	nikad
+nisam	AUX	jesam
+išao	VERB	ići
+kao	ADV	kao
+smerno	ADV	smerno
+,	PUNCT	,
+pametno	ADV	pametno
+dete	NOUN	dete
+:	PUNCT	:
+nego	CCONJ	nego
+trčim	VERB	trčati
+,	PUNCT	,
+vičem	VERB	vikati
+,	PUNCT	,
+dozivam	VERB	dozivati
+i	CCONJ	i
+psujem	VERB	psovati
+drugove	NOUN	drug
+,	PUNCT	,
+potežem	VERB	potezati
+se	PART	se
+na	ADP	na
+pse	NOUN	pas
+,	PUNCT	,
+na	ADP	na
+mačke	NOUN	mačka
+koje	DET	koji
+u	ADP	u
+putu	NOUN	put
+vidim	VERB	viditi
+,	PUNCT	,
+potkradam	VERB	potkradati
+piljare	NOUN	piljar
+i	CCONJ	i
+bakale	NOUN	bakal
+,	PUNCT	,
+ili	CCONJ	ili
+im	PRON	ona
+činim	VERB	činiti
+kakvu	DET	kakav
+bilo	AUX	biti
+štetu	NOUN	šteta
+.	PUNCT	.
+</s>
+<s>
+«	PUNCT	«
+Dolazeći	ADJ	Dolazeći
+kući	NOUN	kuća
+,	PUNCT	,
+još	ADV	još
+s	ADP	s
+vrata	NOUN	vrata
+vičem	VERB	vikati
+:	PUNCT	:
+</s>
+<s>
+—	PUNCT	—
+Dajte	VERB	dati
+mi	PRON	ja
+hleba	NOUN	hleb
+!	PUNCT	!
+</s>
+<s>
+Ne	PART	ne
+ću	AUX	hteti
+suva	ADJ	suv
+hleba	NOUN	hleb
+!	PUNCT	!
+</s>
+<s>
+Hoću	ADJ	Hoću
+sira	NOUN	sir
+,	PUNCT	,
+skorupa	NOUN	skorup
+,	PUNCT	,
+ili	CCONJ	ili
+ma	PART	ma
+kakva	DET	kakav
+smoka	NOUN	smok
+.	PUNCT	.
+</s>
+<s>
+«	PUNCT	«
+Knjige	NOUN	knjiga
+svoje	DET	svoj
+bacim	VERB	baciti
+kud	CCONJ	kud
+mu	PRON	on
+drago	ADV	drago
+,	PUNCT	,
+a	CCONJ	a
+posle	ADP	posle
+krivim	ADJ	kriv
+druge	ADJ	drugi
+da	SCONJ	da
+su	AUX	jesam
+mi	PRON	ja
+ih	PRON	ona
+zaturili	VERB	zaturiti
+.	PUNCT	.
+</s>
+<s>
+Kad	SCONJ	kad
+god	PART	god
+polazim	VERB	polaziti
+u	ADP	u
+školu	NOUN	škola
+cela	ADJ	ceo
+se	PART	se
+kuća	NOUN	kuća
+uznemiri	VERB	uznemiriti
+dokle	SCONJ	dokle
+ja	PRON	ja
+priberem	VERB	pribrati
+knjige	NOUN	knjiga
+i	CCONJ	i
+sve	DET	sav
+što	SCONJ	što
+mi	PRON	ja
+treba	VERB	trebati
+.	PUNCT	.
+</s>
+<s>
+«	PUNCT	«
+Kad	SCONJ	kad
+smo	AUX	jesam
+u	ADP	u
+crkvi	NOUN	crkva
+na	ADP	na
+bogomolji	NOUN	bogomolja
+uvek	ADV	uvek
+gurkam	VERB	gurkati
+drugove	NOUN	drug
+,	PUNCT	,
+izlazim	VERB	izlaziti
+iz	ADP	iz
+reda	NOUN	red
+,	PUNCT	,
+smejem	VERB	smejati
+se	PART	se
+,	PUNCT	,
+i	CCONJ	i
+zasmejavam	VERB	zasmejavati
+druge	ADJ	drugi
+.	PUNCT	.
+</s>
+<s>
+Kad	SCONJ	kad
+ko	PRON	ko
+metaniše	VERB	metanisati
+i	CCONJ	i
+mnogo	ADV	mnogo
+se	PART	se
+krsti	VERB	krstiti
+,	PUNCT	,
+ja	PRON	ja
+mu	PRON	on
+se	PART	se
+podsmevam	VERB	podsmevati
+.	PUNCT	.
+</s>
+<s>
+Na	ADP	na
+bdeniju	NOUN	bdenije
+zašivam	VERB	zašivati
+drugare	NOUN	drugar
+,	PUNCT	,
+i	CCONJ	i
+svećom	NOUN	sveća
+često	ADV	često
+hoću	AUX	hteti
+da	SCONJ	da
+pripalim	VERB	pripaliti
+po	ADP	po
+koga	PRON	ko
+od	ADP	od
+njih	PRON	ona
+!	PUNCT	!
+</s>
+<s>
+»	PUNCT	»
+Kako	SCONJ	kako
+čujem	VERB	čuti
+svatove	NOUN	svat
+,	PUNCT	,
+odmah	ADV	odmah
+skupim	ADJ	skup
+četu	NOUN	četa
+svoje	DET	svoj
+družine	NOUN	družina
+,	PUNCT	,
+te	CCONJ	te
+pred	ADP	pred
+crkvom	NOUN	crkva
+vičemo	VERB	vikati
+:	PUNCT	:
+</s>
+<s>
+—	PUNCT	—
+Izgori	VERB	izgoreti
+kumu	NOUN	kum
+kesa	NOUN	kesa
+!	PUNCT	!
+</s>
+<s>
+Izgori	VERB	izgoreti
+kumu	NOUN	kum
+kesa	NOUN	kesa
+!	PUNCT	!
+</s>
+<s>
+Pa	CCONJ	pa
+kad	SCONJ	kad
+jedan	NUM	jedan
+kum	NOUN	kum
+,	PUNCT	,
+na	ADP	na
+tu	DET	taj
+viku	NOUN	vika
+,	PUNCT	,
+reče	VERB	reći
+sa	ADP	sa
+svim	DET	sav
+hladno	ADJ	hladan
+:	PUNCT	:
+</s>
+<s>
+—	PUNCT	—
+Ima	VERB	imati
+šta	PRON	šta
+i	CCONJ	i
+da	SCONJ	da
+mu	PRON	on
+izgori	VERB	izgoreti
+;	PUNCT	;
+a	CCONJ	a
+šta	PRON	šta
+će	AUX	hteti
+izgoreti	VERB	izgoreti
+tebi	PRON	ti
+?	PUNCT	?
+onda	ADV	onda
+ja	PRON	ja
+bejah	AUX	biti
+na	ADP	na
+njega	PRON	on
+tako	ADV	tako
+ljut	ADJ	ljut
+kao	CCONJ	kao
+da	SCONJ	da
+mi	PRON	ja
+je	AUX	jesam
+učinio	VERB	učiniti
+najgoru	ADJ	najgoru
+nepravdu	NOUN	nepravda
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+«	PUNCT	«
+Nije	AUX	jesam
+mi	PRON	ja
+bilo	AUX	biti
+petnaest	NUM	petnaest
+godina	NOUN	godina
+,	PUNCT	,
+a	CCONJ	a
+već	PART	već
+sam	AUX	jesam
+pušio	VERB	pušiti
+kao	CCONJ	kao
+Turčin	PROPN	Turčin
+.	PUNCT	.
+</s>
+<s>
+Da	SCONJ	da
+kupim	VERB	kupiti
+duvana	NOUN	duvan
+,	PUNCT	,
+te	CCONJ	te
+da	SCONJ	da
+uživam	VERB	uživati
+slast	NOUN	slast
+od	ADP	od
+dima	NOUN	dim
+njegova	DET	njegov
+,	PUNCT	,
+dovijao	VERB	dovijati
+sam	AUX	jesam
+se	PART	se
+od	ADP	od
+svake	DET	svaki
+ruke	NOUN	ruka
+,	PUNCT	,
+samo	CCONJ	samo
+da	SCONJ	da
+bih	AUX	biti
+para	NOUN	para
+izlagao	VERB	izlagati
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+«	PUNCT	«
+Jednom	ADV	jednom
+me	PRON	ja
+vide	VERB	viditi
+jedan	NUM	jedan
+sredovečan	ADJ	sredovečan
+čovek	NOUN	čovek
+da	SCONJ	da
+držim	VERB	držati
+među	ADP	među
+dva	NUM	dva
+prsta	NOUN	prst
+cigaru	NOUN	cigara
+,	PUNCT	,
+i	CCONJ	i
+povlačim	VERB	povlačiti
+u	ADP	u
+se	PRON	sebe
+dim	NOUN	dim
+njezin	DET	njezin
+,	PUNCT	,
+pa	CCONJ	pa
+priđe	VERB	prići
+i	CCONJ	i
+na	ADP	na
+uho	NOUN	uho
+mi	PRON	ja
+šanu	VERB	šanuti
+,	PUNCT	,
+da	SCONJ	da
+niko	PRON	niki
+drugi	ADJ	drugi
+ne	PART	ne
+čuje	VERB	čuti
+:	PUNCT	:
+</s>
+<s>
+—	PUNCT	—
+Mladiću	PROPN	Mladić
+!	PUNCT	!
+ta	DET	taj
+je	AUX	jesam
+cigara	NOUN	cigara
+zla	ADJ	zao
+gospođa	NOUN	gospođa
+!	PUNCT	!
+</s>
+<s>
+Kajaćeš	VERB	Kajaćeš
+se	PART	se
+što	SCONJ	što
+si	AUX	jesam
+se	PART	se
+najmio	VERB	najmiti
+nju	PRON	ona
+da	SCONJ	da
+služiš	VERB	služiti
+!	PUNCT	!
+</s>
+<s>
+Tebi	PRON	ti
+se	PART	se
+čini	VERB	činiti
+da	SCONJ	da
+ona	PRON	ona
+gove	VERB	goveti
+tebi	PRON	ti
+,	PUNCT	,
+a	CCONJ	a
+ti	PRON	ti
+sve	ADV	sve
+daješ	VERB	davati
+njoj	PRON	ona
+da	SCONJ	da
+ugoveš	VERB	ugoveti
+!	PUNCT	!
+</s>
+<s>
+Rekavši	VERB	Rekavši
+to	DET	taj
+,	PUNCT	,
+on	PRON	on
+brzo	ADV	brzo
+ode	VERB	otići
+od	ADP	od
+mene	PRON	ja
+.	PUNCT	.
+</s>
+<s>
+«	PUNCT	«
+A	X	A
+ja	PRON	ja
+,	PUNCT	,
+mesto	NOUN	mesto
+da	SCONJ	da
+se	PART	se
+zarumenim	VERB	zarumeniti
+,	PUNCT	,
+mesto	NOUN	mesto
+da	SCONJ	da
+promucam	VERB	promucati
+koju	DET	koji
+reč	NOUN	reč
+u	ADP	u
+ime	NOUN	ime
+zahvalnosti	NOUN	zahvalnost
+za	ADP	za
+takav	DET	takav
+savet	NOUN	savet
+,	PUNCT	,
+i	CCONJ	i
+na	ADP	na
+takav	DET	takav
+način	NOUN	način
+,	PUNCT	,
+ja	PRON	ja
+—	PUNCT	—
+besno	ADV	besno
+i	CCONJ	i
+osiono	ADJ	osion
+derište	NOUN	derište
+—	PUNCT	—
+isplazih	VERB	isplaziti
+za	ADP	za
+njim	PRON	on
+jezik	NOUN	jezik
+i	CCONJ	i
+rekoh	VERB	reći
+:	PUNCT	:
+</s>
+<s>
+—	PUNCT	—
+Hajd	PROPN	Hajd
+'	VERB	'
+tako	ADV	tako
+pravo	NOUN	prava
+!	PUNCT	!
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+«	PUNCT	«
+U	ADP	u
+gimnaziji	NOUN	gimnazija
+sam	AUX	jesam
+imao	VERB	imati
+drugova	NOUN	drug
+ne	PART	ne
+samo	PART	samo
+iz	ADP	iz
+naše	DET	naš
+varoši	NOUN	varoš
+,	PUNCT	,
+nego	CCONJ	nego
+i	CCONJ	i
+sa	ADP	sa
+sela	NOUN	selo
+,	PUNCT	,
+i	CCONJ	i
+iz	ADP	iz
+drugih	ADJ	drugi
+mesta	NOUN	mesto
+.	PUNCT	.
+</s>
+<s>
+Pred	ADP	pred
+školom	NOUN	škola
+našom	DET	naš
+bejaše	AUX	biti
+svakad	ADV	svakad
+prodavaca	NOUN	prodavac
+s	ADP	s
+raznim	ADJ	raznim
+poslasticama	NOUN	poslastica
+za	ADP	za
+decu	NOUN	deca
+.	PUNCT	.
+</s>
+<s>
+Tu	ADV	tu
+mi	PRON	ja
+je	AUX	jesam
+bilo	AUX	biti
+najmilije	ADJ	mio
+mašiti	VERB	mašiti
+se	PART	se
+rukom	NOUN	ruka
+u	ADP	u
+džep	NOUN	džep
+,	PUNCT	,
+izvaditi	VERB	izvaditi
+deset	NUM	deset
+para	NOUN	para
+,	PUNCT	,
+i	CCONJ	i
+kupiti	VERB	kupiti
+ili	CCONJ	ili
+perecu	NOUN	pereca
+,	PUNCT	,
+ili	CCONJ	ili
+đevrek	NOUN	đevrek
+,	PUNCT	,
+ili	CCONJ	ili
+šećerni	ADJ	šećeran
+krompir	NOUN	krompir
+,	PUNCT	,
+ili	CCONJ	ili
+pečata	VERB	pečatati
+,	PUNCT	,
+ili	CCONJ	ili
+ma	PART	ma
+što	SCONJ	što
+drugo	ADV	drugo
+.	PUNCT	.
+</s>
+<s>
+S	ADP	s
+toga	DET	taj
+sam	AUX	jesam
+majci	NOUN	majka
+toliko	ADV	toliko
+puta	ADV	puta
+vadio	VERB	vaditi
+dušu	NOUN	duša
+za	ADP	za
+to	DET	taj
+deset	NUM	deset
+para	NOUN	para
+.	PUNCT	.
+</s>
+<s>
+Majka	NOUN	majka
+mi	PRON	ja
+nekad	ADV	nekad
+da	SCONJ	da
+,	PUNCT	,
+a	CCONJ	a
+nekad	ADV	nekad
+se	PART	se
+kune	VERB	kleti
+da	SCONJ	da
+nema	VERB	nemati
+.	PUNCT	.
+</s>
+<s>
+Tada	ADV	tada
+se	PART	se
+ja	PRON	ja
+razderem	VERB	razderati
+,	PUNCT	,
+vičem	VERB	vikati
+,	PUNCT	,
+lupam	VERB	lupati
+vrata	NOUN	vrata
+i	CCONJ	i
+prozore	NOUN	prozor
+,	PUNCT	,
+i	CCONJ	i
+učinim	VERB	učiniti
+štete	NOUN	šteta
+deset	NUM	deset
+puta	ADV	puta
+više	ADV	više
+.	PUNCT	.
+</s>
+<s>
+Jednom	ADV	jednom
+sam	AUX	jesam
+se	PART	se
+(	PUNCT	(
+o	ADP	o
+Bože	PROPN	Boža
+,	PUNCT	,
+ala	ADV	ala
+sam	AUX	jesam
+bio	AUX	biti
+lud	ADJ	lud
+!	PUNCT	!
+)	PUNCT	)
+popeo	VERB	popeti
+na	ADP	na
+santrač	NOUN	santrač
+od	ADP	od
+bunara	NOUN	bunar
+i	CCONJ	i
+viknuo	VERB	viknuti
+majci	NOUN	majka
+:	PUNCT	:
+</s>
+<s>
+—	PUNCT	—
+Ili	PROPN	Ili
+mi	PRON	ja
+daj	VERB	dati
+deset	NUM	deset
+para	NOUN	para
+,	PUNCT	,
+ili	CCONJ	ili
+ću	AUX	hteti
+sad	ADV	sad
+skočiti	VERB	skočiti
+u	ADP	u
+bunar	NOUN	bunar
+!	PUNCT	!
+</s>
+<s>
+I	CCONJ	i
+nagoh	VERB	nagnuti
+se	PART	se
+božem	ADV	božem
+da	SCONJ	da
+skočim	VERB	skočiti
+!	PUNCT	!
+</s>
+<s>
+«	PUNCT	«
+Sirota	ADJ	sirot
+majka	NOUN	majka
+prekrsti	VERB	prekrstiti
+se	PART	se
+;	PUNCT	;
+baci	VERB	baciti
+mi	PRON	ja
+krajcaru	NOUN	krajcara
+,	PUNCT	,
+i	CCONJ	i
+reče	VERB	reći
+:	PUNCT	:
+</s>
+<s>
+—	PUNCT	—
+Slazi	VERB	slaziti
+dole	ADV	dole
+,	PUNCT	,
+Rijo	PROPN	Rija
+,	PUNCT	,
+hoće	AUX	hteti
+li	PART	li
+te	PRON	ti
+biti	AUX	biti
+majci	NOUN	majka
+!	PUNCT	!
+</s>
+<s>
+«	PUNCT	«
+Drgi	PROPN	Drgi
+put	PART	put
+sam	AUX	jesam
+perorezom	NOUN	perorez
+podavrьo	VERB	podavrьo
+svoju	DET	svoj
+očnu	ADJ	očni
+jabučicu	NOUN	jabučica
+,	PUNCT	,
+i	CCONJ	i
+rekao	VERB	reći
+:	PUNCT	:
+</s>
+<s>
+—	PUNCT	—
+Izbiću	PROPN	Izbiću
+sebi	PRON	sebe
+oko	ADP	oko
+,	PUNCT	,
+ako	SCONJ	ako
+mi	PRON	ja
+ne	PART	ne
+daš	VERB	dati
+deset	NUM	deset
+para	NOUN	para
+!	PUNCT	!
+</s>
+<s>
+«	PUNCT	«
+Jadnica	NOUN	jadnica
+mi	PRON	ja
+i	PART	i
+tada	ADV	tada
+baci	VERB	baciti
+dvadeset	NUM	dvadeset
+para	NOUN	para
+,	PUNCT	,
+rekavši	VERB	reći
+:	PUNCT	:
+</s>
+<s>
+—	PUNCT	—
+Ako	SCONJ	ako
+znaš	VERB	znati
+za	ADP	za
+Boga	NOUN	bog
+,	PUNCT	,
+dijete	NOUN	dijeta
+,	PUNCT	,
+ostavi	VERB	ostaviti
+se	PART	se
+toga	DET	taj
+!	PUNCT	!
+</s>
+<s>
+To	DET	taj
+ne	PART	ne
+sluti	VERB	slutiti
+na	ADP	na
+dobro	ADV	dobro
+,	PUNCT	,
+nego	CCONJ	nego
+na	ADP	na
+veliko	ADJ	velik
+zlo	NOUN	zlo
+,	PUNCT	,
+moj	DET	moj
+sinko	NOUN	sinak
+!	PUNCT	!
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+«	PUNCT	«
+Tada	ADV	tada
+beše	AUX	biti
+još	ADV	još
+živa	ADJ	živ
+moja	DET	moj
+baba	NOUN	baba
+,	PUNCT	,
+očina	ADJ	očin
+mi	PRON	ja
+majka	NOUN	majka
+.	PUNCT	.
+</s>
+<s>
+Žena	ADJ	Žena
+seljanka	NOUN	seljanka
+,	PUNCT	,
+ostavši	VERB	ostati
+na	ADP	na
+domu	NOUN	dom
+udovica	NOUN	udovica
+,	PUNCT	,
+došla	VERB	doći
+je	AUX	jesam
+ocu	NOUN	otac
+mome	DET	moj
+a	CCONJ	a
+sinu	VERB	sinuti
+svome	DET	svoj
+da	SCONJ	da
+provede	VERB	provesti
+poslednje	ADJ	poslednji
+svoje	DET	svoj
+dane	NOUN	dan
+.	PUNCT	.
+</s>
+<s>
+Ova	DET	ovaj
+mudra	ADJ	mudar
+,	PUNCT	,
+stara	ADJ	star
+žena	NOUN	žena
+,	PUNCT	,
+imaše	VERB	imati
+običaj	NOUN	običaj
+reći	VERB	reći
+:	PUNCT	:
+</s>
+<s>
+—	PUNCT	—
+Deco	NOUN	deca
+!	PUNCT	!
+deco	NOUN	deca
+!	PUNCT	!
+</s>
+<s>
+Šta	ADV	Šta
+li	PART	li
+će	AUX	hteti
+najposle	ADV	najposle
+biti	AUX	biti
+od	ADP	od
+vas	PRON	vi
+?	PUNCT	?
+</s>
+<s>
+Vi	PRON	vi
+trošite	VERB	trošiti
+više	ADV	više
+nego	CCONJ	nego
+što	SCONJ	što
+zarađujete	VERB	zarađivati
+.	PUNCT	.
+</s>
+<s>
+Da	SCONJ	da
+su	AUX	jesam
+stariji	ADJ	star
+vaši	DET	vaš
+tako	ADV	tako
+radili	VERB	raditi
+,	PUNCT	,
+zlo	ADV	zlo
+i	CCONJ	i
+naopako	ADV	naopako
+!	PUNCT	!
+</s>
+<s>
+Deco	NOUN	deca
+moja	DET	moj
+!	PUNCT	!
+čuvajte	VERB	čuvati
+te	DET	taj
+bele	ADJ	beo
+pare	NOUN	para
+za	ADP	za
+crne	ADJ	crn
+dane	NOUN	dan
+!	PUNCT	!
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+«	PUNCT	«
+Jednom	ADV	jednom
+ja	PRON	ja
+obiskoh	VERB	obiskoh
+oko	ADP	oko
+babe	NOUN	baba
+za	ADP	za
+deset	NUM	deset
+para	NOUN	para
+.	PUNCT	.
+</s>
+<s>
+Baka	PROPN	Bak
+se	PART	se
+diže	VERB	dignuti
+i	CCONJ	i
+odseče	VERB	odseći
+lepu	ADJ	lep
+krišku	NOUN	kriška
+hleba	NOUN	hleb
+,	PUNCT	,
+i	CCONJ	i
+pruži	VERB	pružiti
+mi	PRON	ja
+je	AUX	jesam
+.	PUNCT	.
+</s>
+<s>
+Ja	PRON	ja
+tresnem	VERB	tresnuti
+baku	NOUN	baka
+po	ADP	po
+ruci	NOUN	ruka
+,	PUNCT	,
+a	CCONJ	a
+kriška	NOUN	kriška
+pade	VERB	pasti
+na	ADP	na
+zemlju	NOUN	zemlja
+.	PUNCT	.
+</s>
+<s>
+Starica	NOUN	starica
+se	PART	se
+saže	VERB	sagnuti
+,	PUNCT	,
+uze	VERB	uziti
+sa	ADP	sa
+zemlje	NOUN	zemlja
+krišku	NOUN	kriška
+,	PUNCT	,
+otrese	VERB	otresti
+je	AUX	jesam
+,	PUNCT	,
+poljubi	VERB	poljubiti
+,	PUNCT	,
+i	CCONJ	i
+reče	VERB	reći
+—	PUNCT	—
+</s>
+<s>
+—	PUNCT	—
+Ne	PART	ne
+dao	VERB	dati
+ti	DET	taj
+Bog	NOUN	bog
+poželeti	VERB	poželeti
+ga	ADV	ga
+!	PUNCT	!
+</s>
+<s>
+Ali	CCONJ	ali
+kako	SCONJ	kako
+radiš	VERB	raditi
+,	PUNCT	,
+moj	DET	moj
+Rijo	PROPN	Rija
+,	PUNCT	,
+to	DET	taj
+ćeš	AUX	hteti
+dočekati	VERB	dočekati
+.	PUNCT	.
+</s>
+<s>
+«	PUNCT	«
+Tada	ADV	tada
+mi	PRON	ja
+dođe	VERB	doći
+da	SCONJ	da
+se	PART	se
+pokajem	VERB	pokajati
+što	SCONJ	što
+sam	AUX	jesam
+učinio	VERB	učiniti
+;	PUNCT	;
+ali	CCONJ	ali
+to	DET	taj
+osećanje	NOUN	osećanje
+traja	VERB	trajati
+za	ADP	za
+malo	ADV	malo
+.	PUNCT	.
+</s>
+<s>
+Sutra	ADV	sutra
+dan	NOUN	dan
+sam	AUX	jesam
+opet	ADV	opet
+lupao	VERB	lupati
+i	CCONJ	i
+vikao	VERB	vikati
+za	ADP	za
+deset	NUM	deset
+para	NOUN	para
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+«	PUNCT	«
+Kad	SCONJ	kad
+mi	PRON	ja
+otac	NOUN	otac
+umre	VERB	umreti
+,	PUNCT	,
+sve	ADV	sve
+se	PART	se
+izmeni	VERB	izmeniti
+.	PUNCT	.
+</s>
+<s>
+Naša	ADV	Naša
+se	PART	se
+kuća	NOUN	kuća
+morade	VERB	morati
+dobro	ADV	dobro
+stegnuti	VERB	stegnuti
+da	SCONJ	da
+sastavi	VERB	sastaviti
+kraj	NOUN	kraj
+s	ADP	s
+krajem	NOUN	kraj
+.	PUNCT	.
+</s>
+<s>
+Majka	NOUN	majka
+je	AUX	jesam
+još	PART	još
+morala	VERB	morati
+misliti	VERB	misliti
+o	ADP	o
+udaji	NOUN	udaja
+sestara	NOUN	sestra
+mojih	DET	moj
+,	PUNCT	,
+a	CCONJ	a
+ja	PRON	ja
+mišljah	VERB	misliti
+samo	PART	samo
+o	ADP	o
+sebi	PRON	sebe
+,	PUNCT	,
+o	ADP	o
+svojim	DET	svoj
+zadovoljstvima	NOUN	zadovoljstvo
+.	PUNCT	.
+</s>
+<s>
+Ne	PART	ne
+mogući	VERB	moći
+dobijati	VERB	dobijati
+od	ADP	od
+matere	NOUN	mati
+ni	CCONJ	ni
+onoliko	ADV	onoliko
+koliko	ADV	koliko
+sam	AUX	jesam
+dobijao	VERB	dobijati
+za	ADP	za
+očina	ADJ	očin
+života	NOUN	život
+,	PUNCT	,
+ja	PRON	ja
+se	PART	se
+počeh	VERB	početi
+brinuti	VERB	brinuti
+o	ADP	o
+sebi	PRON	sebe
+na	ADP	na
+drugi	ADJ	drugi
+način	NOUN	način
+.	PUNCT	.
+</s>
+<s>
+Iza	ADP	iza
+oca	NOUN	otac
+osta	VERB	ostati
+dućan	NOUN	dućan
+,	PUNCT	,
+pun	ADJ	pun
+svakojake	ADJ	svakojak
+robe	NOUN	roba
+od	ADP	od
+koje	DET	koji
+sam	AUX	jesam
+ja	PRON	ja
+,	PUNCT	,
+u	ADP	u
+društvu	NOUN	društvo
+s	ADP	s
+kalfama	NOUN	kalfa
+,	PUNCT	,
+parče	NOUN	parac
+po	ADP	po
+parče	NOUN	parac
+,	PUNCT	,
+upućivao	VERB	upućivati
+te	PRON	ti
+se	PART	se
+tako	ADV	tako
+troškario	VERB	troškariti
+.	PUNCT	.
+</s>
+<s>
+«	PUNCT	«
+U	ADP	u
+to	DET	taj
+doba	NOUN	doba
+već	PART	već
+sam	AUX	jesam
+znao	VERB	znati
+i	CCONJ	i
+zadužiti	VERB	zadužiti
+se	PART	se
+.	PUNCT	.
+</s>
+<s>
+«	PUNCT	«
+Kad	SCONJ	kad
+u	ADP	u
+jednoga	NUM	jedan
+poznanika	NOUN	poznanik
+uzajmim	VERB	uzajmiti
+,	PUNCT	,
+ja	PRON	ja
+se	PART	se
+kunem	VERB	kleti
+i	CCONJ	i
+zaričem	VERB	zaricati
+,	PUNCT	,
+da	SCONJ	da
+ću	AUX	hteti
+vratiti	VERB	vratiti
+na	ADP	na
+vreme	NOUN	vreme
+;	PUNCT	;
+kad	SCONJ	kad
+pak	PART	pak
+rok	NOUN	rok
+dođe	VERB	doći
+(	PUNCT	(
+a	CCONJ	a
+rokovi	NOUN	rok
+dolaze	VERB	dolaziti
+brže	ADV	brže
+nego	CCONJ	nego
+išta	PRON	išta
+drugo	ADV	drugo
+)	PUNCT	)
+,	PUNCT	,
+onda	ADV	onda
+krivim	VERB	kriviti
+svakoga	PRON	svako
+pre	ADV	pre
+nego	CCONJ	nego
+sebe	PRON	sebe
+.	PUNCT	.
+</s>
+<s>
+Tad	ADV	tad
+moram	VERB	morati
+moliti	VERB	moliti
+drugoga	ADJ	drugi
+.	PUNCT	.
+</s>
+<s>
+Tako	ADV	tako
+su	AUX	jesam
+se	PART	se
+svaki	DET	svaki
+dan	NOUN	dan
+množili	VERB	množiti
+moji	DET	moj
+poverioci	NOUN	poverilac
+i	CCONJ	i
+rasli	VERB	rasti
+moji	DET	moj
+sitni	ADJ	sitan
+dugovi	NOUN	dug
+.	PUNCT	.
+</s>
+<s>
+«	PUNCT	«
+Na	ADP	na
+takav	DET	takav
+način	NOUN	način
+,	PUNCT	,
+ja	PRON	ja
+sam	AUX	jesam
+još	ADV	još
+za	ADP	za
+svoga	DET	svoj
+školovanja	NOUN	školovanje
+,	PUNCT	,
+spiskao	VERB	spiskati
+sve	PART	sve
+što	SCONJ	što
+mi	PRON	ja
+je	AUX	jesam
+od	ADP	od
+oca	NOUN	otac
+ostalo	VERB	ostati
+.	PUNCT	.
+</s>
+<s>
+Po	ADP	po
+nesreći	NOUN	nesreća
+otac	NOUN	otac
+mi	PRON	ja
+je	AUX	jesam
+umr'o	VERB	umr'o
+bez	ADP	bez
+testamenta	NOUN	testament
+,	PUNCT	,
+te	DET	taj
+sestrama	NOUN	sestra
+,	PUNCT	,
+osim	ADP	osim
+udaje	NOUN	udaja
+,	PUNCT	,
+nije	AUX	jesam
+pripalo	VERB	pripasti
+ništa	PRON	ništa
+u	ADP	u
+nasledstvo	NOUN	nasledstvo
+.	PUNCT	.
+</s>
+<s>
+One	DET	onaj
+su	AUX	jesam
+razudate	VERB	razudati
+sirotinjski	ADJ	sirotinjski
+.	PUNCT	.
+</s>
+<s>
+Majka	NOUN	majka
+mi	PRON	ja
+umre	VERB	umreti
+više	ADV	više
+od	ADP	od
+tuge	NOUN	tuga
+nego	CCONJ	nego
+od	ADP	od
+starosti	NOUN	starosta
+.	PUNCT	.
+</s>
+<s>
+Ja	PRON	ja
+ostah	VERB	ostati
+sam	AUX	jesam
+u	ADP	u
+svetu	NOUN	svet
+s	ADP	s
+nebrojenim	ADJ	nebrojen
+požudama	NOUN	požuda
+za	ADP	za
+uživanja	NOUN	uživanje
+,	PUNCT	,
+a	CCONJ	a
+s	ADP	s
+malo	ADV	malo
+ili	CCONJ	ili
+ni	PART	ni
+malo	ADV	malo
+snage	NOUN	snaga
+da	SCONJ	da
+što	PRON	što
+privredim	VERB	privrediti
+.	PUNCT	.
+</s>
+<s>
+«	PUNCT	«
+Tad	ADV	tad
+sam	AUX	jesam
+već	PART	već
+bio	AUX	biti
+mladić	NOUN	mladić
+.	PUNCT	.
+</s>
+<s>
+U	ADP	u
+službi	NOUN	služba
+sam	AUX	jesam
+imao	VERB	imati
+lepo	ADJ	lep
+mesto	NOUN	mesto
+.	PUNCT	.
+</s>
+<s>
+Kako	SCONJ	kako
+sam	AUX	jesam
+ja	PRON	ja
+od	ADP	od
+onih	DET	onaj
+ljudi	NOUN	ljudi
+koji	DET	koji
+mare	VERB	mariti
+samo	PART	samo
+za	ADP	za
+sebe	PRON	sebe
+,	PUNCT	,
+tako	ADV	tako
+se	PART	se
+nikad	ADV	nikad
+nisam	AUX	jesam
+ni	PART	ni
+zanosio	VERB	zanositi
+za	ADP	za
+kojekakvim	DET	kojekakav
+utopijama	NOUN	utopija
+.	PUNCT	.
+</s>
+<s>
+S	ADP	s
+toga	DET	taj
+su	AUX	jesam
+me	PRON	ja
+starešine	NOUN	starešina
+milovale	VERB	milovati
+,	PUNCT	,
+i	CCONJ	i
+smatrale	VERB	smatrati
+kao	ADV	kao
+mladića	NOUN	mladić
+«	PUNCT	«
+solidna	ADJ	solidan
+.	PUNCT	.
+»	PUNCT	»
+</s>
+<s>
+Znalo	VERB	znati
+se	PART	se
+da	SCONJ	da
+sam	AUX	jesam
+ja	PRON	ja
+bio	AUX	biti
+«	PUNCT	«
+masadžija	NOUN	masadžija
+,	PUNCT	,
+«	PUNCT	«
+tojest	NOUN	tojest
+,	PUNCT	,
+naslednik	NOUN	naslednik
+bogata	ADJ	bogat
+oca	NOUN	otac
+,	PUNCT	,
+ali	CCONJ	ali
+se	PART	se
+nije	AUX	jesam
+znalo	VERB	znati
+da	SCONJ	da
+sam	AUX	jesam
+ja	PRON	ja
+svoje	DET	svoj
+nasledstvo	NOUN	nasledstvo
+uputio	VERB	uputiti
+davno	ADV	davno
+.	PUNCT	.
+</s>
+<s>
+Za	ADP	za
+to	DET	taj
+se	PART	se
+očekivalo	VERB	očekivati
+od	ADP	od
+mene	PRON	ja
+u	ADP	u
+svakoj	DET	svaki
+prilici	NOUN	prilika
+da	SCONJ	da
+sam	AUX	jesam
+duže	ADJ	dug
+ruke	NOUN	ruka
+.	PUNCT	.
+</s>
+<s>
+I	CCONJ	i
+ja	PRON	ja
+sam	AUX	jesam
+se	PART	se
+upinjao	VERB	upinjati
+da	SCONJ	da
+to	DET	taj
+budem	AUX	biti
+:	PUNCT	:
+odevao	VERB	odevati
+sam	AUX	jesam
+se	PART	se
+lepo	ADV	lepo
+,	PUNCT	,
+živeo	VERB	živeti
+sam	AUX	jesam
+gospodski	ADJ	gospodski
+,	PUNCT	,
+provodio	VERB	provoditi
+se	PART	se
+bogataški	ADJ	bogataški
+,	PUNCT	,
+a	CCONJ	a
+platu	NOUN	plata
+primao	VERB	primati
+malu	ADJ	mali
+.	PUNCT	.
+</s>
+<s>
+«	PUNCT	«
+Da	SCONJ	da
+pišem	VERB	pisati
+godinu	NOUN	godina
+dana	NOUN	dan
+,	PUNCT	,
+ne	PART	ne
+bih	AUX	biti
+ispisao	VERB	ispisati
+sva	DET	sav
+svoja	DET	svoj
+dovijanja	NOUN	dovijanje
+da	SCONJ	da
+dođem	VERB	doći
+do	ADP	do
+novaca	NOUN	novac
+,	PUNCT	,
+i	CCONJ	i
+one	DET	onaj
+jade	NOUN	jad
+koje	DET	koji
+sam	AUX	jesam
+jadio	VERB	jaditi
+baš	PART	baš
+s	ADP	s
+tih	DET	taj
+prokletih	ADJ	proklet
+novaca	NOUN	novac
+!	PUNCT	!
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+«	PUNCT	«
+U	ADP	u
+društvu	NOUN	društvo
+s	ADP	s
+ljudma	NOUN	ljudi
+,	PUNCT	,
+kao	CCONJ	kao
+što	SCONJ	što
+bejah	AUX	biti
+i	PART	i
+sam	AUX	jesam
+,	PUNCT	,
+naučih	VERB	naučiti
+se	PART	se
+kartati	VERB	kartati
+.	PUNCT	.
+</s>
+<s>
+Ta	DET	taj
+me	PRON	ja
+igra	VERB	igrati
+zauze	VERB	zauzeti
+svega	ADV	svega
+.	PUNCT	.
+</s>
+<s>
+U	ADP	u
+početku	NOUN	početak
+me	PRON	ja
+sreća	NOUN	sreća
+posluži	VERB	poslužiti
+neobično	ADV	neobično
+dobro	ADV	dobro
+.	PUNCT	.
+</s>
+<s>
+U	ADP	u
+to	DET	taj
+vreme	NOUN	vreme
+dobih	VERB	dobiti
+mesto	ADP	mesto
+blagajnika	NOUN	blagajnik
+.	PUNCT	.
+</s>
+<s>
+U	ADP	u
+moje	DET	moj
+ruke	NOUN	ruka
+dođe	VERB	doći
+ključ	NOUN	ključ
+od	ADP	od
+kase	NOUN	kasa
+u	ADP	u
+kojoj	DET	koji
+svakad	ADV	svakad
+ima	VERB	imati
+dovoljno	ADV	dovoljno
+novaca	NOUN	novac
+.	PUNCT	.
+</s>
+<s>
+Jednom	NUM	jedan
+,	PUNCT	,
+u	ADP	u
+nesreći	NOUN	nesreća
+,	PUNCT	,
+da	SCONJ	da
+popravim	VERB	popraviti
+svoje	DET	svoj
+gubitke	NOUN	gubitak
+,	PUNCT	,
+ja	PRON	ja
+se	PART	se
+mašim	VERB	mašiti
+rukom	NOUN	ruka
+za	ADP	za
+novac	NOUN	novac
+tuđ	ADJ	tuđ
+koji	DET	koji
+stojaše	VERB	stojati
+pod	ADP	pod
+</s>
+<s>
+mojom	DET	moj
+upravom	NOUN	uprava
+.	PUNCT	.
+</s>
+<s>
+Od	ADP	od
+toga	DET	taj
+doba	NOUN	doba
+uzimao	VERB	uzimati
+sam	AUX	jesam
+ga	ADV	ga
+svakad	ADV	svakad
+kad	SCONJ	kad
+mi	PRON	ja
+je	AUX	jesam
+bila	AUX	biti
+nevolja	NOUN	nevolja
+u	ADP	u
+kartanju	NOUN	kartanje
+.	PUNCT	.
+</s>
+<s>
+Nekad	ADV	nekad
+sam	AUX	jesam
+,	PUNCT	,
+dobivši	VERB	dobiti
+dosta	ADV	dosta
+,	PUNCT	,
+vraćao	VERB	vraćati
+što	SCONJ	što
+sam	AUX	jesam
+bio	AUX	biti
+uzeo	VERB	uzeti
+;	PUNCT	;
+ali	CCONJ	ali
+se	PART	se
+događalo	VERB	događati
+da	SCONJ	da
+češće	ADV	češće
+uzimam	VERB	uzimati
+poveće	ADJ	poveće
+sume	NOUN	suma
+,	PUNCT	,
+a	CCONJ	a
+ređe	ADV	ređe
+vraćam	VERB	vraćati
+i	CCONJ	i
+po	ADP	po
+manje	ADV	manje
+sumice	NOUN	sumica
+.	PUNCT	.
+</s>
+<s>
+Da	SCONJ	da
+se	PART	se
+ta	DET	taj
+zloupotreba	NOUN	zloupotreba
+ne	PART	ne
+propta	VERB	proptati
+,	PUNCT	,
+izumevao	VERB	izumevati
+sam	AUX	jesam
+nečuvene	ADJ	nečuven
+majstorije	NOUN	majstorija
+,	PUNCT	,
+te	DET	taj
+sam	AUX	jesam
+tako	ADV	tako
+prikrivao	VERB	prikrivati
+stanje	NOUN	stanje
+svoje	DET	svoj
+kase	NOUN	kasa
+.	PUNCT	.
+</s>
+<s>
+Pri	ADP	pri
+svem	DET	sav
+tom	DET	taj
+zebao	VERB	zepsti
+sam	AUX	jesam
+i	CCONJ	i
+dan	NOUN	dan
+i	CCONJ	i
+noć	NOUN	noć
+da	SCONJ	da
+se	PART	se
+stvar	NOUN	stvar
+ne	PART	ne
+otkrije	VERB	otkriti
+.	PUNCT	.
+</s>
+<s>
+«	PUNCT	«
+Da	SCONJ	da
+bi	AUX	biti
+se	PART	se
+dočepao	VERB	dočepati
+novaca	NOUN	novac
+,	PUNCT	,
+božem	ADV	božem
+da	SCONJ	da
+podmirim	VERB	podmiriti
+kasu	NOUN	kasa
+,	PUNCT	,
+naumim	VERB	naumiti
+da	SCONJ	da
+se	PART	se
+oženim	VERB	oženiti
+.	PUNCT	.
+</s>
+<s>
+U	ADP	u
+volji	NOUN	volja
+mi	PRON	ja
+beše	AUX	biti
+devojčica	NOUN	devojčica
+Julka	PROPN	Julka
+,	PUNCT	,
+ali	CCONJ	ali
+ona	PRON	ona
+nema	VERB	nemati
+novaca	NOUN	novac
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+Ponudiše	VERB	Ponudiše
+mi	PRON	ja
+Zorku	PROPN	Zorka
+,	PUNCT	,
+devojku	NOUN	devojka
+bogatu	ADJ	bogat
+i	CCONJ	i
+od	ADP	od
+jake	ADJ	jak
+vamilije	NOUN	vamilija
+.	PUNCT	.
+</s>
+<s>
+Ja	PRON	ja
+,	PUNCT	,
+u	ADP	u
+svojim	DET	svoj
+neprilikama	NOUN	neprilika
+,	PUNCT	,
+za	ADP	za
+drugo	ADJ	drugi
+i	CCONJ	i
+ne	PART	ne
+pitah	VERB	pitati
+.	PUNCT	.
+</s>
+<s>
+Pristah	VERB	pristati
+,	PUNCT	,
+isprosih	VERB	isprositi
+,	PUNCT	,
+i	CCONJ	i
+mišljah	VERB	misliti
+zaklonio	VERB	zakloniti
+sam	AUX	jesam
+se	PART	se
+bar	PART	bar
+ze	VERB	ze
+neko	DET	neki
+vreme	NOUN	vreme
+.	PUNCT	.
+</s>
+<s>
+Ali	CCONJ	ali
+usred	ADP	usred
+tih	DET	taj
+mojih	DET	moj
+nada	NOUN	nada
+i	CCONJ	i
+planova	NOUN	plan
+,	PUNCT	,
+traganje	NOUN	traganje
+po	ADP	po
+mojim	DET	moj
+udešenim	ADJ	udešen
+priznanicama	NOUN	priznanica
+obelodani	VERB	obelodaniti
+moje	DET	moj
+krađe	NOUN	krađa
+,	PUNCT	,
+i	CCONJ	i
+mene	PRON	ja
+dovede	VERB	dovesti
+evo	PART	evo
+ovde	ADV	ovde
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+«	PUNCT	«
+Sad	ADV	sad
+čekam	VERB	čekati
+šta	PRON	šta
+će	AUX	hteti
+mi	PRON	ja
+doneti	VERB	doneti
+sutrašnji	ADJ	sutrašnji
+dan	NOUN	dan
+.	PUNCT	.
+</s>
+<s>
+Oh	INTJ	oh
+!	PUNCT	!
+prokleto	VERB	prokleti
+ono	PRON	ono
+prvo	ADV	prvo
+deset	NUM	deset
+para	NOUN	para
+!	PUNCT	!
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+Ono	PRON	ono
+me	PRON	ja
+je	AUX	jesam
+vodilo	VERB	voditi
+od	ADP	od
+slasti	NOUN	slast
+u	ADP	u
+slast	NOUN	slast
+;	PUNCT	;
+od	ADP	od
+pogreške	NOUN	pogreška
+u	ADP	u
+pogrešku	NOUN	pogreška
+,	PUNCT	,
+dokle	SCONJ	dokle
+me	PRON	ja
+ne	PART	ne
+zatvori	VERB	zatvoriti
+u	ADP	u
+tamnicu	NOUN	tamnica
+!	PUNCT	!
+</s>
+<s>
+I	CCONJ	i
+ko	PRON	ko
+zna	VERB	znati
+kuda	CCONJ	kuda
+me	PRON	ja
+ono	PRON	ono
+još	ADV	još
+ne	PART	ne
+će	AUX	hteti
+odvesti	VERB	odvesti
+?	PUNCT	?
+!	PUNCT	!
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+«	PUNCT	«
+Prokleto	VERB	prokleti
+deset	NUM	deset
+para	NOUN	para
+!	PUNCT	!
+</s>
+IX	NUM	IX
+Otadžbina	NOUN	Otadžbina
+.	PUNCT	.
+Nema	ADJ	nem
+reči	NOUN	reč
+ni	CCONJ	ni
+veće	NOUN	veće
+,	PUNCT	,
+ni	CCONJ	ni
+svetije	ADJ	svet
+,	PUNCT	,
+ni	CCONJ	ni
+milije	ADV	milije
+,	PUNCT	,
+nego	CCONJ	nego
+što	SCONJ	što
+je	AUX	jesam
+reč	NOUN	reč
+—	PUNCT	—
+Otadžbina	PROPN	Otadžbina
+!	PUNCT	!
+.	PUNCT	.
+.	PUNCT	.
+<s>
+Uzdah	NOUN	uzdah
+izgnanika	NOUN	izgnanik
+.	PUNCT	.
+</s>
+<s>
+Prvih	ADJ	prvi
+dana	NOUN	dan
+meseca	NOUN	mesec
+Jula	PROPN	Jula
+1876	NUM	@card@
+srpska	ADJ	srpski
+vojska	NOUN	vojska
+beše	AUX	biti
+prešla	VERB	preći
+Drinu	PROPN	Drina
+na	ADP	na
+Badovincima	PROPN	Badovinci
+,	PUNCT	,
+i	CCONJ	i
+udarila	VERB	udariti
+na	ADP	na
+Bijeljinu	PROPN	Bijeljina
+.	PUNCT	.
+</s>
+<s>
+Ne	PART	ne
+mogavši	VERB	moći
+odmah	ADV	odmah
+osvojiti	VERB	osvojiti
+toga	DET	taj
+mesta	NOUN	mesto
+ona	PRON	ona
+se	PART	se
+utvrdi	VERB	utvrditi
+u	ADP	u
+okolini	NOUN	okolina
+,	PUNCT	,
+gde	SCONJ	gde
+se	PART	se
+tada	ADV	tada
+otpoče	VERB	otpočeti
+niz	ADP	niz
+onih	DET	onaj
+krvavih	ADJ	krvav
+bojeva	NOUN	boj
+koji	DET	koji
+stadoše	VERB	stati
+tolikih	DET	toliki
+žrtava	NOUN	žrtva
+,	PUNCT	,
+a	CCONJ	a
+svršiše	VERB	svršiti
+se	PART	se
+našim	DET	naš
+povratkom	NOUN	povratak
+na	ADP	na
+desnu	ADJ	desni
+drinsku	ADJ	drinski
+obalu	NOUN	obala
+.	PUNCT	.
+</s>
+<s>
+8	NUM	@card@
+Jula	PROPN	Jula
+,	PUNCT	,
+još	ADV	još
+od	ADP	od
+9	NUM	@card@
+sata	NOUN	sat
+iz	ADP	iz
+jutra	NOUN	jutro
+,	PUNCT	,
+započe	VERB	započeti
+se	PART	se
+krvav	ADJ	krvav
+boj	VERB	bojiti
+između	ADP	između
+Srba	PROPN	Srbin
+i	CCONJ	i
+Turaka	PROPN	Turčin
+,	PUNCT	,
+i	CCONJ	i
+traja	VERB	trajati
+do	ADP	do
+3	NUM	@card@
+sata	NOUN	sat
+posle	ADV	posle
+po	ADP	po
+dne	NOUN	dan
+.	PUNCT	.
+</s>
+<s>
+Pred	ADP	pred
+samu	DET	sam
+noć	NOUN	noć
+u	ADP	u
+badovinačku	ADJ	badovinački
+bolnicu	NOUN	bolnica
+,	PUNCT	,
+među	ADP	među
+teškim	ADJ	težak
+ranjenicima	NOUN	ranjenik
+,	PUNCT	,
+doneše	VERB	doneti
+bolničari	NOUN	bolničar
+jednoga	NUM	jedan
+dobrovoljca	NOUN	dobrovoljac
+koga	DET	koji
+je	AUX	jesam
+olovo	NOUN	olovo
+udarilo	VERB	udariti
+povrh	ADP	povrh
+leve	ADJ	levi
+sise	NOUN	sisa
+i	CCONJ	i
+izbilo	VERB	izbiti
+na	ADP	na
+plećku	NOUN	plećka
+.	PUNCT	.
+</s>
+<s>
+Spreda	ADV	spreda
+mu	PRON	on
+je	AUX	jesam
+rana	NOUN	rana
+mala	ADJ	mali
+a	CCONJ	a
+na	ADP	na
+plećki	NOUN	plećka
+se	PART	se
+rascvetala	VERB	rascvetati
+kao	CCONJ	kao
+da	SCONJ	da
+je	AUX	jesam
+kroz	ADP	kroz
+nju	PRON	ona
+granata	NOUN	granata
+projurila	VERB	projuriti
+.	PUNCT	.
+</s>
+<s>
+Kad	SCONJ	kad
+ranjenik	NOUN	ranjenik
+diše	VERB	disati
+,	PUNCT	,
+onda	SCONJ	onda
+mu	PRON	on
+na	ADP	na
+onu	DET	onaj
+ranu	NOUN	rana
+na	ADP	na
+plećki	NOUN	plećka
+izbijaju	VERB	izbijati
+klobuci	NOUN	klobuk
+od	ADP	od
+sukrvice	NOUN	sukrvica
+i	CCONJ	i
+od	ADP	od
+neke	DET	neki
+pene	NOUN	pena
+kao	CCONJ	kao
+mehuri	NOUN	mehur
+od	ADP	od
+sapuna	NOUN	sapun
+.	PUNCT	.
+</s>
+<s>
+Videći	VERB	Videći
+tako	ADV	tako
+junačku	ADJ	junački
+ranu	NOUN	rana
+,	PUNCT	,
+lekar	NOUN	lekar
+s	ADP	s
+nekim	DET	neki
+poštovanjem	NOUN	poštovanje
+upita	VERB	upitati
+ranjenika	NOUN	ranjenik
+kako	SCONJ	kako
+mu	PRON	on
+je	AUX	jesam
+ime	NOUN	ime
+.	PUNCT	.
+</s>
+<s>
+Ranjenik	NOUN	ranjenik
+zažmuri	VERB	zažmuriti
+,	PUNCT	,
+namršti	VERB	namrštiti
+se	PART	se
+,	PUNCT	,
+i	CCONJ	i
+učini	VERB	učiniti
+se	PART	se
+nečuo	ADJ	nečuo
+.	PUNCT	.
+</s>
+<s>
+Za	ADP	za
+tim	DET	taj
+veoma	ADV	veoma
+iznemoglim	ADJ	iznemogao
+glasom	NOUN	glas
+upita	VERB	upitati
+:	PUNCT	:
+</s>
+<s>
+—	PUNCT	—
+Gospodine	NOUN	gospodin
+!	PUNCT	!
+</s>
+<s>
+Hoću	ADV	Hoću
+li	PART	li
+ja	PRON	ja
+skoro	ADV	skoro
+umreti	VERB	umreti
+?	PUNCT	?
+</s>
+<s>
+—	PUNCT	—
+Ne	PART	ne
+boj	VERB	bojiti
+se	PART	se
+,	PUNCT	,
+junače	NOUN	junak
+,	PUNCT	,
+odgovori	VERB	odgovoriti
+lekar	NOUN	lekar
+:	PUNCT	:
+—	PUNCT	—
+rana	NOUN	rana
+jeste	AUX	jesam
+velika	ADJ	velik
+,	PUNCT	,
+ali	CCONJ	ali
+ne	PART	ne
+mora	VERB	morati
+biti	AUX	biti
+samrtna	ADJ	samrtan
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Ne	PART	ne
+bojim	VERB	bojiti
+se	PART	se
+ja	PRON	ja
+smrti	NOUN	smrt
+,	PUNCT	,
+gospodine	NOUN	gospodin
+;	PUNCT	;
+nego	CCONJ	nego
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+nego	CCONJ	nego
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+Slabačko	ADV	Slabačko
+zatrese	VERB	zatresti
+glavom	NOUN	glava
+;	PUNCT	;
+zažmuri	VERB	zažmuriti
+,	PUNCT	,
+i	CCONJ	i
+umuče	VERB	umuknuti
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Da	SCONJ	da
+se	PART	se
+udale	VERB	udati
+ovi	DET	ovaj
+odavde	ADV	odavde
+,	PUNCT	,
+ako	SCONJ	ako
+imaš	VERB	imati
+što	SCONJ	što
+tajno	ADV	tajno
+da	SCONJ	da
+kažeš	VERB	kazati
+?	PUNCT	?
+reći	VERB	reći
+će	AUX	hteti
+mu	PRON	on
+lekar	NOUN	lekar
+.	PUNCT	.
+</s>
+<s>
+-	PUNCT	-
+Ne	PART	ne
+mari	VERB	mariti
+!	PUNCT	!
+</s>
+<s>
+Sad	ADV	sad
+mogu	VERB	moći
+čuti	VERB	čuti
+svi	DET	sav
+!	PUNCT	!
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+Prokleto	VERB	prokleti
+deset	NUM	deset
+para	NOUN	para
+!	PUNCT	!
+</s>
+<s>
+—	PUNCT	—
+Već	ADJ	Već
+delirium	NOUN	delirium
+!	PUNCT	!
+reče	VERB	reći
+jedan	NUM	jedan
+lekarski	ADJ	lekarski
+pomoćnik	NOUN	pomoćnik
+.	PUNCT	.
+</s>
+<s>
+Ranjenik	NOUN	ranjenik
+čuvši	VERB	čuti
+to	DET	taj
+,	PUNCT	,
+pogleda	VERB	pogledati
+ga	ADV	ga
+značajno	ADV	značajno
+.	PUNCT	.
+</s>
+<s>
+Bolničari	NOUN	Bolničari
+,	PUNCT	,
+bolničarke	NOUN	bolničarka
+,	PUNCT	,
+i	CCONJ	i
+sami	DET	sam
+služitelji	NOUN	služitelj
+,	PUNCT	,
+nehotice	ADV	nehotice
+se	PART	se
+prikupiše	VERB	prikupiti
+oko	ADP	oko
+postelje	NOUN	postelja
+njegove	DET	njegov
+.	PUNCT	.
+</s>
+<s>
+Sve	ADV	sve
+se	PART	se
+utiša	VERB	utišati
+.	PUNCT	.
+</s>
+<s>
+On	PRON	on
+pribra	VERB	pribrati
+malo	ADV	malo
+snage	NOUN	snaga
+,	PUNCT	,
+pa	CCONJ	pa
+poče	VERB	početi
+ovako	ADV	ovako
+:	PUNCT	:
+</s>
+<s>
+—	PUNCT	—
+Za	ADP	za
+ime	NOUN	ime
+moje	DET	moj
+ne	PART	ne
+pitajte	VERB	pitati
+!	PUNCT	!
+</s>
+<s>
+Ono	PRON	ono
+vam	PRON	vi
+ne	PART	ne
+treba	VERB	trebati
+.	PUNCT	.
+</s>
+<s>
+Nego	CCONJ	nego
+znajte	VERB	znati
+da	SCONJ	da
+sam	AUX	jesam
+rođen	VERB	roditi
+u	ADP	u
+ovoj	DET	ovaj
+zemlji	NOUN	zemlja
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+Sa	ADP	sa
+zle	ADJ	zao
+uprave	NOUN	uprava
+srca	NOUN	srce
+svoga	DET	svoj
+,	PUNCT	,
+padah	VERB	padati
+iz	ADP	iz
+pogreške	NOUN	pogreška
+u	ADP	u
+pogrešku	NOUN	pogreška
+.	PUNCT	.
+</s>
+<s>
+Na	ADP	na
+posletku	NOUN	posledak
+učinih	VERB	učiniti
+ono	PRON	ono
+za	ADP	za
+što	SCONJ	što
+me	PRON	ja
+čekaše	VERB	čekati
+robija	NOUN	robija
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+Tada	ADV	tada
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+pobegoh	VERB	pobeći
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+Tumarih	VERB	tumariti
+u	ADP	u
+tuđ	ADJ	tuđ
+svet	NOUN	svet
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+Uh	INTJ	uh
+!	PUNCT	!
+prokleto	VERB	prokleti
+deset	NUM	deset
+para	NOUN	para
+!	PUNCT	!
+</s>
+<s>
+Ranjenik	NOUN	ranjenik
+umuknu	VERB	umuknuti
+,	PUNCT	,
+zažmuri	VERB	zažmuriti
+;	PUNCT	;
+posle	ADP	posle
+malog	ADJ	mali
+odmora	NOUN	odmor
+,	PUNCT	,
+nastavi	VERB	nastaviti
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+«	PUNCT	«
+Prebijah	VERB	prebijati
+se	PART	se
+od	ADP	od
+nemila	ADJ	nemio
+do	ADP	do
+nedraga	ADJ	nedrag
+:	PUNCT	:
+svuda	ADV	svuda
+bejah	AUX	biti
+tuđ	ADJ	tuđ
+,	PUNCT	,
+svuda	ADV	svuda
+neznan	ADJ	neznan
+,	PUNCT	,
+svuda	ADV	svuda
+nemio	ADJ	nemio
+,	PUNCT	,
+svuda	ADV	svuda
+mučen	VERB	mučiti
+,	PUNCT	,
+—	PUNCT	—
+već	PART	već
+omrzoh	VERB	omrznuti
+sam	AUX	jesam
+na	ADP	na
+sebe	PRON	sebe
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+Kad	SCONJ	kad
+čuh	VERB	čuti
+da	SCONJ	da
+Srbija	PROPN	Srbija
+zavojšti	VERB	zavojštiti
+na	ADP	na
+Turke	PROPN	Turčin
+,	PUNCT	,
+pođoh	VERB	poći
+i	CCONJ	i
+ja	PRON	ja
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+da	SCONJ	da
+se	PART	se
+bijem	VERB	biti
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+Nisam	AUX	jesam
+vojnik	NOUN	vojnik
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+čak	PART	čak
+sam	AUX	jesam
+čovek	NOUN	čovek
+strašljiv	ADJ	strašljiv
+;	PUNCT	;
+ali	CCONJ	ali
+je	AUX	jesam
+tuga	NOUN	tuga
+u	ADP	u
+tuđini	NOUN	tuđina
+teža	ADJ	težak
+od	ADP	od
+svake	DET	svaki
+muke	NOUN	muka
+u	ADP	u
+otadžbini	NOUN	otadžbina
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+Oh	INTJ	oh
+,	PUNCT	,
+otadžbino	NOUN	otadžbina
+!	PUNCT	!
+</s>
+<s>
+Oh	INTJ	oh
+,	PUNCT	,
+ime	NOUN	ime
+slatko	NOUN	slatko
+!	PUNCT	!
+</s>
+<s>
+Blago	ADV	blago
+onom	DET	onaj
+ko	PRON	ko
+tebe	PRON	ti
+može	VERB	moći
+svakad	ADV	svakad
+da	SCONJ	da
+ima	VERB	imati
+!	PUNCT	!
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+Opet	ADV	opet
+umuče	VERB	umuknuti
+.	PUNCT	.
+</s>
+<s>
+Hladan	ADJ	hladan
+mu	PRON	on
+znoj	NOUN	znoj
+izbi	VERB	izbiti
+po	ADP	po
+čelu	NOUN	čela
+.	PUNCT	.
+</s>
+<s>
+Posle	ADP	posle
+nekoliko	ADV	nekoliko
+trenutaka	NOUN	trenutak
+nastavi	VERB	nastaviti
+:	PUNCT	:
+</s>
+<s>
+«	PUNCT	«
+Šta	ADV	Šta
+će	AUX	hteti
+ovaj	DET	ovaj
+rat	NOUN	rat
+doneti	VERB	doneti
+srpskom	ADJ	srpski
+narodu	NOUN	narod
+—	PUNCT	—
+ne	PART	ne
+znam	VERB	znati
+;	PUNCT	;
+ali	CCONJ	ali
+znam	VERB	znati
+da	SCONJ	da
+će	AUX	hteti
+skinuti	VERB	skinuti
+kamen	NOUN	kamen
+sa	ADP	sa
+srca	NOUN	srce
+onim	DET	onaj
+Srbima	PROPN	Srbin
+koji	DET	koji
+su	AUX	jesam
+,	PUNCT	,
+kao	CCONJ	kao
+ovo	DET	ovaj
+ja	PRON	ja
+,	PUNCT	,
+u	ADP	u
+tuđini	NOUN	tuđina
+venuli	VERB	venuti
+za	ADP	za
+svojom	DET	svoj
+domovinom	NOUN	domovina
+.	PUNCT	.
+</s>
+<s>
+Ja	PRON	ja
+ne	PART	ne
+pomogoh	VERB	pomoći
+baš	PART	baš
+ništa	ADV	ništa
+!	PUNCT	!
+</s>
+<s>
+Padoh	VERB	pasti
+u	ADP	u
+prvom	ADJ	prvi
+boju	NOUN	boja
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+Neka	PART	neka
+!	PUNCT	!
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+Ne	PART	ne
+mari	VERB	mariti
+ništa	PRON	ništa
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+Bar	PART	bar
+ću	AUX	hteti
+ostaviti	VERB	ostaviti
+kosti	NOUN	kosti
+u	ADP	u
+srpskoj	ADJ	srpski
+zemlji	NOUN	zemlja
+!	PUNCT	!
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+«	PUNCT	«
+Prokleto	VERB	prokleti
+deset	NUM	deset
+para	NOUN	para
+!	PUNCT	!
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+—	PUNCT	—
+Kuku	PROPN	Kuk
+!	PUNCT	!
+to	DET	taj
+je	AUX	jesam
+on	PRON	on
+!	PUNCT	!
+reče	VERB	reći
+potreseno	ADJ	potresen
+bolničarka	NOUN	bolničarka
+Julka	PROPN	Julka
+;	PUNCT	;
+ali	CCONJ	ali
+oni	PRON	oni
+što	SCONJ	što
+behu	AUX	biti
+oko	ADP	oko
+ranjenika	NOUN	ranjenik
+,	PUNCT	,
+gledajući	VERB	gledati
+u	ADP	u
+njega	PRON	on
+,	PUNCT	,
+i	CCONJ	i
+ne	PART	ne
+saslušaše	VERB	saslušati
+ovoga	DET	ovaj
+uzvika	NOUN	uzvik
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+A	CCONJ	a
+ranjenik	NOUN	ranjenik
+,	PUNCT	,
+na	ADP	na
+te	DET	taj
+reči	NOUN	reč
+,	PUNCT	,
+krete	VERB	krenuti
+svoje	DET	svoj
+trome	ADJ	trom
+oči	NOUN	oči
+,	PUNCT	,
+pogleda	VERB	pogledati
+u	ADP	u
+Julku	PROPN	Julka
+,	PUNCT	,
+i	CCONJ	i
+po	ADP	po
+licu	NOUN	lice
+mu	PRON	on
+se	PART	se
+poče	VERB	početi
+razvlačiti	VERB	razvlačiti
+kao	CCONJ	kao
+slabačak	ADJ	slabačak
+osmejak	NOUN	osmejak
+,	PUNCT	,
+pa	CCONJ	pa
+se	PART	se
+brzo	ADV	brzo
+sledi	VERB	slediti
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+Dihanje	NOUN	dihanje
+mu	PRON	on
+se	PART	se
+ubrza	VERB	ubrzati
+,	PUNCT	,
+nemoć	NOUN	nemoć
+se	PART	se
+uveća	VERB	uvećati
+,	PUNCT	,
+oči	NOUN	oči
+se	PART	se
+ukočiše	VERB	ukočiti
+,	PUNCT	,
+i	CCONJ	i
+na	ADP	na
+donjim	ADJ	donji
+trepavicama	NOUN	trepavica
+se	PART	se
+zaviriše	VERB	zaviriti
+nekolike	DET	nekolik
+suze	NOUN	suza
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+Htede	AUX	hteti
+još	ADV	još
+nešto	ADV	nešto
+da	SCONJ	da
+izgovori	VERB	izgovoriti
+,	PUNCT	,
+pa	CCONJ	pa
+ne	PART	ne
+mogaše	VERB	moći
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+Zenu	VERB	zenuti
+jedan	NUM	jedan
+put	NOUN	put
+;	PUNCT	;
+zenu	VERB	zenuti
+drugi	ADJ	drugi
+put	NOUN	put
+i	CCONJ	i
+—	PUNCT	—
+preminu	VERB	preminuti
+!	PUNCT	!
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+Među	PROPN	Međa
+krvavim	ADJ	krvav
+krpama	NOUN	krpa
+,	PUNCT	,
+kojima	DET	koji
+je	AUX	jesam
+sam	AUX	jesam
+zatvarao	VERB	zatvarati
+ranu	NOUN	rana
+svoju	DET	svoj
+,	PUNCT	,
+nađe	VERB	naći
+se	PART	se
+jedna	NUM	jedan
+bela	ADJ	beo
+marama	NOUN	marama
+,	PUNCT	,
+i	CCONJ	i
+na	ADP	na
+jednom	NUM	jedan
+peru	NOUN	pero
+njenom	DET	njen
+behu	AUX	biti
+navezena	VERB	navesti
+dva	NUM	dva
+slova	NOUN	slovo
+R	ADV	R
+.	PUNCT	.
+S	ADP	s
+.	PUNCT	.
+</s>
+<s>
+Brišući	ADV	Brišući
+svoje	DET	svoj
+suzne	ADJ	suzne
+oči	NOUN	oči
+,	PUNCT	,
+bolničarka	NOUN	bolničarka
+Julka	PROPN	Julka
+reče	VERB	reći
+:	PUNCT	:
+</s>
+<s>
+—	PUNCT	—
+Ovo	DET	ovaj
+je	AUX	jesam
+kukavni	ADJ	kukavan
+Rija	NOUN	Rija
+Svilorunić	PROPN	Svilorunić
+.	PUNCT	.
+</s>
+<s>
+Njegova	DET	njegov
+je	AUX	jesam
+ovo	DET	ovaj
+marama	NOUN	marama
+!	PUNCT	!
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+.	PUNCT	.
+</s>
+<s>
+Sutra	ADV	sutra
+dan	NOUN	dan
+su	AUX	jesam
+ga	ADV	ga
+saranili	VERB	saraniti
+u	ADP	u
+badovinačko	ADJ	badovinački
+groblje	NOUN	groblje
+.	PUNCT	.
+</s>
+<s>
+Za	ADP	za
+krstaču	NOUN	krstača
+njegovu	DET	njegov
+osvanu	VERB	osvanuti
+jedno	NUM	jedan
+jutro	NOUN	jutro
+privezan	VERB	privezati
+lep	ADJ	lep
+peškir	NOUN	peškir
+,	PUNCT	,
+i	CCONJ	i
+na	ADP	na
+njemu	PRON	on
+je	AUX	jesam
+izvezeno	VERB	izvesti
+ovo	DET	ovaj
+:	PUNCT	:
+</s>
+<s>
+«	PUNCT	«
+Prokleto	VERB	prokleti
+deset	NUM	deset
+para	NOUN	para
+!	PUNCT	!
+</s>
+<s>
+KRAJ	ADP	kraj
+</s>

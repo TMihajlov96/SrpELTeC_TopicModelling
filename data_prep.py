@@ -1,0 +1,105 @@
+import pandas as pd
+import numpy as np
+import matplotlib as plt
+import plotly
+import spacy
+import nltk
+import re
+import string
+import srbai
+import json
+
+import os,glob
+import pandas as pd
+
+from pathlib import Path
+from typing import List
+from srbai.Alati.Transliterator import transliterate_cir2lat
+
+def load_data(path: Path) -> List[str]:
+    texts = []
+
+    for filename in glob.glob(os.path.join(path, "*.tt")):
+        data = []
+        
+        with open(filename, 'r') as f:
+            for line in f:
+               
+                if line.startswith('<s>') or line.startswith('</s>'):
+                    continue
+                
+                columns = line.strip().split('\t')
+                
+                if len(columns) == 3 and columns[1] != 'PROPN':
+                    data.append(columns[2])
+        
+        text = ' '.join(data)
+        
+        texts.append(text)
+    
+    return texts
+
+def get_stopwords(stopwords_path: List[str], stops_add_path: List[str], save_stopwords_path, transliterate_func=transliterate_cir2lat) -> List[str]:
+    def convert_path_to_list(load_path):
+        with open(load_path, 'r', encoding="utf-8") as f:
+            words = f.read()
+            return list(words.split('\n'))
+    
+    stopwords = convert_path_to_list(stopwords_path)
+    stopwords_add = convert_path_to_list(stops_add_path)
+    
+    stopwords.extend(stopwords_add)
+    
+    if transliterate_func:
+        stopwords = [transliterate_func(word) for word in stopwords]
+    
+    with open(save_stopwords_path, 'w', encoding="utf-8") as file:
+        data_to_write = '\n'.join(stopwords)
+        file.write(data_to_write)
+    
+    return stopwords
+
+def clean_text(text, save_path): #stops
+    cleaned_text = []
+    for t in text:
+        # removing extra whitespace and special characters
+        t = t.replace("\n\n", " ").replace('\n', ' ').replace('—', '').replace('„', '').replace('“','').replace('«', '').replace('»', '').replace('@card@', '').replace('’', '').replace('–', '').replace('\"', '')
+        t = t.translate(str.maketrans(" ", " ", string.punctuation)) # removing puntuation
+        # t = re.sub(r'\b\w{1,2}\b', '', t)
+        # t = " ".join([word for word in t.split() if word.lower() not in stops])
+        t = t.strip() 
+        t = re.sub(" +", " ", t) 
+        if t:
+    
+          cleaned_text.append(t)
+    
+    return cleaned_text
+
+import os
+import json
+
+def save_strings_as_jsonl(strings, folder_path):
+  
+    os.makedirs(folder_path, exist_ok=True)
+
+    for i, text in enumerate(strings):
+        data = {"text": text}
+        
+        file_name = f"file_{i}.jsonl"
+        file_path = os.path.join(folder_path, file_name)
+        
+    
+        with open(file_path, 'w', encoding='utf-8') as f:
+            f.write(json.dumps(data, ensure_ascii=False) + "\n")
+
+if __name__ in "__main__":
+    data_path = "data_lema_pos"
+    texts = load_data(data_path)
+    stopwords_path = "stopwordsSRB.txt"
+    stops_add_path = "stops_extra.txt"
+    save_path = "final_stopwords_lat.txt"
+    stopwords = get_stopwords(stopwords_path, stops_add_path, save_path)
+    cleaned_texts_path = "cleaned_texts/"
+    cleaned_texts = clean_text(texts, cleaned_texts_path)
+    print(len(cleaned_texts))
+    save_strings_as_jsonl(cleaned_texts, cleaned_texts_path)
