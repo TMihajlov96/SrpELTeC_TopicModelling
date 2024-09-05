@@ -30,7 +30,7 @@ def load_data(path: Path) -> List[str]:
                 
                 columns = line.strip().split('\t')
                 
-                if len(columns) == 3 and columns[1] != 'PROPN':
+                if len(columns) == 3 and columns[1] == 'NOUN':
                     data.append(columns[2])
         
         text = ' '.join(data)
