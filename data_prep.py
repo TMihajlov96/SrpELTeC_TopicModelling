@@ -30,7 +30,9 @@ def load_data(path: Path) -> List[str]:
                 
                 columns = line.strip().split('\t')
                 
-                if len(columns) == 3 and columns[1] == 'NOUN':
+                ## za menjanje pos ovde, ako vise pos onda ovo zakomentarisati, korstiti sintaksu ispod
+                if len(columns) == 3 and columns[1] == 'NOUN': 
+                # if len(columns) == 3 and columns[1] in ['NOUN', 'VERB']:
                     data.append(columns[2])
         
         text = ' '.join(data)
