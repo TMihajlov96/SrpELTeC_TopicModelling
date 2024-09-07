@@ -7,3 +7,5 @@
 .vscode
 # Folders
 cleaned_texts
+data
+data_unchunked
